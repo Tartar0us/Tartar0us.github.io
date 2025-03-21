@@ -3,20 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的简单网站</title>
-    <link rel="stylesheet" href="styles.css"> <!-- 引入CSS文件 -->
+    <title>弹窗示例</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <img src="images/logo.png" alt="网站Logo" width="100"> <!-- 引用图片 -->
-        <h1>欢迎来到我的网站</h1>
-    </header>
-    <main>
-        <p>这是一个简单的静态网站，希望你喜欢！</p>
-        <button onclick="alert('你好，世界！')">点击我</button> <!-- 简单的交互 -->
-    </main>
-    <footer>
-        <p>&copy; 2025 我的网站</p>
-    </footer>
+
+<header>
+    <h1>我的网页</h1>
+</header>
+
+<main>
+    <button id="myBtn">点击我</button>
+</main>
+
+<!-- 弹窗 -->
+<div id="myModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>二十七步天注定，逆流河上任我行</p>
+    </div>
+</div>
+
+<footer>
+    <p>我的网页的页脚</p>
+</footer>
+
+<script>
+// 获取弹窗元素
+var modal = document.getElementById("myModal");
+
+// 获取按钮元素
+var btn = document.getElementById("myBtn");
+
+// 获取关闭按钮
+var span = document.getElementsByClassName("close")[0];
+
+// 当用户点击按钮时，显示弹窗
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// 当用户点击关闭按钮时，关闭弹窗
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// 当用户点击弹窗外部区域时，关闭弹窗
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
 </body>
 </html>
