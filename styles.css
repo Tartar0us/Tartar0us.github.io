@@ -1,8 +1,8 @@
 /* 设置全局样式 */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #000; /* 背景颜色改为黑色 */
+    color: #32cd32; /* 字体颜色改为绿色 */
     margin: 0;
     padding: 0;
 }
@@ -10,17 +10,39 @@ body {
 /* 设置头部样式 */
 header {
     background-color: #007bff;
-    color: white;
-    padding: 10px 20px;
+    color: #32cd32; /* 头部文字颜色为绿色 */
+    padding: 15px 20px;
     text-align: center;
 }
 
 header img {
     border-radius: 50%; /* 圆形图片 */
+    width: 50px;
+    height: 50px;
 }
 
 header h1 {
-    margin: 0;
+    margin: 10px 0;
+    font-size: 2rem;
+}
+
+/* 设置导航栏样式 */
+nav {
+    background-color: #111; /* 导航栏背景色 */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #32cd32; /* 导航文字绿色 */
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+nav a:hover {
+    background-color: #007bff; /* 鼠标悬浮时，背景色变为蓝色 */
+    color: white;
 }
 
 /* 设置主体内容样式 */
@@ -29,6 +51,7 @@ main {
     text-align: center;
 }
 
+/* 设置按钮样式 */
 button {
     background-color: #007bff;
     color: white;
@@ -39,13 +62,28 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; /* 鼠标悬浮时，背景色变为深蓝 */
+}
+
+/* 设置卡片样式 */
+.card {
+    background-color: #222;
+    color: #32cd32;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px); /* 鼠标悬浮时，卡片上浮 */
 }
 
 /* 设置页脚样式 */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #111;
+    color: #32cd32;
     text-align: center;
     padding: 10px 0;
     position: fixed;
