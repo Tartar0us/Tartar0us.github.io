@@ -9,7 +9,7 @@ body {
 
 /* 设置头部样式 */
 header {
-    background-color: #007bff;
+    background-color: #000;
     color: #32cd32; /* 头部文字颜色为绿色 */
     padding: 15px 20px;
     text-align: center;
