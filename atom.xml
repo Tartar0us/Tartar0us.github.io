@@ -44,6 +44,21 @@
         <updated>2025-07-28T11:07:06.000Z</updated>
     </entry>
     <entry>
+        <id>https://tartar0us.github.io/markdown%20/</id>
+        <title></title>
+        <link rel="alternate" href="https://tartar0us.github.io/markdown%20/"/>
+        <content type="html">&lt;p&gt;第二篇 blog&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog 更新指令&lt;/li&gt;
+&lt;li&gt;hexo clean 清理当前缓存的静态页面&lt;/li&gt;
+&lt;li&gt;hexo generate 生成新的静态页面&lt;/li&gt;
+&lt;li&gt;hexo deploy 将生成的静态页面挂到 github 之类的网站进行代理&lt;/li&gt;
+&lt;li&gt;hexo server 启动本地服务器，预览静态页面&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2025-07-28T03:07:14.398Z</updated>
+    </entry>
+    <entry>
         <id>https://tartar0us.github.io/wuuu/</id>
         <title>1433223</title>
         <link rel="alternate" href="https://tartar0us.github.io/wuuu/"/>
