@@ -44,9 +44,9 @@
         <updated>2025-07-28T11:07:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://tartar0us.github.io/markdown%20/</id>
-        <title></title>
-        <link rel="alternate" href="https://tartar0us.github.io/markdown%20/"/>
+        <id>https://tartar0us.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>我的第二篇Hexo博客</title>
+        <link rel="alternate" href="https://tartar0us.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
         <content type="html">&lt;p&gt;第二篇 blog&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;blog 更新指令&lt;/li&gt;
@@ -56,7 +56,10 @@
 &lt;li&gt;hexo server 启动本地服务器，预览静态页面&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <updated>2025-07-28T03:07:14.398Z</updated>
+        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+        <updated>2025-07-28T02:27:30.000Z</updated>
     </entry>
     <entry>
         <id>https://tartar0us.github.io/wuuu/</id>

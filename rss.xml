@@ -47,10 +47,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/markdown%20/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/markdown%20/</link>
-            <pubDate>Mon, 28 Jul 2025 11:07:14 +0800</pubDate>
+            <guid isPermalink="true">https://tartar0us.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>我的第二篇Hexo博客</title>
+            <link>https://tartar0us.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+            <pubDate>Mon, 28 Jul 2025 10:27:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;第二篇 blog&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;blog 更新指令&lt;/li&gt;
