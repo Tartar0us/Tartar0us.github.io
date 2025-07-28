@@ -1,26 +1,30 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Hexo</title>
-    <subtitle></subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <id>https://Tartar0us.github.io</id>
+    <title>Tartar0us的博客</title>
+    <subtitle>记录生活，分享技术</subtitle>
+    <icon>https://tartar0us.github.io/images/favicon.ico</icon>
+    <link href="https://Tartar0us.github.io" />
     <author>
-      <name>John Doe</name>
+      <name>Tartar0us</name>
     </author>
     <updated>2025-07-26T02:58:10.000Z</updated>
+    <category term="技术" />
+    <category term="编程" />
+    <category term="生活" />
+    <category term="博客" />
     <entry>
-        <id>http://example.com/wuuu/</id>
+        <id>https://tartar0us.github.io/wuuu/</id>
         <title>1433223</title>
-        <link rel="alternate" href="http://example.com/wuuu/"/>
+        <link rel="alternate" href="https://tartar0us.github.io/wuuu/"/>
         <content type="html">&lt;p&gt;### 欢！！！&lt;/p&gt;
 </content>
         <updated>2025-07-26T02:58:10.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/hello-world/</id>
+        <id>https://tartar0us.github.io/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/hello-world/"/>
+        <link rel="alternate" href="https://tartar0us.github.io/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -39,9 +43,9 @@
         <updated>2025-07-26T02:51:28.060Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
         <title>我的第一篇Hexo博客</title>
-        <link rel="alternate" href="http://example.com/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <link rel="alternate" href="https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
 &lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
 &lt;ul&gt;
@@ -61,9 +65,9 @@
 &lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/" />
-        <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
         <updated>2023-11-01T02:00:00.000Z</updated>
     </entry>
 </feed>
