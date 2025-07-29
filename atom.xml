@@ -227,10 +227,10 @@
 &lt;h3 id=&#34;数据分析师的sql要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的sql要求&#34;&gt;#&lt;/a&gt; 数据分析师的 sql 要求&lt;/h3&gt;
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
         <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
         <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
         <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
-        <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
         <updated>2025-07-28T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -274,36 +274,6 @@
         <updated>2025-07-26T02:51:28.060Z</updated>
     </entry>
     <entry>
-        <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-        <title>我的第一篇Hexo博客</title>
-        <link rel="alternate" href="https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
-&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
-&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
-&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
-&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
-&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
-&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-上面这张图片是让 AI 生成的&lt;br /&gt;
-&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
-        <updated>2025-07-25T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</id>
         <title>博客的完善</title>
         <link rel="alternate" href="https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/"/>
@@ -338,6 +308,36 @@
 &lt;/ul&gt;
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+        <updated>2025-07-25T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>我的第一篇Hexo博客</title>
+        <link rel="alternate" href="https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
+&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
+&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
+&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
+&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
+&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
+&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+上面这张图片是让 AI 生成的&lt;br /&gt;
+&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
         <updated>2025-07-25T16:00:00.000Z</updated>
