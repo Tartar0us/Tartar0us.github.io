@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Tartar0us的博客</title>
+        <title>Tartar0us&#39;s Blog</title>
         <subtitle>高台藏鼠辈，乡野卧麒麟</subtitle>
         <icon>https://tartar0us.github.io/images/favicon.ico</icon>
         <link>https://Tartar0us.github.io</link>
@@ -10,12 +10,30 @@
         </author>
         <description>你所厌恶的今天，是昨日死去之人苦苦奢望的明天</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 28 Jul 2025 19:07:06 +0800</pubDate>
-        <lastBuildDate>Mon, 28 Jul 2025 19:07:06 +0800</lastBuildDate>
-        <category term="技术" />
-        <category term="编程" />
-        <category term="生活" />
-        <category term="博客" />
+        <pubDate>Tue, 29 Jul 2025 15:31:30 +0800</pubDate>
+        <lastBuildDate>Tue, 29 Jul 2025 15:31:30 +0800</lastBuildDate>
+        <category term="1111111111111111111111" />
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>我的第三篇Hexo博客</title>
+            <link>https://tartar0us.github.io/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+            <pubDate>Tue, 29 Jul 2025 15:31:30 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;数据分析师的python要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的python要求&#34;&gt;#&lt;/a&gt; 数据分析师的 python 要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1. 掌握 python 基本语法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2. 会基本使用 pandas&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数据分析师的excel要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的excel要求&#34;&gt;#&lt;/a&gt; 数据分析师的 excel 要求&lt;/h2&gt;
+&lt;h2 id=&#34;数据分析师的sql要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的sql要求&#34;&gt;#&lt;/a&gt; 数据分析师的 sql 要求&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
             <title>我的第一篇Hexo博客</title>

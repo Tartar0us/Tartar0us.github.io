@@ -1,18 +1,36 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tartar0us.github.io</id>
-    <title>Tartar0us的博客</title>
+    <title>Tartar0us&#39;s Blog</title>
     <subtitle>高台藏鼠辈，乡野卧麒麟</subtitle>
     <icon>https://tartar0us.github.io/images/favicon.ico</icon>
     <link href="https://Tartar0us.github.io" />
     <author>
       <name>Tartar0us</name>
     </author>
-    <updated>2025-07-28T11:07:06.000Z</updated>
-    <category term="技术" />
-    <category term="编程" />
-    <category term="生活" />
-    <category term="博客" />
+    <updated>2025-07-29T07:31:30.000Z</updated>
+    <category term="1111111111111111111111" />
+    <entry>
+        <id>https://tartar0us.github.io/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>我的第三篇Hexo博客</title>
+        <link rel="alternate" href="https://tartar0us.github.io/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h2 id=&#34;数据分析师的python要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的python要求&#34;&gt;#&lt;/a&gt; 数据分析师的 python 要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1. 掌握 python 基本语法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2. 会基本使用 pandas&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数据分析师的excel要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的excel要求&#34;&gt;#&lt;/a&gt; 数据分析师的 excel 要求&lt;/h2&gt;
+&lt;h2 id=&#34;数据分析师的sql要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的sql要求&#34;&gt;#&lt;/a&gt; 数据分析师的 sql 要求&lt;/h2&gt;
+</content>
+        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+        <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+        <updated>2025-07-29T07:31:30.000Z</updated>
+    </entry>
     <entry>
         <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
         <title>我的第一篇Hexo博客</title>
