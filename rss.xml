@@ -267,6 +267,36 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>我的第一篇Hexo博客</title>
+            <link>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+            <pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
+&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
+&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
+&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
+&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
+&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
+&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+上面这张图片是让 AI 生成的&lt;br /&gt;
+&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</guid>
             <title>博客的完善</title>
             <link>https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</link>
@@ -306,42 +336,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-            <title>我的第一篇Hexo博客</title>
-            <link>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
-            <pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
-&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
-&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
-&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
-&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
-&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
-&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-上面这张图片是让 AI 生成的&lt;br /&gt;
-&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
-&lt;/blockquote&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>7月22日日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <pubDate>Tue, 22 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。&lt;/p&gt;
 &lt;p&gt;早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。&lt;/p&gt;
@@ -352,6 +352,31 @@
 &lt;p&gt;好像没怎么完成自己给自己布置的任务，有点懒惰，慢慢来吧！&lt;/p&gt;
 &lt;p&gt;晓蝶姐说 sql 没必要现在着急学，现在可以看看随机森林，lstm，回归模型，还有线性规划等等等等。&lt;/p&gt;
 &lt;p&gt;我要自己学这些内容，还有英语，还有 python，这个下学期会用到，然后还有数学建模，还有 mark down 之类的语言。感觉玩电脑真的是一个非常有意思的过程，你可以创造很多新的东西，你还可以在学习的过程中学到更多的英语，这真的是一个很不错的事情&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月21日日记</title>
+            <link>https://tartar0us.github.io/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <pubDate>Mon, 21 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;pre&gt;&lt;code&gt;昨天20号，晚上和张紫旭一家一起吃饭了，还有一个小姑娘，平时这个小姑娘学文科的，经常六百多，张紫旭平时550，但是高考的时候他俩反过来了，张紫旭604，小姑娘我看应该是560左右，录取上了齐鲁工业大学的法学，然后张紫旭应该是被大连海事大学的计算机录取了。有点可惜差一点成校友了，因为他报志愿的时候把计算机全都放前面了，而不是专注于院校。要是把东秦的都放在前面就稳来了。
+
+感觉昨天这两个哥们都挺帅的，张紫旭打扮的非常帅，烫头韩式纹理，然后还有好多耳夹，甚至还有狼尾
+
+哦卧槽我想起来昨天上午去哪了，昨天上午回老家了，姑姑姑父表哥也回去了。吃饭到最后一直在批判我表哥，考研没考上，现在在家里还偶尔打游戏，考教师资格也没考上，当时最可惜的是潍柴来校招没去。哎。潍柴真的是一个很好的企业。然后现在在家也不上班，学习也不好好学，应该是准备二战了，但是也没有把心思全部放在学习上。有点愁人。自己不学别人怎么劝也没用。还是得自己幡然醒悟。   说实话，我觉得如果一个大学生，大学英语四级大学四年一直考一直没过的话，我觉得他这辈子也就这样了，如果一直维持下去。这个东西只要肯背单词，都能过的。
+
+  19号下午开班会的时候说了劳动教育的事，我回老家的时候做了一顿排骨，然后好像是忘了记录家人的反馈了。。。没关系，视频和照片拍摄了。一定要拉满，周末的时候积极搞这些东西，争取不要等到最后 的ddl
+
+  今天的话早上摆烂，中午在家吃，下午一共四个人开车来石家庄，定了酒店，距离公司还挺近的，步行六百多米，然后明天就要去上班哩。有点激动。
+
+ 今天晚上在孙大厨吃完饭出来之后，饭店门口围了一群精神小妹，手里拿着ktv的优惠卷问我们：“哥去不去唱歌“   我觉得他们还挺聪明的，知道在好的饭店门口问，不去烧烤摊之类的地方。但是感觉收入肯定很微薄，还不如进厂努努力，虽然累，但是起码比这样挣得多。
+
+今天晚上和张紫旭 加上他表哥一起玩了pubg，卡的不行，第一次知道打游戏要开显卡。有点意思哈。然后明天准备跟着刘晓蝶姐姐学习了。加油
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;——————&lt;/p&gt;
  ]]></description>
         </item>
         <item>
