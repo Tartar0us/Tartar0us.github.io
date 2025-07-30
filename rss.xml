@@ -10,28 +10,16 @@
         </author>
         <description>你所厌恶的今天，是昨日死去之人苦苦奢望的明天</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 30 Jul 2025 10:00:00 +0800</pubDate>
-        <lastBuildDate>Wed, 30 Jul 2025 10:00:00 +0800</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0800</lastBuildDate>
         <category term="1111111111111111111111" />
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/python%20demo/</guid>
-            <title>Python Demo</title>
-            <link>https://tartar0us.github.io/python%20demo/</link>
-            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
-            <category term="编程" scheme="https://tartar0us.github.io/tags/%E7%BC%96%E7%A8%8B/" />
-            <pubDate>Wed, 30 Jul 2025 10:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这是一个 Python 基础语法演示，包含复数运算、字符串格式化等内容。&lt;/p&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>7月29日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
 &lt;ul&gt;
@@ -58,6 +46,16 @@
 &lt;ul&gt;
 &lt;li&gt;火影日常 + 上忍二&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;^+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.771331em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.771331em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/python%20demo/</guid>
+            <title>python demo1</title>
+            <link>https://tartar0us.github.io/python%20demo/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -202,9 +200,9 @@
             <link>https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/</link>
             <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
             <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
             <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
             <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
-            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
             <pubDate>Tue, 29 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;这是一段引用文字&lt;/p&gt;
@@ -355,8 +353,8 @@
             <title>7月22日日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
             <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
             <pubDate>Tue, 22 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。&lt;/p&gt;
 &lt;p&gt;早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。&lt;/p&gt;
@@ -374,8 +372,8 @@
             <title>7月21日日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Mon, 21 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;pre&gt;&lt;code&gt;昨天20号，晚上和张紫旭一家一起吃饭了，还有一个小姑娘，平时这个小姑娘学文科的，经常六百多，张紫旭平时550，但是高考的时候他俩反过来了，张紫旭604，小姑娘我看应该是560左右，录取上了齐鲁工业大学的法学，然后张紫旭应该是被大连海事大学的计算机录取了。有点可惜差一点成校友了，因为他报志愿的时候把计算机全都放前面了，而不是专注于院校。要是把东秦的都放在前面就稳来了。
 

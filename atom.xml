@@ -8,20 +8,8 @@
     <author>
       <name>Tartar0us</name>
     </author>
-    <updated>2025-07-30T02:00:00.000Z</updated>
+    <updated>2025-07-29T16:00:00.000Z</updated>
     <category term="1111111111111111111111" />
-    <entry>
-        <id>https://tartar0us.github.io/python%20demo/</id>
-        <title>Python Demo</title>
-        <link rel="alternate" href="https://tartar0us.github.io/python%20demo/"/>
-        <content type="html">&lt;p&gt;这是一个 Python 基础语法演示，包含复数运算、字符串格式化等内容。&lt;/p&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
-</content>
-        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-        <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
-        <category term="编程" scheme="https://tartar0us.github.io/tags/%E7%BC%96%E7%A8%8B/" />
-        <updated>2025-07-30T02:00:00.000Z</updated>
-    </entry>
     <entry>
         <id>https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
         <title>7月29日记</title>
@@ -53,8 +41,18 @@
 &lt;/ul&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <updated>2025-07-29T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://tartar0us.github.io/python%20demo/</id>
+        <title>python demo1</title>
+        <link rel="alternate" href="https://tartar0us.github.io/python%20demo/"/>
+        <content type="html">&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+</content>
+        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
         <updated>2025-07-29T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -233,9 +231,9 @@
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+        <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
         <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
         <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
-        <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
         <updated>2025-07-28T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -362,8 +360,8 @@
 &lt;p&gt;我要自己学这些内容，还有英语，还有 python，这个下学期会用到，然后还有数学建模，还有 mark down 之类的语言。感觉玩电脑真的是一个非常有意思的过程，你可以创造很多新的东西，你还可以在学习的过程中学到更多的英语，这真的是一个很不错的事情&lt;/p&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <updated>2025-07-21T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -387,8 +385,8 @@
 &lt;p&gt;——————&lt;/p&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <updated>2025-07-20T16:00:00.000Z</updated>
     </entry>
     <entry>
