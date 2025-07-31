@@ -14,8 +14,8 @@
             "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
             "tags": [
                 "生活",
-                "成长",
-                "博客"
+                "博客",
+                "成长"
             ]
         },
         {
@@ -42,17 +42,18 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/",
-            "url": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/",
-            "title": "第三篇博客",
+            "id": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/",
+            "url": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/",
+            "title": "数据分析",
             "date_published": "2025-07-28T16:00:00.000Z",
-            "content_html": "<blockquote>\n<p>这是一段引用文字</p>\n</blockquote>\n<h2 id=\"数据分析学习路径\"><a class=\"anchor\" href=\"#数据分析学习路径\">#</a> 数据分析学习路径</h2>\n<h3 id=\"需要掌握的知识\"><a class=\"anchor\" href=\"#需要掌握的知识\">#</a> 需要掌握的知识</h3>\n<ul>\n<li>理论知识</li>\n<li>业务知识（实践中学习）</li>\n</ul>\n<h3 id=\"学习的五个层次\"><a class=\"anchor\" href=\"#学习的五个层次\">#</a> 学习的五个层次</h3>\n<p><img data-src=\"/images/pic.png\" alt=\"我的背景图\" /></p>\n<p>晓蝶姐说 :</p>\n<blockquote>\n<p>&quot;现在都是 ai 写代码了，我建议你学 python 语法的话能先看懂他写的就行，不用特别细致，找个项目快速过一遍整个流程，后边再具体的去学语法或者流程中的某个具体知识&quot;</p>\n</blockquote>\n<h3 id=\"数据分析师的python要求\"><a class=\"anchor\" href=\"#数据分析师的python要求\">#</a> 数据分析师的 python 要求</h3>\n<ul>\n<li>\n<p>1. 掌握 python 基本语法</p>\n</li>\n<li>\n<p>2. 会基本使用 pandas</p>\n</li>\n<li></li>\n</ul>\n<h3 id=\"数据分析师的excel要求\"><a class=\"anchor\" href=\"#数据分析师的excel要求\">#</a> 数据分析师的 excel 要求</h3>\n<ul>\n<li>详情见这个视频</li>\n</ul>\n<blockquote>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5xNHkxZDdyZz9zcG1faWRfZnJvbT0zMzMuNzg4LnZpZGVvcG9kLnNlY3Rpb25zJmFtcDt2ZF9zb3VyY2U9NTAyZWNhYjJmOGJlYzgwMGVjZDk0MTVmNzJmOGE5YTY=\">https://www.bilibili.com/video/BV1nq4y1d7rg?spm_id_from=333.788.videopod.sections&amp;vd_source=502ecab2f8bec800ecd9415f72f8a9a6</span></p>\n</blockquote>\n<h3 id=\"数据分析师的sql要求\"><a class=\"anchor\" href=\"#数据分析师的sql要求\">#</a> 数据分析师的 sql 要求</h3>\n",
+            "content_html": "<blockquote>\n<p>这是一段引用文字</p>\n</blockquote>\n<h2 id=\"数据分析学习路径\"><a class=\"anchor\" href=\"#数据分析学习路径\">#</a> 数据分析学习路径</h2>\n<h3 id=\"需要掌握的知识\"><a class=\"anchor\" href=\"#需要掌握的知识\">#</a> 需要掌握的知识</h3>\n<ul>\n<li>理论知识</li>\n<li>业务知识（实践中学习）</li>\n</ul>\n<h3 id=\"学习的五个层次\"><a class=\"anchor\" href=\"#学习的五个层次\">#</a> 学习的五个层次</h3>\n<p><img data-src=\"/images/pic.png\" alt=\"我的背景图\" /></p>\n<p>晓蝶姐说 :</p>\n<blockquote>\n<p>&quot;现在都是 ai 写代码了，我建议你学 python 语法的话能先看懂他写的就行，不用特别细致，找个项目快速过一遍整个流程，后边再具体的去学语法或者流程中的某个具体知识&quot;</p>\n</blockquote>\n<h3 id=\"数据分析师的python要求\"><a class=\"anchor\" href=\"#数据分析师的python要求\">#</a> 数据分析师的 python 要求</h3>\n<ul>\n<li>\n<p>1. 掌握 python 基本语法</p>\n</li>\n<li>\n<p>2. 会基本使用 pandas</p>\n</li>\n<li></li>\n</ul>\n<h3 id=\"数据分析师的excel要求\"><a class=\"anchor\" href=\"#数据分析师的excel要求\">#</a> 数据分析师的 excel 要求</h3>\n<ul>\n<li>详情见这个视频</li>\n</ul>\n<blockquote>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5xNHkxZDdyZz9zcG1faWRfZnJvbT0zMzMuNzg4LnZpZGVvcG9kLnNlY3Rpb25zJmFtcDt2ZF9zb3VyY2U9NTAyZWNhYjJmOGJlYzgwMGVjZDk0MTVmNzJmOGE5YTY=\">https://www.bilibili.com/video/BV1nq4y1d7rg?spm_id_from=333.788.videopod.sections&amp;vd_source=502ecab2f8bec800ecd9415f72f8a9a6</span></p>\n</blockquote>\n<h3 id=\"数据分析师的sql要求\"><a class=\"anchor\" href=\"#数据分析师的sql要求\">#</a> 数据分析师的 sql 要求</h3>\n<h2 id=\"数据分析的主要流程\"><a class=\"anchor\" href=\"#数据分析的主要流程\">#</a> 数据分析的主要流程</h2>\n<h3 id=\"一-数据预处理\"><a class=\"anchor\" href=\"#一-数据预处理\">#</a> 一、数据预处理</h3>\n<p>1. 对脏数据、空缺数据进行处理，填充或删除（只针对时序数据中的缺失）</p>\n<h3 id=\"二-数据分类\"><a class=\"anchor\" href=\"#二-数据分类\">#</a> 二、数据分类</h3>\n<ol>\n<li>分成两个集，训练集和测试集，一般比例为 8：2，随机分配</li>\n</ol>\n<h3 id=\"三-模型建立还有可能不是模型\"><a class=\"anchor\" href=\"#三-模型建立还有可能不是模型\">#</a> 三、模型建立（还有可能不是模型）</h3>\n<p>模型是通过经验，让机器吃这些数据，然后预测未来的情况，而另一种办法是直接同数据中计算出公式，未来的预测直接用公式计算解决（这种方法称为机理）</p>\n<p>1. 运用各种模型，随机森林，xgboost</p>\n<h3 id=\"四-结果分析\"><a class=\"anchor\" href=\"#四-结果分析\">#</a> 四、结果分析</h3>\n<ul>\n<li>\n<p>精确率，召回率等</p>\n</li>\n<li>\n<p>实用的数据库工具：Navicat Premium</p>\n</li>\n</ul>\n<h3 id=\"五-可能存在的盲点或信息差\"><a class=\"anchor\" href=\"#五-可能存在的盲点或信息差\">#</a> 五、可能存在的盲点或信息差</h3>\n<ul>\n<li>，其语言是 sql，做数据分析最重要的是模型建立的部分，sql 只是一个在数据库中读取数据的工具</li>\n</ul>\n",
             "tags": [
                 "技术",
                 "实习",
                 "md",
                 "Python",
-                "SQL"
+                "SQL",
+                "数据分析"
             ]
         },
         {
@@ -121,8 +122,8 @@
             "content_html": "<pre><code>昨天20号，晚上和张紫旭一家一起吃饭了，还有一个小姑娘，平时这个小姑娘学文科的，经常六百多，张紫旭平时550，但是高考的时候他俩反过来了，张紫旭604，小姑娘我看应该是560左右，录取上了齐鲁工业大学的法学，然后张紫旭应该是被大连海事大学的计算机录取了。有点可惜差一点成校友了，因为他报志愿的时候把计算机全都放前面了，而不是专注于院校。要是把东秦的都放在前面就稳来了。\n\n感觉昨天这两个哥们都挺帅的，张紫旭打扮的非常帅，烫头韩式纹理，然后还有好多耳夹，甚至还有狼尾\n\n哦卧槽我想起来昨天上午去哪了，昨天上午回老家了，姑姑姑父表哥也回去了。吃饭到最后一直在批判我表哥，考研没考上，现在在家里还偶尔打游戏，考教师资格也没考上，当时最可惜的是潍柴来校招没去。哎。潍柴真的是一个很好的企业。然后现在在家也不上班，学习也不好好学，应该是准备二战了，但是也没有把心思全部放在学习上。有点愁人。自己不学别人怎么劝也没用。还是得自己幡然醒悟。   说实话，我觉得如果一个大学生，大学英语四级大学四年一直考一直没过的话，我觉得他这辈子也就这样了，如果一直维持下去。这个东西只要肯背单词，都能过的。\n\n  19号下午开班会的时候说了劳动教育的事，我回老家的时候做了一顿排骨，然后好像是忘了记录家人的反馈了。。。没关系，视频和照片拍摄了。一定要拉满，周末的时候积极搞这些东西，争取不要等到最后 的ddl\n\n  今天的话早上摆烂，中午在家吃，下午一共四个人开车来石家庄，定了酒店，距离公司还挺近的，步行六百多米，然后明天就要去上班哩。有点激动。\n\n 今天晚上在孙大厨吃完饭出来之后，饭店门口围了一群精神小妹，手里拿着ktv的优惠卷问我们：“哥去不去唱歌“   我觉得他们还挺聪明的，知道在好的饭店门口问，不去烧烤摊之类的地方。但是感觉收入肯定很微薄，还不如进厂努努力，虽然累，但是起码比这样挣得多。\n\n今天晚上和张紫旭 加上他表哥一起玩了pubg，卡的不行，第一次知道打游戏要开显卡。有点意思哈。然后明天准备跟着刘晓蝶姐姐学习了。加油\n</code></pre>\n<p>——————</p>\n",
             "tags": [
                 "生活",
-                "成长",
-                "博客"
+                "博客",
+                "成长"
             ]
         },
         {
