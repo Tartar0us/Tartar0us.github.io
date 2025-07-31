@@ -56,6 +56,37 @@
             <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
             <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;写函数的时候用print输出好还是用return输出好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写函数的时候用print输出好还是用return输出好&#34;&gt;#&lt;/a&gt; 写函数的时候用 print 输出好还是用 return 输出好？&lt;/h3&gt;
+&lt;h5 id=&#34;一-用return-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-用return-的优势&#34;&gt;#&lt;/a&gt; 一、用 return 的优势&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;单一职责原则&lt;/strong&gt;&lt;br /&gt;
+函数的核心职责是 “计算数据”（实现加法逻辑），而 “输出结果” 属于展示层面的行为。第一种方式中， &lt;code&gt;plus&lt;/code&gt;  函数专注于计算  &lt;code&gt;a + b&lt;/code&gt;  的结果并通过  &lt;code&gt;return&lt;/code&gt;  返回，把 “计算” 和 “输出” 的职责分开，符合编程里的&lt;strong&gt;单一职责原则&lt;/strong&gt;，函数功能更纯粹、清晰。&lt;br /&gt;
+比如，后续如果不想打印结果，而是要把这个和用于其他计算（如参与更复杂的公式、存入列表等），直接使用  &lt;code&gt;return&lt;/code&gt;  的结果即可，灵活性更高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结果可复用&lt;/strong&gt;&lt;br /&gt;
+ &lt;code&gt;return&lt;/code&gt;  返回的是一个明确的值，这个值可以被调用处灵活处理：既可以用  &lt;code&gt;print&lt;/code&gt;  输出，也能赋值给变量参与其他逻辑。例如：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;python&lt;/p&gt;
+&lt;p&gt;运行&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼1–&amp;gt;&lt;/p&gt;
+&lt;p&gt;如果是第二种方式（函数内部直接  &lt;code&gt;print&lt;/code&gt;  ），就无法直接获取计算结果做后续处理，函数的复用性大打折扣。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;符合函数设计理念&lt;/strong&gt;&lt;br /&gt;
+函数的本质是 “输入一些数据，经过处理后输出（返回）另一些数据”， &lt;code&gt;return&lt;/code&gt;  是实现这一流程的标准方式。它清晰地界定了函数的输入输出，让代码逻辑更易理解、维护，其他人阅读代码时，能快速知道函数会产出什么结果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;作用域&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作用域&#34;&gt;#&lt;/a&gt; 作用域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;函数中如果定义了变量，那么这个变量就只能在函数内使用，是一个局部变量，如果在函数外使用会报错&lt;/li&gt;
+&lt;li&gt;如果局部变量与全局变量同名，在函数中优先调用局部变量，除非声明 global XXXX&lt;/li&gt;
+&lt;li&gt;for 循环里的变量可以在循环外使用，虽然可以但是不建议，这不标准&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;for循环体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#for循环体&#34;&gt;#&lt;/a&gt; for 循环体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;python 中的 for 循环和 c 语言中的 for 循环有较大差别，c 语言中 for 后面的括号跟着执行条件，在执行循环之前先判断条件。而 python 中的 for 指令默认遍历，如果想要加条件需要在循环体中加。&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -81,7 +112,7 @@
 &lt;li&gt;在 obsidian 中暂时不用担心文章 title 和日期之类的，因为有快捷按键可以设置&lt;/li&gt;
 &lt;li&gt;好像我目前除了会写个标题和正文之外不会别的了（）&lt;/li&gt;
 &lt;li&gt;两个 *（星号）之间的字体是斜体，例如：&lt;em&gt;你好&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;两个～（波浪线）之间的字是什么  例如：&lt;sub&gt;hell0&lt;/sub&gt;&lt;/li&gt;
+&lt;li&gt;两个～（波浪线）之间的字是一段被删除线标记的文本 例如：&lt;s&gt;hell0&lt;/s&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;下面是ai生成的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下面是ai生成的&#34;&gt;#&lt;/a&gt; 下面是 AI 生成的&lt;/h1&gt;
 &lt;h3 id=&#34;三-文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-文本样式&#34;&gt;#&lt;/a&gt; 三、文本样式&lt;/h3&gt;
@@ -353,8 +384,8 @@
             <title>7月22日日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <pubDate>Tue, 22 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。&lt;/p&gt;
 &lt;p&gt;早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。&lt;/p&gt;
