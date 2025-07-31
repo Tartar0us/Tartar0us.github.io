@@ -7,19 +7,42 @@
     "home_page_url": "https://Tartar0us.github.io",
     "items": [
         {
+            "id": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6/",
+            "url": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6/",
+            "title": "留学信息",
+            "date_published": "2025-07-31T16:00:00.000Z",
+            "content_html": "<h2 id=\"目标院校\"><a class=\"anchor\" href=\"#目标院校\">#</a> 目标院校</h2>\n<ul>\n<li>新加坡国立大学（NUS）</li>\n<li>新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业</li>\n<li>香港大学</li>\n<li>香港中文大学</li>\n<li>香港科技大学</li>\n<li>帝国理工学院（IC）</li>\n</ul>\n<h2 id=\"需要准备的内容按照重要程度排序\"><a class=\"anchor\" href=\"#需要准备的内容按照重要程度排序\">#</a> 需要准备的内容（按照重要程度排序）</h2>\n<h4 id=\"1绩点\"><a class=\"anchor\" href=\"#1绩点\">#</a> 1. 绩点</h4>\n<ul>\n<li>港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力</li>\n</ul>\n<h4 id=\"2语言\"><a class=\"anchor\" href=\"#2语言\">#</a> 2. 语言</h4>\n<ul>\n<li>这个算一个标准，一个要求，港新是总分 6.5 就可以</li>\n<li>但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上</li>\n<li>韦姐高考英语 146，自学的 7.5 分，太强哩</li>\n<li></li>\n</ul>\n<h4 id=\"3实习\"><a class=\"anchor\" href=\"#3实习\">#</a> 3. 实习</h4>\n<ul>\n<li>与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历</li>\n</ul>\n<h4 id=\"4kaggle\"><a class=\"anchor\" href=\"#4kaggle\">#</a> 4.kaggle</h4>\n<ul>\n<li>此条不具有通用性</li>\n<li>kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。</li>\n</ul>\n<h4 id=\"5学术\"><a class=\"anchor\" href=\"#5学术\">#</a> 5. 学术</h4>\n<ul>\n<li>发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树<br />\n有</li>\n</ul>\n",
+            "tags": [
+                "学业",
+                "留学"
+            ]
+        },
+        {
             "id": "https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
             "url": "https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
-            "title": "",
+            "title": "非线性规划",
             "date_published": "2025-07-31T06:48:28.358Z",
-            "content_html": "",
+            "content_html": "<h2 id=\"非线性规划定义\"><a class=\"anchor\" href=\"#非线性规划定义\">#</a> 非线性规划定义</h2>\n<ul>\n<li>当目标函数和约束条件中有一个是决策变量 x 的非线性表达式时，这个数学求解问题是非线性规划问题。</li>\n</ul>\n<h2 id=\"解法\"><a class=\"anchor\" href=\"#解法\">#</a> 解法</h2>\n<p>目前没有统一的解法，都是在选定决策变量的初始值之后搜索方法</p>\n",
             "tags": []
+        },
+        {
+            "id": "https://tartar0us.github.io/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月31日日记",
+            "date_published": "2025-07-30T16:00:00.000Z",
+            "content_html": "<h2 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h2>\n<ul>\n<li>看着文件夹里的 md 文件越来越多，很有成就感</li>\n<li>上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）</li>\n<li><strong>我要给我的博客定一个标准</strong>：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。</li>\n<li>一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结</li>\n</ul>\n<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。</li>\n<li>学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。</li>\n<li>总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰</li>\n</ul>\n<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。</li>\n<li>起床打了一把吃鸡，现在零点半，在写日记</li>\n<li>作息好像完全乱了。。这太扯了</li>\n<li>饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧</li>\n<li>有点撑得慌。</li>\n<li>明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的</li>\n<li>破酒店凌晨一点十七莫名其妙断网了</li>\n</ul>\n<h4 id=\"记一下上周日回石家庄玩爸爸给的200块钱怎么花的\"><a class=\"anchor\" href=\"#记一下上周日回石家庄玩爸爸给的200块钱怎么花的\">#</a> 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的</h4>\n<ol>\n<li>三小瓶君乐宝酸奶     10 元</li>\n<li>火车站寄存柜            16 元</li>\n<li>牛肉面                       15 元</li>\n<li>打车                           25 元</li>\n<li>买水果                       14 元</li>\n<li>吃饭                  12+22.9+10+21.9+12+10+10 元</li>\n<li>午饭                           12 元</li>\n<li>拓展坞                       34 元</li>\n<li>火车票                       69 元</li>\n<li>怎么成三百多了。。不管了</li>\n</ol>\n<h2 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h2>\n<ul>\n<li>和平精英挂机做任务（吃了一把）</li>\n<li>火影日常</li>\n<li>突然想起来 ios 区还有一个小号，登录领一下自选 A 忍</li>\n<li>三角洲好几天没玩了</li>\n<li>单机游戏好久没玩了。为什么当时那么想玩。买了又不玩</li>\n</ul>\n",
+            "tags": [
+                "生活",
+                "成长",
+                "博客"
+            ]
         },
         {
             "id": "https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
             "url": "https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
             "title": "线性规划速成",
             "date_published": "2025-07-30T16:00:00.000Z",
-            "content_html": "<h2 id=\"线性规划的定义\"><a class=\"anchor\" href=\"#线性规划的定义\">#</a> 线性规划的定义</h2>\n<ul>\n<li>一个优化问题，如果其所有表达式（条件，目标，约束）都是线性的，那么它就是线性规划。</li>\n</ul>\n<h2 id=\"例题\"><a class=\"anchor\" href=\"#例题\">#</a> 例题</h2>\n<ol>\n<li>游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。</li>\n<li>通关奖励与消耗：\n<ul>\n<li>A 地图：20 点经验 / 次，消耗 4 点体力 / 次</li>\n<li>B 地图：30 点经验 / 次，消耗 8 点体力 / 次</li>\n<li>C 地图：45 点经验 / 次，消耗 15 点体力 / 次</li>\n</ul>\n</li>\n<li>约束条件：A、B、C 三张地图每天通关总次数最多 20 次。</li>\n</ol>\n<h2 id=\"解答\"><a class=\"anchor\" href=\"#解答\">#</a> 解答：</h2>\n<h3 id=\"我的思路\"><a class=\"anchor\" href=\"#我的思路\">#</a> 我的思路</h3>\n<ul>\n<li>刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3</li>\n<li>所以 A 图最值得刷</li>\n<li>但是如果全刷 A 图会浪费 20 体力</li>\n<li>只能去掉几张 A，用 B 来补</li>\n<li>少 1A 多 1B 的差价是 4 体力，正好可以整除 20</li>\n<li>最终确定 15 次 A 图，5 次 B 图</li>\n</ul>\n",
+            "content_html": "<h2 id=\"线性规划的定义\"><a class=\"anchor\" href=\"#线性规划的定义\">#</a> 线性规划的定义</h2>\n<ul>\n<li>一个优化问题，如果其所有表达式（条件，目标，约束）都是线性的，那么它就是线性规划。</li>\n</ul>\n<h2 id=\"例题\"><a class=\"anchor\" href=\"#例题\">#</a> 例题</h2>\n<ol>\n<li>游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。</li>\n<li>通关奖励与消耗：\n<ul>\n<li>A 地图：20 点经验 / 次，消耗 4 点体力 / 次</li>\n<li>B 地图：30 点经验 / 次，消耗 8 点体力 / 次</li>\n<li>C 地图：45 点经验 / 次，消耗 15 点体力 / 次</li>\n</ul>\n</li>\n<li>约束条件：A、B、C 三张地图每天通关总次数最多 20 次。</li>\n</ol>\n<h2 id=\"解答\"><a class=\"anchor\" href=\"#解答\">#</a> 解答：</h2>\n<h3 id=\"我的思路\"><a class=\"anchor\" href=\"#我的思路\">#</a> 我的思路</h3>\n<ul>\n<li>刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3</li>\n<li>所以 A 图最值得刷</li>\n<li>但是如果全刷 A 图会浪费 20 体力</li>\n<li>只能去掉几张 A，用 B 来补</li>\n<li>少 1A 多 1B 的差价是 4 体力，正好可以整除 20</li>\n<li>最终确定 15 次 A 图，5 次 B 图</li>\n</ul>\n<h2 id=\"几何意义\"><a class=\"anchor\" href=\"#几何意义\">#</a> 几何意义</h2>\n<h3 id=\"可行域\"><a class=\"anchor\" href=\"#可行域\">#</a> 可行域</h3>\n<ul>\n<li>由于我们的约束条件都是线性的，我们可以在一个平面直角坐标系中画出所有的条件，最终围成的区域内一定有我们的解。</li>\n<li>可行域一定是一个凸多边形</li>\n<li>有关几何意义的内容，大致理解就可以，不要丝扣，我们还是应该致力于解决问题。</li>\n</ul>\n<h2 id=\"决策变量\"><a class=\"anchor\" href=\"#决策变量\">#</a> 决策变量</h2>\n<ul>\n<li>问题中要确定的未知量</li>\n</ul>\n<h2 id=\"目标函数\"><a class=\"anchor\" href=\"#目标函数\">#</a> 目标函数</h2>\n<ul>\n<li>即最终想求解最值的函数</li>\n</ul>\n<h2 id=\"约束条件\"><a class=\"anchor\" href=\"#约束条件\">#</a> 约束条件</h2>\n<ul>\n<li>一般约束条件：各种实际条件限制，时间，资金等</li>\n<li>隐藏约束条件：函数、自变量的定义域限制、</li>\n</ul>\n<h2 id=\"解题思路\"><a class=\"anchor\" href=\"#解题思路\">#</a> 解题思路</h2>\n<ul>\n<li>数学建模的过程，就是把题目翻译成数学语言的过程</li>\n<li>一组公式，加上对这组公式的含义的解释，就是一个数学模型</li>\n<li>模型求解可以用单纯形法</li>\n<li>建议用 python 或 matlab 求解</li>\n</ul>\n<h3 id=\"和多元函数求极值的关系\"><a class=\"anchor\" href=\"#和多元函数求极值的关系\">#</a> 和多元函数求极值的关系</h3>\n<p>拉格朗日数乘法（只能用于等式）</p>\n<h3 id=\"套公式代码\"><a class=\"anchor\" href=\"#套公式代码\">#</a> 套公式（代码）</h3>\n<ul>\n<li>让 kimi 写了个求解线性规划的代码，以后只需要把数据整理好写到三个表中就可以了，整理数据的活也可以给 AI。</li>\n<li>有一个小技巧，改表格的时候，把 csv 改成 txt，直接粘贴 AI 给的表格的文本文档形式，然后保存之后再改回 csv，非常的方便。</li>\n</ul>\n",
             "tags": [
                 "数学",
                 "数据分析",
@@ -39,11 +62,11 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "7月30日日记",
+            "id": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月29日记",
             "date_published": "2025-07-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>太懒了，博客的迁移大业目前还没有进行</li>\n<li>遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。</li>\n<li>哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。</li>\n</ul>\n<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<ul>\n<li>python 基本语法强化，把学过的内容写成 md 文件存了下来</li>\n<li>（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>两点睡的。越来越狠了熬夜</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>六连胜上暗部。</li>\n</ul>\n",
+            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
             "tags": [
                 "生活",
                 "成长",
@@ -51,11 +74,11 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "7月29日记",
+            "id": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月30日日记",
             "date_published": "2025-07-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
+            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>太懒了，博客的迁移大业目前还没有进行</li>\n<li>遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。</li>\n<li>哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。</li>\n</ul>\n<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<ul>\n<li>python 基本语法强化，把学过的内容写成 md 文件存了下来</li>\n<li>（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>两点睡的。越来越狠了熬夜</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>六连胜上暗部。</li>\n<li>看到 xwx 上超影了，说实话有点羡慕</li>\n<li>我什么时候能上影啊。</li>\n</ul>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
             "tags": [
                 "生活",
                 "成长",
@@ -123,18 +146,6 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
-            "url": "https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
-            "title": "我的第一篇Hexo博客",
-            "date_published": "2025-07-25T16:00:00.000Z",
-            "content_html": "<h1 id=\"欢迎来到我的博客\"><a class=\"anchor\" href=\"#欢迎来到我的博客\">#</a> 欢迎来到我的博客</h1>\n<h2 id=\"1这个博客的由来\"><a class=\"anchor\" href=\"#1这个博客的由来\">#</a> 1. 这个博客的由来</h2>\n<ul>\n<li>我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天</li>\n<li>但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。</li>\n<li>在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。</li>\n<li>今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。</li>\n</ul>\n<h2 id=\"2-我的学习清单\"><a class=\"anchor\" href=\"#2-我的学习清单\">#</a> 2. 我的学习清单</h2>\n<p>sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。</p>\n<h2 id=\"3-代码示例\"><a class=\"anchor\" href=\"#3-代码示例\">#</a> 3. 代码示例</h2>\n<p>&lt;!–code￼0–&gt;</p>\n<h2 id=\"4-图片展示\"><a class=\"anchor\" href=\"#4-图片展示\">#</a> 4. 图片展示</h2>\n<p><img data-src=\"/images/universe.png\" alt=\"我的背景图\" /><br />\n上面这张图片是让 AI 生成的<br />\n<img data-src=\"/images/profile%20picture.jpg\" alt=\"我的背景图\" /><br />\n这张图片是《挪威的森林》里的小林绿子</p>\n<blockquote>\n<p>提示：完成编辑后，运行  <code>hexo clean &amp;&amp; hexo server</code>  预览效果</p>\n</blockquote>\n",
-            "tags": [
-                "生活",
-                "博客",
-                "Hexo"
-            ]
-        },
-        {
             "id": "https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/",
             "url": "https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/",
             "title": "博客的完善",
@@ -147,6 +158,18 @@
             ]
         },
         {
+            "id": "https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "url": "https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "title": "我的第一篇Hexo博客",
+            "date_published": "2025-07-25T16:00:00.000Z",
+            "content_html": "<h1 id=\"欢迎来到我的博客\"><a class=\"anchor\" href=\"#欢迎来到我的博客\">#</a> 欢迎来到我的博客</h1>\n<h2 id=\"1这个博客的由来\"><a class=\"anchor\" href=\"#1这个博客的由来\">#</a> 1. 这个博客的由来</h2>\n<ul>\n<li>我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天</li>\n<li>但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。</li>\n<li>在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。</li>\n<li>今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。</li>\n</ul>\n<h2 id=\"2-我的学习清单\"><a class=\"anchor\" href=\"#2-我的学习清单\">#</a> 2. 我的学习清单</h2>\n<p>sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。</p>\n<h2 id=\"3-代码示例\"><a class=\"anchor\" href=\"#3-代码示例\">#</a> 3. 代码示例</h2>\n<p>&lt;!–code￼0–&gt;</p>\n<h2 id=\"4-图片展示\"><a class=\"anchor\" href=\"#4-图片展示\">#</a> 4. 图片展示</h2>\n<p><img data-src=\"/images/universe.png\" alt=\"我的背景图\" /><br />\n上面这张图片是让 AI 生成的<br />\n<img data-src=\"/images/profile%20picture.jpg\" alt=\"我的背景图\" /><br />\n这张图片是《挪威的森林》里的小林绿子</p>\n<blockquote>\n<p>提示：完成编辑后，运行  <code>hexo clean &amp;&amp; hexo server</code>  预览效果</p>\n</blockquote>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "Hexo"
+            ]
+        },
+        {
             "id": "https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "url": "https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "title": "7月22日日记",
@@ -154,8 +177,8 @@
             "content_html": "<p>今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。</p>\n<p>早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。</p>\n<p>在看这个 trae 的教学视频的时候，博主的一段话点醒了我，他说这个 ai 开发环境的主要目的是帮助有技术的人更高效的开发工具，没有技术的人用起来会比较吃力，因为有技术的人在程序卡住的时候可以知道问题出在哪，解决问题推进程序继续完善，而没有技术的人只会说自己的需求，没法帮助 ai 解决问题，如果 ai 卡住了他们也就卡住了。所以说熟练的掌握 ai 工具确实是一个必不可少的技能，但是自身的专业素养，编码能力也是很重要的。</p>\n<p>午饭在酒店吃的，有点辣。 明天中午一到十二点就跑，争取吃上西红柿鸡蛋打卤面。</p>\n<p>晚饭在回来的路上找了一家面馆，吃的宽面，但是豆芽不是很好吃，好在有一瓶冰镇啤酒，非常的爽。</p>\n<p>今天在公司借着公司的网下载了三角洲行动，然后回宿舍之后电脑打了几把，感觉好像不长时间玩的话 3d 也不是很严重。然后主要是不能自己玩这个摸金，会觉得带枪进去被打死特别亏，跑刀又很无聊，所以说游戏的最高配置还是朋友，以后手游三角洲和小林杰哥一起玩，端游可以叫着别佳诺和学长，非常的好。</p>\n<p>好像没怎么完成自己给自己布置的任务，有点懒惰，慢慢来吧！</p>\n<p>晓蝶姐说 sql 没必要现在着急学，现在可以看看随机森林，lstm，回归模型，还有线性规划等等等等。</p>\n<p>我要自己学这些内容，还有英语，还有 python，这个下学期会用到，然后还有数学建模，还有 mark down 之类的语言。感觉玩电脑真的是一个非常有意思的过程，你可以创造很多新的东西，你还可以在学习的过程中学到更多的英语，这真的是一个很不错的事情</p>\n",
             "tags": [
                 "生活",
-                "实习",
-                "成长"
+                "成长",
+                "实习"
             ]
         },
         {

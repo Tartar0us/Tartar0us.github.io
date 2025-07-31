@@ -10,15 +10,119 @@
         </author>
         <description>你所厌恶的今天，是昨日死去之人苦苦奢望的明天</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 31 Jul 2025 14:48:28 +0800</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 14:48:28 +0800</lastBuildDate>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0800</lastBuildDate>
         <category term="1111111111111111111111" />
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/%E7%95%99%E5%AD%A6/</guid>
+            <title>留学信息</title>
+            <link>https://tartar0us.github.io/%E7%95%99%E5%AD%A6/</link>
+            <category term="学业" scheme="https://tartar0us.github.io/categories/%E5%AD%A6%E4%B8%9A/" />
+            <category term="留学" scheme="https://tartar0us.github.io/tags/%E7%95%99%E5%AD%A6/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;目标院校&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标院校&#34;&gt;#&lt;/a&gt; 目标院校&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;新加坡国立大学（NUS）&lt;/li&gt;
+&lt;li&gt;新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业&lt;/li&gt;
+&lt;li&gt;香港大学&lt;/li&gt;
+&lt;li&gt;香港中文大学&lt;/li&gt;
+&lt;li&gt;香港科技大学&lt;/li&gt;
+&lt;li&gt;帝国理工学院（IC）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;需要准备的内容按照重要程度排序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要准备的内容按照重要程度排序&#34;&gt;#&lt;/a&gt; 需要准备的内容（按照重要程度排序）&lt;/h2&gt;
+&lt;h4 id=&#34;1绩点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1绩点&#34;&gt;#&lt;/a&gt; 1. 绩点&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2语言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2语言&#34;&gt;#&lt;/a&gt; 2. 语言&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;这个算一个标准，一个要求，港新是总分 6.5 就可以&lt;/li&gt;
+&lt;li&gt;但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上&lt;/li&gt;
+&lt;li&gt;韦姐高考英语 146，自学的 7.5 分，太强哩&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3实习&#34;&gt;#&lt;/a&gt; 3. 实习&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4kaggle&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4kaggle&#34;&gt;#&lt;/a&gt; 4.kaggle&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;此条不具有通用性&lt;/li&gt;
+&lt;li&gt;kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5学术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5学术&#34;&gt;#&lt;/a&gt; 5. 学术&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树&lt;br /&gt;
+有&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</guid>
-            <title></title>
+            <title>非线性规划</title>
             <link>https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</link>
             <pubDate>Thu, 31 Jul 2025 14:48:28 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;h2 id=&#34;非线性规划定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非线性规划定义&#34;&gt;#&lt;/a&gt; 非线性规划定义&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当目标函数和约束条件中有一个是决策变量 x 的非线性表达式时，这个数学求解问题是非线性规划问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;解法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解法&#34;&gt;#&lt;/a&gt; 解法&lt;/h2&gt;
+&lt;p&gt;目前没有统一的解法，都是在选定决策变量的初始值之后搜索方法&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月31日日记</title>
+            <link>https://tartar0us.github.io/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
+&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
+&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
+&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
+&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
+&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
+&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
+&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
+&lt;li&gt;有点撑得慌。&lt;/li&gt;
+&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
+&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
+&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
+&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
+&lt;li&gt;打车                           25 元&lt;/li&gt;
+&lt;li&gt;买水果                       14 元&lt;/li&gt;
+&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
+&lt;li&gt;午饭                           12 元&lt;/li&gt;
+&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
+&lt;li&gt;火车票                       69 元&lt;/li&gt;
+&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
+&lt;li&gt;火影日常&lt;/li&gt;
+&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
+&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
+&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</guid>
@@ -53,6 +157,40 @@
 &lt;li&gt;只能去掉几张 A，用 B 来补&lt;/li&gt;
 &lt;li&gt;少 1A 多 1B 的差价是 4 体力，正好可以整除 20&lt;/li&gt;
 &lt;li&gt;最终确定 15 次 A 图，5 次 B 图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;几何意义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#几何意义&#34;&gt;#&lt;/a&gt; 几何意义&lt;/h2&gt;
+&lt;h3 id=&#34;可行域&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可行域&#34;&gt;#&lt;/a&gt; 可行域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;由于我们的约束条件都是线性的，我们可以在一个平面直角坐标系中画出所有的条件，最终围成的区域内一定有我们的解。&lt;/li&gt;
+&lt;li&gt;可行域一定是一个凸多边形&lt;/li&gt;
+&lt;li&gt;有关几何意义的内容，大致理解就可以，不要丝扣，我们还是应该致力于解决问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;决策变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策变量&#34;&gt;#&lt;/a&gt; 决策变量&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;问题中要确定的未知量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;目标函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标函数&#34;&gt;#&lt;/a&gt; 目标函数&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;即最终想求解最值的函数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;约束条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#约束条件&#34;&gt;#&lt;/a&gt; 约束条件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一般约束条件：各种实际条件限制，时间，资金等&lt;/li&gt;
+&lt;li&gt;隐藏约束条件：函数、自变量的定义域限制、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;解题思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题思路&#34;&gt;#&lt;/a&gt; 解题思路&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;数学建模的过程，就是把题目翻译成数学语言的过程&lt;/li&gt;
+&lt;li&gt;一组公式，加上对这组公式的含义的解释，就是一个数学模型&lt;/li&gt;
+&lt;li&gt;模型求解可以用单纯形法&lt;/li&gt;
+&lt;li&gt;建议用 python 或 matlab 求解&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;和多元函数求极值的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和多元函数求极值的关系&#34;&gt;#&lt;/a&gt; 和多元函数求极值的关系&lt;/h3&gt;
+&lt;p&gt;拉格朗日数乘法（只能用于等式）&lt;/p&gt;
+&lt;h3 id=&#34;套公式代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#套公式代码&#34;&gt;#&lt;/a&gt; 套公式（代码）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;让 kimi 写了个求解线性规划的代码，以后只需要把数据整理好写到三个表中就可以了，整理数据的活也可以给 AI。&lt;/li&gt;
+&lt;li&gt;有一个小技巧，改表格的时候，把 csv 改成 txt，直接粘贴 AI 给的表格的文本文档形式，然后保存之后再改回 csv，非常的方便。&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -190,35 +328,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月30日日记</title>
-            <link>https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
-&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
-&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
-&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;两点睡的。越来越狠了熬夜&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;六连胜上暗部。&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>7月29日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
@@ -251,6 +360,38 @@
 &lt;ul&gt;
 &lt;li&gt;火影日常 + 上忍二&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;^+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.771331em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.771331em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月30日日记</title>
+            <link>https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
+&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
+&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
+&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;两点睡的。越来越狠了熬夜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;六连胜上暗部。&lt;/li&gt;
+&lt;li&gt;看到 xwx 上超影了，说实话有点羡慕&lt;/li&gt;
+&lt;li&gt;我什么时候能上影啊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
  ]]></description>
         </item>
         <item>
@@ -587,36 +728,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-            <title>我的第一篇Hexo博客</title>
-            <link>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
-            <pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
-&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
-&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
-&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
-&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
-&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
-&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-上面这张图片是让 AI 生成的&lt;br /&gt;
-&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
-&lt;/blockquote&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</guid>
             <title>博客的完善</title>
             <link>https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</link>
@@ -656,12 +767,42 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>我的第一篇Hexo博客</title>
+            <link>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+            <pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
+&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
+&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
+&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
+&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
+&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
+&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+上面这张图片是让 AI 生成的&lt;br /&gt;
+&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>7月22日日记</title>
             <link>https://tartar0us.github.io/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <pubDate>Tue, 22 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。&lt;/p&gt;
 &lt;p&gt;早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。&lt;/p&gt;
