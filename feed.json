@@ -7,11 +7,19 @@
     "home_page_url": "https://Tartar0us.github.io",
     "items": [
         {
+            "id": "https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
+            "url": "https://tartar0us.github.io/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
+            "title": "",
+            "date_published": "2025-07-31T06:48:28.358Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
             "id": "https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
             "url": "https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/",
             "title": "线性规划速成",
             "date_published": "2025-07-30T16:00:00.000Z",
-            "content_html": "<h2 id=\"例题\"><a class=\"anchor\" href=\"#例题\">#</a> 例题</h2>\n<ol>\n<li>游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。</li>\n<li>通关奖励与消耗：\n<ul>\n<li>A 地图：20 点经验 / 次，消耗 4 点体力 / 次</li>\n<li>B 地图：30 点经验 / 次，消耗 8 点体力 / 次</li>\n<li>C 地图：45 点经验 / 次，消耗 15 点体力 / 次</li>\n</ul>\n</li>\n<li>约束条件：A、B、C 三张地图每天通关总次数最多 20 次。</li>\n</ol>\n<h2 id=\"解答\"><a class=\"anchor\" href=\"#解答\">#</a> 解答：</h2>\n<h3 id=\"我的思路\"><a class=\"anchor\" href=\"#我的思路\">#</a> 我的思路</h3>\n<ul>\n<li>刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3</li>\n<li>所以 A 图最值得刷</li>\n<li>但是如果全刷 A 图会浪费 20 体力</li>\n<li>只能去掉几张 A，用 B 来补</li>\n<li>少 1A 多 1B 的差价是 4 体力，正好可以整除 20</li>\n<li>最终确定 15 次 A 图，5 次 B 图</li>\n</ul>\n",
+            "content_html": "<h2 id=\"线性规划的定义\"><a class=\"anchor\" href=\"#线性规划的定义\">#</a> 线性规划的定义</h2>\n<ul>\n<li>一个优化问题，如果其所有表达式（条件，目标，约束）都是线性的，那么它就是线性规划。</li>\n</ul>\n<h2 id=\"例题\"><a class=\"anchor\" href=\"#例题\">#</a> 例题</h2>\n<ol>\n<li>游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。</li>\n<li>通关奖励与消耗：\n<ul>\n<li>A 地图：20 点经验 / 次，消耗 4 点体力 / 次</li>\n<li>B 地图：30 点经验 / 次，消耗 8 点体力 / 次</li>\n<li>C 地图：45 点经验 / 次，消耗 15 点体力 / 次</li>\n</ul>\n</li>\n<li>约束条件：A、B、C 三张地图每天通关总次数最多 20 次。</li>\n</ol>\n<h2 id=\"解答\"><a class=\"anchor\" href=\"#解答\">#</a> 解答：</h2>\n<h3 id=\"我的思路\"><a class=\"anchor\" href=\"#我的思路\">#</a> 我的思路</h3>\n<ul>\n<li>刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3</li>\n<li>所以 A 图最值得刷</li>\n<li>但是如果全刷 A 图会浪费 20 体力</li>\n<li>只能去掉几张 A，用 B 来补</li>\n<li>少 1A 多 1B 的差价是 4 体力，正好可以整除 20</li>\n<li>最终确定 15 次 A 图，5 次 B 图</li>\n</ul>\n",
             "tags": [
                 "数学",
                 "数据分析",
@@ -31,18 +39,6 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "7月29日记",
-            "date_published": "2025-07-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
-            "tags": [
-                "生活",
-                "博客",
-                "成长"
-            ]
-        },
-        {
             "id": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "url": "https://tartar0us.github.io/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "title": "7月30日日记",
@@ -50,8 +46,20 @@
             "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>太懒了，博客的迁移大业目前还没有进行</li>\n<li>遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。</li>\n<li>哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。</li>\n</ul>\n<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<ul>\n<li>python 基本语法强化，把学过的内容写成 md 文件存了下来</li>\n<li>（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>两点睡的。越来越狠了熬夜</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>六连胜上暗部。</li>\n</ul>\n",
             "tags": [
                 "生活",
-                "博客",
-                "成长"
+                "成长",
+                "博客"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月29日记",
+            "date_published": "2025-07-29T16:00:00.000Z",
+            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
+            "tags": [
+                "生活",
+                "成长",
+                "博客"
             ]
         },
         {
@@ -88,8 +96,8 @@
                 "实习",
                 "md",
                 "Python",
-                "数据分析",
-                "SQL"
+                "SQL",
+                "数据分析"
             ]
         },
         {
@@ -146,8 +154,8 @@
             "content_html": "<p>今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。</p>\n<p>早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。</p>\n<p>在看这个 trae 的教学视频的时候，博主的一段话点醒了我，他说这个 ai 开发环境的主要目的是帮助有技术的人更高效的开发工具，没有技术的人用起来会比较吃力，因为有技术的人在程序卡住的时候可以知道问题出在哪，解决问题推进程序继续完善，而没有技术的人只会说自己的需求，没法帮助 ai 解决问题，如果 ai 卡住了他们也就卡住了。所以说熟练的掌握 ai 工具确实是一个必不可少的技能，但是自身的专业素养，编码能力也是很重要的。</p>\n<p>午饭在酒店吃的，有点辣。 明天中午一到十二点就跑，争取吃上西红柿鸡蛋打卤面。</p>\n<p>晚饭在回来的路上找了一家面馆，吃的宽面，但是豆芽不是很好吃，好在有一瓶冰镇啤酒，非常的爽。</p>\n<p>今天在公司借着公司的网下载了三角洲行动，然后回宿舍之后电脑打了几把，感觉好像不长时间玩的话 3d 也不是很严重。然后主要是不能自己玩这个摸金，会觉得带枪进去被打死特别亏，跑刀又很无聊，所以说游戏的最高配置还是朋友，以后手游三角洲和小林杰哥一起玩，端游可以叫着别佳诺和学长，非常的好。</p>\n<p>好像没怎么完成自己给自己布置的任务，有点懒惰，慢慢来吧！</p>\n<p>晓蝶姐说 sql 没必要现在着急学，现在可以看看随机森林，lstm，回归模型，还有线性规划等等等等。</p>\n<p>我要自己学这些内容，还有英语，还有 python，这个下学期会用到，然后还有数学建模，还有 mark down 之类的语言。感觉玩电脑真的是一个非常有意思的过程，你可以创造很多新的东西，你还可以在学习的过程中学到更多的英语，这真的是一个很不错的事情</p>\n",
             "tags": [
                 "生活",
-                "成长",
-                "实习"
+                "实习",
+                "成长"
             ]
         },
         {
@@ -158,8 +166,8 @@
             "content_html": "<pre><code>昨天20号，晚上和张紫旭一家一起吃饭了，还有一个小姑娘，平时这个小姑娘学文科的，经常六百多，张紫旭平时550，但是高考的时候他俩反过来了，张紫旭604，小姑娘我看应该是560左右，录取上了齐鲁工业大学的法学，然后张紫旭应该是被大连海事大学的计算机录取了。有点可惜差一点成校友了，因为他报志愿的时候把计算机全都放前面了，而不是专注于院校。要是把东秦的都放在前面就稳来了。\n\n感觉昨天这两个哥们都挺帅的，张紫旭打扮的非常帅，烫头韩式纹理，然后还有好多耳夹，甚至还有狼尾\n\n哦卧槽我想起来昨天上午去哪了，昨天上午回老家了，姑姑姑父表哥也回去了。吃饭到最后一直在批判我表哥，考研没考上，现在在家里还偶尔打游戏，考教师资格也没考上，当时最可惜的是潍柴来校招没去。哎。潍柴真的是一个很好的企业。然后现在在家也不上班，学习也不好好学，应该是准备二战了，但是也没有把心思全部放在学习上。有点愁人。自己不学别人怎么劝也没用。还是得自己幡然醒悟。   说实话，我觉得如果一个大学生，大学英语四级大学四年一直考一直没过的话，我觉得他这辈子也就这样了，如果一直维持下去。这个东西只要肯背单词，都能过的。\n\n  19号下午开班会的时候说了劳动教育的事，我回老家的时候做了一顿排骨，然后好像是忘了记录家人的反馈了。。。没关系，视频和照片拍摄了。一定要拉满，周末的时候积极搞这些东西，争取不要等到最后 的ddl\n\n  今天的话早上摆烂，中午在家吃，下午一共四个人开车来石家庄，定了酒店，距离公司还挺近的，步行六百多米，然后明天就要去上班哩。有点激动。\n\n 今天晚上在孙大厨吃完饭出来之后，饭店门口围了一群精神小妹，手里拿着ktv的优惠卷问我们：“哥去不去唱歌“   我觉得他们还挺聪明的，知道在好的饭店门口问，不去烧烤摊之类的地方。但是感觉收入肯定很微薄，还不如进厂努努力，虽然累，但是起码比这样挣得多。\n\n今天晚上和张紫旭 加上他表哥一起玩了pubg，卡的不行，第一次知道打游戏要开显卡。有点意思哈。然后明天准备跟着刘晓蝶姐姐学习了。加油\n</code></pre>\n<p>——————</p>\n",
             "tags": [
                 "生活",
-                "博客",
-                "成长"
+                "成长",
+                "博客"
             ]
         },
         {
