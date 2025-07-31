@@ -11,6 +11,38 @@
     <updated>2025-07-30T16:00:00.000Z</updated>
     <category term="1111111111111111111111" />
     <entry>
+        <id>https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</id>
+        <title>线性规划速成</title>
+        <link rel="alternate" href="https://tartar0us.github.io/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/"/>
+        <content type="html">&lt;h2 id=&#34;例题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#例题&#34;&gt;#&lt;/a&gt; 例题&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。&lt;/li&gt;
+&lt;li&gt;通关奖励与消耗：
+&lt;ul&gt;
+&lt;li&gt;A 地图：20 点经验 / 次，消耗 4 点体力 / 次&lt;/li&gt;
+&lt;li&gt;B 地图：30 点经验 / 次，消耗 8 点体力 / 次&lt;/li&gt;
+&lt;li&gt;C 地图：45 点经验 / 次，消耗 15 点体力 / 次&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;约束条件：A、B、C 三张地图每天通关总次数最多 20 次。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;解答&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解答&#34;&gt;#&lt;/a&gt; 解答：&lt;/h2&gt;
+&lt;h3 id=&#34;我的思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的思路&#34;&gt;#&lt;/a&gt; 我的思路&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3&lt;/li&gt;
+&lt;li&gt;所以 A 图最值得刷&lt;/li&gt;
+&lt;li&gt;但是如果全刷 A 图会浪费 20 体力&lt;/li&gt;
+&lt;li&gt;只能去掉几张 A，用 B 来补&lt;/li&gt;
+&lt;li&gt;少 1A 多 1B 的差价是 4 体力，正好可以整除 20&lt;/li&gt;
+&lt;li&gt;最终确定 15 次 A 图，5 次 B 图&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="数学" scheme="https://tartar0us.github.io/categories/%E6%95%B0%E5%AD%A6/" />
+        <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+        <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+        <updated>2025-07-30T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://tartar0us.github.io/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E7%9A%84%E6%8C%AF%E5%8A%A8%E5%88%86%E6%9E%90/</id>
         <title>轴承故障的振动分析学习总结</title>
         <link rel="alternate" href="https://tartar0us.github.io/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E7%9A%84%E6%8C%AF%E5%8A%A8%E5%88%86%E6%9E%90/"/>
@@ -174,8 +206,8 @@
 &lt;/ul&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <updated>2025-07-29T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -185,10 +217,13 @@
         <content type="html">&lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
+&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
+&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
+&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
 &lt;ul&gt;
@@ -200,8 +235,8 @@
 &lt;/ul&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <updated>2025-07-29T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -491,10 +526,10 @@
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
-        <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
         <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
-        <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
+        <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
         <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+        <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
         <updated>2025-07-28T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -538,6 +573,36 @@
         <updated>2025-07-26T02:51:28.060Z</updated>
     </entry>
     <entry>
+        <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>我的第一篇Hexo博客</title>
+        <link rel="alternate" href="https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
+&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
+&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
+&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
+&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
+&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
+&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+上面这张图片是让 AI 生成的&lt;br /&gt;
+&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
+这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+        <updated>2025-07-25T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/</id>
         <title>博客的完善</title>
         <link rel="alternate" href="https://tartar0us.github.io/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/"/>
@@ -572,36 +637,6 @@
 &lt;/ul&gt;
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-        <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
-        <updated>2025-07-25T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-        <title>我的第一篇Hexo博客</title>
-        <link rel="alternate" href="https://tartar0us.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎来到我的博客&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客&lt;/h1&gt;
-&lt;h2 id=&#34;1这个博客的由来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1这个博客的由来&#34;&gt;#&lt;/a&gt; 1. 这个博客的由来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天&lt;/li&gt;
-&lt;li&gt;但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。&lt;/li&gt;
-&lt;li&gt;在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。&lt;/li&gt;
-&lt;li&gt;今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-我的学习清单&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-我的学习清单&#34;&gt;#&lt;/a&gt; 2. 我的学习清单&lt;/h2&gt;
-&lt;p&gt;sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。&lt;/p&gt;
-&lt;h2 id=&#34;3-代码示例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-代码示例&#34;&gt;#&lt;/a&gt; 3. 代码示例&lt;/h2&gt;
-&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-图片展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-图片展示&#34;&gt;#&lt;/a&gt; 4. 图片展示&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/universe.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-上面这张图片是让 AI 生成的&lt;br /&gt;
-&lt;img data-src=&#34;/images/profile%20picture.jpg&#34; alt=&#34;我的背景图&#34; /&gt;&lt;br /&gt;
-这张图片是《挪威的森林》里的小林绿子&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：完成编辑后，运行  &lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo server&lt;/code&gt;  预览效果&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
         <updated>2025-07-25T16:00:00.000Z</updated>
@@ -646,8 +681,8 @@
 &lt;p&gt;——————&lt;/p&gt;
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <updated>2025-07-20T16:00:00.000Z</updated>
     </entry>
     <entry>
