@@ -42,6 +42,89 @@
             <description><![CDATA[  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</guid>
+            <title>数学模型</title>
+            <link>https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;rnn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rnn&#34;&gt;#&lt;/a&gt; RNN&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Recurrent Neural Network（循环神经网络）&lt;/li&gt;
+&lt;li&gt;有记忆的神经网络，但是记忆太短，容易出错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lstm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lstm&#34;&gt;#&lt;/a&gt; LSTM&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Long Short-Term Memory（长短期记忆）&lt;/li&gt;
+&lt;li&gt;有三个门来控制记忆，还可以选择删除哪些记忆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遗忘门、输入门、输出门&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;具有时间顺序&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/</guid>
+            <title>留学信息</title>
+            <link>https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/</link>
+            <category term="学业" scheme="https://tartar0us.github.io/categories/%E5%AD%A6%E4%B8%9A/" />
+            <category term="留学" scheme="https://tartar0us.github.io/tags/%E7%95%99%E5%AD%A6/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;目标院校&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标院校&#34;&gt;#&lt;/a&gt; 目标院校&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;新加坡国立大学（NUS）&lt;/li&gt;
+&lt;li&gt;新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业&lt;/li&gt;
+&lt;li&gt;香港大学&lt;/li&gt;
+&lt;li&gt;香港中文大学&lt;/li&gt;
+&lt;li&gt;香港科技大学&lt;/li&gt;
+&lt;li&gt;帝国理工学院（IC）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;需要准备的内容按照重要程度排序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要准备的内容按照重要程度排序&#34;&gt;#&lt;/a&gt; 需要准备的内容（按照重要程度排序）&lt;/h2&gt;
+&lt;h4 id=&#34;1绩点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1绩点&#34;&gt;#&lt;/a&gt; 1. 绩点&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2语言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2语言&#34;&gt;#&lt;/a&gt; 2. 语言&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;这个算一个标准，一个要求，港新是总分 6.5 就可以&lt;/li&gt;
+&lt;li&gt;但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上&lt;/li&gt;
+&lt;li&gt;韦姐高考英语 146，自学的 7.5 分，太强哩&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3实习&#34;&gt;#&lt;/a&gt; 3. 实习&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4kaggle&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4kaggle&#34;&gt;#&lt;/a&gt; 4.kaggle&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;此条不具有通用性&lt;/li&gt;
+&lt;li&gt;kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。&lt;/li&gt;
+&lt;li&gt;今天（8 月 1 日）学完了 python 基本语法，还有各种机器学习模型、以及数据分析的流程，我跟晓蝶姐说想要一些公司的实例复现一下，她跟我说可以上 kaggle 打打比赛，学学真正的数据分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5学术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5学术&#34;&gt;#&lt;/a&gt; 5. 学术&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树&lt;br /&gt;
+有&lt;/li&gt;
+&lt;li&gt;韦姐说，我们院的几个研究和数据分析、人工智能沾边的老师里边，安爽导师跟我最适配。我过段时间试试可不可以给安爽老师打杂，干一些活，哪怕能学到一点点知识也可以，这绝对是一个不可多得的机会。&lt;/li&gt;
+&lt;li&gt;安爽导师推荐过的几本书：数据分析，大数据，机器学习&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</guid>
+            <title>kaggle泰坦尼克号问题</title>
+            <link>https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="kaggle" scheme="https://tartar0us.github.io/tags/kaggle/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;s&gt;第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力&lt;/s&gt;&lt;/p&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/</guid>
             <title>Kaggle</title>
             <link>https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/</link>
@@ -75,85 +158,6 @@
 &lt;li&gt;&lt;strong&gt;提高你的分数查看&lt;/strong&gt;&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS9jL3RpdGFuaWMvZGlzY3Vzc2lvbg==&#34;&gt;讨论论坛&lt;/span&gt;，找到其他竞争对手的大量教程和见解。&lt;/li&gt;
 &lt;/ol&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/life/%E7%95%99%E5%AD%A6/</guid>
-            <title>留学信息</title>
-            <link>https://tartar0us.github.io/life/%E7%95%99%E5%AD%A6/</link>
-            <category term="学业" scheme="https://tartar0us.github.io/categories/%E5%AD%A6%E4%B8%9A/" />
-            <category term="留学" scheme="https://tartar0us.github.io/tags/%E7%95%99%E5%AD%A6/" />
-            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;目标院校&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标院校&#34;&gt;#&lt;/a&gt; 目标院校&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;新加坡国立大学（NUS）&lt;/li&gt;
-&lt;li&gt;新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业&lt;/li&gt;
-&lt;li&gt;香港大学&lt;/li&gt;
-&lt;li&gt;香港中文大学&lt;/li&gt;
-&lt;li&gt;香港科技大学&lt;/li&gt;
-&lt;li&gt;帝国理工学院（IC）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;需要准备的内容按照重要程度排序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要准备的内容按照重要程度排序&#34;&gt;#&lt;/a&gt; 需要准备的内容（按照重要程度排序）&lt;/h2&gt;
-&lt;h4 id=&#34;1绩点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1绩点&#34;&gt;#&lt;/a&gt; 1. 绩点&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2语言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2语言&#34;&gt;#&lt;/a&gt; 2. 语言&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;这个算一个标准，一个要求，港新是总分 6.5 就可以&lt;/li&gt;
-&lt;li&gt;但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上&lt;/li&gt;
-&lt;li&gt;韦姐高考英语 146，自学的 7.5 分，太强哩&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3实习&#34;&gt;#&lt;/a&gt; 3. 实习&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4kaggle&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4kaggle&#34;&gt;#&lt;/a&gt; 4.kaggle&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;此条不具有通用性&lt;/li&gt;
-&lt;li&gt;kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;5学术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5学术&#34;&gt;#&lt;/a&gt; 5. 学术&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树&lt;br /&gt;
-有&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</guid>
-            <title>kaggle泰坦尼克号问题</title>
-            <link>https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</link>
-            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
-            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
-            <category term="kaggle" scheme="https://tartar0us.github.io/tags/kaggle/" />
-            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;~~ 第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</guid>
-            <title>数学模型</title>
-            <link>https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</link>
-            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
-            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
-            <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
-            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;rnn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rnn&#34;&gt;#&lt;/a&gt; RNN&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Recurrent Neural Network（循环神经网络）&lt;/li&gt;
-&lt;li&gt;有记忆的神经网络，但是记忆太短，容易出错&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;lstm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lstm&#34;&gt;#&lt;/a&gt; LSTM&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Long Short-Term Memory（长短期记忆）&lt;/li&gt;
-&lt;li&gt;有三个门来控制记忆，还可以选择删除哪些记忆&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;遗忘门、输入门、输出门&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;具有时间顺序&lt;/li&gt;
-&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -259,15 +263,17 @@
 &lt;p&gt;&lt;strong&gt;———————————————— 公式 ————————————————&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. 傅里叶变换：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;![](file:///C:\Users\HUASHUO\AppData\Local\Temp\ksohtml18288\wps1.jpg)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. 短时傅里叶变换&lt;/strong&gt; **：**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 短时傅里叶变换&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;![](file:///C:\Users\HUASHUO\AppData\Local\Temp\ksohtml18288\wps2.jpg)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;快速傅里叶变换（这是对傅里叶变换的改进）：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;![](file:///C:\Users\HUASHUO\AppData\Local\Temp\ksohtml18288\wps3.jpg)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 小波变换&lt;/strong&gt; **：**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 小波变换&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;![](file:///C:\Users\HUASHUO\AppData\Local\Temp\ksohtml18288\wps4.jpg)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. 连续小波变换&lt;/strong&gt; **：**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 连续小波变换&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;![](file:///C:\Users\HUASHUO\AppData\Local\Temp\ksohtml18288\wps5.jpg)&lt;/p&gt;
-&lt;p&gt;以上几种都是时频二维分析的方法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以上几种都是时频二维分析的方法&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;要掌握凯斯西储大学cwru轴承数据的解读与分类处理您需要学会以下知识点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#要掌握凯斯西储大学cwru轴承数据的解读与分类处理您需要学会以下知识点&#34;&gt;#&lt;/a&gt; 要掌握凯斯西储大学（CWRU）轴承数据的解读与分类处理，您需要学会以下知识点：&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -300,10 +306,66 @@
 &lt;p&gt;如果二维不好分开，可以加上一个非线性的特征，比如在 xoy 二维直角坐标系上不好分开，加入一个新的坐标轴，是 x 方 + y 方轴，&lt;/p&gt;
 &lt;p&gt;在低纬度下对数据进行升维&lt;/p&gt;
 &lt;p&gt;或者使用核技巧（目前没弄懂）&lt;/p&gt;
-&lt;p&gt;更高阶的：随机森林&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bagging&lt;/strong&gt;：模型之间相互独立，共同投票选出最终结果&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Boosting&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;通过迭代地训练一系列弱学习器，每个新的学习器都试图纠正前一个学习器的错误。所有学习器的预测结果会被加权汇总，以得到最终预测。AdaBoost、Gradient Boosting 和 XGBoost 是 Boosting 的常见算法。&lt;/p&gt;
+&lt;h2 id=&#34;更高阶模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更高阶模型&#34;&gt;#&lt;/a&gt; 更高阶模型&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;随机森林&lt;/strong&gt;：多个决策树构成&lt;br /&gt;
+&lt;strong&gt; Bagging&lt;/strong&gt;：模型之间相互独立，共同投票选出最终结果&lt;br /&gt;
+从原始数据集中有放回的随机采样&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Boosting&lt;/strong&gt;：通过迭代地训练一系列弱学习器，每个新的学习器都试图纠正前一个学习器的错误。所有学习器的预测结果会被加权汇总，以得到最终预测。AdaBoost、Gradient Boosting 和 XGBoost 是 Boosting 的常见算法。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月31日日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
+&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
+&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
+&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
+&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
+&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
+&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
+&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
+&lt;li&gt;有点撑得慌。&lt;/li&gt;
+&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
+&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
+&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
+&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
+&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
+&lt;li&gt;打车                           25 元&lt;/li&gt;
+&lt;li&gt;买水果                       14 元&lt;/li&gt;
+&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
+&lt;li&gt;午饭                           12 元&lt;/li&gt;
+&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
+&lt;li&gt;火车票                       69 元&lt;/li&gt;
+&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
+&lt;li&gt;火影日常&lt;/li&gt;
+&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
+&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
+&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -378,61 +440,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月31日日记</title>
-            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
-&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
-&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
-&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
-&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
-&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
-&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
-&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
-&lt;li&gt;有点撑得慌。&lt;/li&gt;
-&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
-&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
-&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
-&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
-&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
-&lt;li&gt;打车                           25 元&lt;/li&gt;
-&lt;li&gt;买水果                       14 元&lt;/li&gt;
-&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
-&lt;li&gt;午饭                           12 元&lt;/li&gt;
-&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
-&lt;li&gt;火车票                       69 元&lt;/li&gt;
-&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
-&lt;li&gt;火影日常&lt;/li&gt;
-&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
-&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
-&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://tartar0us.github.io/python%20demo/</guid>
             <title>Python Demo</title>
             <link>https://tartar0us.github.io/python%20demo/</link>
@@ -442,6 +449,73 @@
             <pubDate>Wed, 30 Jul 2025 15:30:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这是一个 Python 基础语法演示，包含复数运算、字符串格式化等内容。&lt;/p&gt;
 &lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月30日日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
+&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
+&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
+&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;两点睡的。越来越狠了熬夜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;六连胜上暗部。&lt;/li&gt;
+&lt;li&gt;看到 xwx 上超影了，说实话有点羡慕&lt;/li&gt;
+&lt;li&gt;我什么时候能上影啊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月29日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。&lt;/li&gt;
+&lt;li&gt;学了一点点 md 语法，我认为写博客是完全够用了。&lt;/li&gt;
+&lt;li&gt;现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实习&#34;&gt;#&lt;/a&gt; 实习&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。&lt;/li&gt;
+&lt;li&gt;感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。&lt;/li&gt;
+&lt;li&gt;收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;回酒店之后洗了衣服，有进步。&lt;/li&gt;
+&lt;li&gt;晚饭吃的塔斯汀，虽然不是很健康但是爽了。&lt;/li&gt;
+&lt;li&gt;睡得又有点晚了。无可厚非，今天基本没有在浪费时间。&lt;/li&gt;
+&lt;li&gt;但是好多天没读书了。&lt;/li&gt;
+&lt;li&gt;代办有一些还没做，明天得着手弄了&lt;/li&gt;
+&lt;li&gt;以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;火影日常 + 上忍二&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;^+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.771331em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.771331em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -483,73 +557,6 @@
 &lt;ul&gt;
 &lt;li&gt;python 中的 for 循环和 c 语言中的 for 循环有较大差别，c 语言中 for 后面的括号跟着执行条件，在执行循环之前先判断条件。而 python 中的 for 指令默认遍历，如果想要加条件需要在循环体中加。&lt;/li&gt;
 &lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月29日记</title>
-            <link>https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。&lt;/li&gt;
-&lt;li&gt;学了一点点 md 语法，我认为写博客是完全够用了。&lt;/li&gt;
-&lt;li&gt;现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实习&#34;&gt;#&lt;/a&gt; 实习&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。&lt;/li&gt;
-&lt;li&gt;感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。&lt;/li&gt;
-&lt;li&gt;收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;回酒店之后洗了衣服，有进步。&lt;/li&gt;
-&lt;li&gt;晚饭吃的塔斯汀，虽然不是很健康但是爽了。&lt;/li&gt;
-&lt;li&gt;睡得又有点晚了。无可厚非，今天基本没有在浪费时间。&lt;/li&gt;
-&lt;li&gt;但是好多天没读书了。&lt;/li&gt;
-&lt;li&gt;代办有一些还没做，明天得着手弄了&lt;/li&gt;
-&lt;li&gt;以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;火影日常 + 上忍二&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;^+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.771331em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.771331em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月30日日记</title>
-            <link>https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
-&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
-&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
-&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;两点睡的。越来越狠了熬夜&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;六连胜上暗部。&lt;/li&gt;
-&lt;li&gt;看到 xwx 上超影了，说实话有点羡慕&lt;/li&gt;
-&lt;li&gt;我什么时候能上影啊。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
  ]]></description>
         </item>
         <item>
@@ -696,8 +703,8 @@
             <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
             <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
-            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
             <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
+            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
             <pubDate>Tue, 29 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;这是一段引用文字&lt;/p&gt;
