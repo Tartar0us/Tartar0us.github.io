@@ -7,36 +7,17 @@
     "home_page_url": "https://Tartar0us.github.io",
     "items": [
         {
-            "id": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2025/",
-            "url": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2025/",
-            "title": "",
-            "date_published": "2025-07-31T17:57:49.208Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2024/",
-            "url": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2024/",
-            "title": "",
-            "date_published": "2025-07-31T17:57:48.615Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2023/",
-            "url": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2023/",
-            "title": "",
-            "date_published": "2025-07-31T17:57:47.304Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2022/",
-            "url": "https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2022/",
-            "title": "",
-            "date_published": "2025-07-31T17:57:46.590Z",
-            "content_html": "",
-            "tags": []
+            "id": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
+            "url": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
+            "title": "kaggle泰坦尼克号问题",
+            "date_published": "2025-07-31T16:00:00.000Z",
+            "content_html": "<p><s>第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力</s></p>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
+            "tags": [
+                "技术",
+                "实习",
+                "数据分析",
+                "kaggle"
+            ]
         },
         {
             "id": "https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/",
@@ -52,16 +33,14 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
-            "url": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
-            "title": "kaggle泰坦尼克号问题",
+            "id": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/",
+            "url": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/",
+            "title": "留学信息",
             "date_published": "2025-07-31T16:00:00.000Z",
-            "content_html": "<p><s>第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力</s></p>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
+            "content_html": "<h2 id=\"目标院校\"><a class=\"anchor\" href=\"#目标院校\">#</a> 目标院校</h2>\n<ul>\n<li>新加坡国立大学（NUS）</li>\n<li>新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业</li>\n<li>香港大学</li>\n<li>香港中文大学</li>\n<li>香港科技大学</li>\n<li>帝国理工学院（IC）</li>\n</ul>\n<h2 id=\"需要准备的内容按照重要程度排序\"><a class=\"anchor\" href=\"#需要准备的内容按照重要程度排序\">#</a> 需要准备的内容（按照重要程度排序）</h2>\n<h4 id=\"1绩点\"><a class=\"anchor\" href=\"#1绩点\">#</a> 1. 绩点</h4>\n<ul>\n<li>港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力</li>\n</ul>\n<h4 id=\"2语言\"><a class=\"anchor\" href=\"#2语言\">#</a> 2. 语言</h4>\n<ul>\n<li>这个算一个标准，一个要求，港新是总分 6.5 就可以</li>\n<li>但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上</li>\n<li>韦姐高考英语 146，自学的 7.5 分，太强哩</li>\n<li></li>\n</ul>\n<h4 id=\"3实习\"><a class=\"anchor\" href=\"#3实习\">#</a> 3. 实习</h4>\n<ul>\n<li>与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历</li>\n</ul>\n<h4 id=\"4kaggle\"><a class=\"anchor\" href=\"#4kaggle\">#</a> 4.kaggle</h4>\n<ul>\n<li>此条不具有通用性</li>\n<li>kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。</li>\n<li>今天（8 月 1 日）学完了 python 基本语法，还有各种机器学习模型、以及数据分析的流程，我跟晓蝶姐说想要一些公司的实例复现一下，她跟我说可以上 kaggle 打打比赛，学学真正的数据分析</li>\n</ul>\n<h4 id=\"5学术\"><a class=\"anchor\" href=\"#5学术\">#</a> 5. 学术</h4>\n<ul>\n<li>发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树<br />\n有</li>\n<li>韦姐说，我们院的几个研究和数据分析、人工智能沾边的老师里边，安爽导师跟我最适配。我过段时间试试可不可以给安爽老师打杂，干一些活，哪怕能学到一点点知识也可以，这绝对是一个不可多得的机会。</li>\n<li>安爽导师推荐过的几本书：数据分析，大数据，机器学习</li>\n<li></li>\n</ul>\n",
             "tags": [
-                "技术",
-                "实习",
-                "数据分析",
-                "kaggle"
+                "学业",
+                "留学"
             ]
         },
         {
@@ -75,17 +54,6 @@
                 "实习",
                 "数据分析",
                 "数学"
-            ]
-        },
-        {
-            "id": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/",
-            "url": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/",
-            "title": "留学信息",
-            "date_published": "2025-07-31T16:00:00.000Z",
-            "content_html": "<h2 id=\"目标院校\"><a class=\"anchor\" href=\"#目标院校\">#</a> 目标院校</h2>\n<ul>\n<li>新加坡国立大学（NUS）</li>\n<li>新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业</li>\n<li>香港大学</li>\n<li>香港中文大学</li>\n<li>香港科技大学</li>\n<li>帝国理工学院（IC）</li>\n</ul>\n<h2 id=\"需要准备的内容按照重要程度排序\"><a class=\"anchor\" href=\"#需要准备的内容按照重要程度排序\">#</a> 需要准备的内容（按照重要程度排序）</h2>\n<h4 id=\"1绩点\"><a class=\"anchor\" href=\"#1绩点\">#</a> 1. 绩点</h4>\n<ul>\n<li>港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力</li>\n</ul>\n<h4 id=\"2语言\"><a class=\"anchor\" href=\"#2语言\">#</a> 2. 语言</h4>\n<ul>\n<li>这个算一个标准，一个要求，港新是总分 6.5 就可以</li>\n<li>但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上</li>\n<li>韦姐高考英语 146，自学的 7.5 分，太强哩</li>\n<li></li>\n</ul>\n<h4 id=\"3实习\"><a class=\"anchor\" href=\"#3实习\">#</a> 3. 实习</h4>\n<ul>\n<li>与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历</li>\n</ul>\n<h4 id=\"4kaggle\"><a class=\"anchor\" href=\"#4kaggle\">#</a> 4.kaggle</h4>\n<ul>\n<li>此条不具有通用性</li>\n<li>kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。</li>\n<li>今天（8 月 1 日）学完了 python 基本语法，还有各种机器学习模型、以及数据分析的流程，我跟晓蝶姐说想要一些公司的实例复现一下，她跟我说可以上 kaggle 打打比赛，学学真正的数据分析</li>\n</ul>\n<h4 id=\"5学术\"><a class=\"anchor\" href=\"#5学术\">#</a> 5. 学术</h4>\n<ul>\n<li>发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树<br />\n有</li>\n<li>韦姐说，我们院的几个研究和数据分析、人工智能沾边的老师里边，安爽导师跟我最适配。我过段时间试试可不可以给安爽老师打杂，干一些活，哪怕能学到一点点知识也可以，这绝对是一个不可多得的机会。</li>\n<li>安爽导师推荐过的几本书：数据分析，大数据，机器学习</li>\n<li></li>\n</ul>\n",
-            "tags": [
-                "学业",
-                "留学"
             ]
         },
         {
@@ -145,11 +113,11 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "7月30日日记",
+            "id": "https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月29日记",
             "date_published": "2025-07-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>太懒了，博客的迁移大业目前还没有进行</li>\n<li>遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。</li>\n<li>哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。</li>\n</ul>\n<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<ul>\n<li>python 基本语法强化，把学过的内容写成 md 文件存了下来</li>\n<li>（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>两点睡的。越来越狠了熬夜</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>六连胜上暗部。</li>\n<li>看到 xwx 上超影了，说实话有点羡慕</li>\n<li>我什么时候能上影啊。</li>\n</ul>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
+            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
             "tags": [
                 "生活",
                 "博客",
@@ -157,11 +125,11 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "7月29日记",
+            "id": "https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月30日日记",
             "date_published": "2025-07-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。</li>\n<li>学了一点点 md 语法，我认为写博客是完全够用了。</li>\n<li>现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。</li>\n</ul>\n<h1 id=\"实习\"><a class=\"anchor\" href=\"#实习\">#</a> 实习</h1>\n<ul>\n<li>学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。</li>\n<li>感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。</li>\n<li>收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>回酒店之后洗了衣服，有进步。</li>\n<li>晚饭吃的塔斯汀，虽然不是很健康但是爽了。</li>\n<li>睡得又有点晚了。无可厚非，今天基本没有在浪费时间。</li>\n<li>但是好多天没读书了。</li>\n<li>代办有一些还没做，明天得着手弄了</li>\n<li>以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>火影日常 + 上忍二<span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mrow></mrow><mo>+</mo></msup></mrow><annotation encoding=\"application/x-tex\">^+</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.771331em;vertical-align:0em;\"></span><span class=\"mord\"><span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.771331em;\"><span style=\"top:-3.063em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mbin mtight\">+</span></span></span></span></span></span></span></span></span></span></span></li>\n</ul>\n",
+            "content_html": "<h1 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h1>\n<ul>\n<li>太懒了，博客的迁移大业目前还没有进行</li>\n<li>遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。</li>\n<li>哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。</li>\n</ul>\n<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<ul>\n<li>python 基本语法强化，把学过的内容写成 md 文件存了下来</li>\n<li>（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）</li>\n</ul>\n<h1 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h1>\n<ul>\n<li>两点睡的。越来越狠了熬夜</li>\n</ul>\n<h1 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h1>\n<ul>\n<li>六连胜上暗部。</li>\n<li>看到 xwx 上超影了，说实话有点羡慕</li>\n<li>我什么时候能上影啊。</li>\n</ul>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
             "tags": [
                 "生活",
                 "博客",
@@ -226,6 +194,54 @@
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<p>&lt;!–code￼0–&gt;</p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<p>&lt;!–code￼1–&gt;</p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<p>&lt;!–code￼2–&gt;</p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<p>&lt;!–code￼3–&gt;</p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
             "tags": [
                 "技术"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/blog-meta/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/",
+            "url": "https://tartar0us.github.io/blog-meta/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%8C%E5%96%84/",
+            "title": "博客的完善",
+            "date_published": "2025-07-25T16:00:00.000Z",
+            "content_html": "<h1 id=\"博客的完善\"><a class=\"anchor\" href=\"#博客的完善\">#</a> 博客的完善</h1>\n<h2 id=\"markdown-文本编辑器的选择\"><a class=\"anchor\" href=\"#markdown-文本编辑器的选择\">#</a> markdown 文本编辑器的选择</h2>\n<ul>\n<li>通过 b 站查询了解到 typora 后期是要收费的，就没有用，看 b 站有关 obsidian 的教程感觉好复杂， 但是真正下载下来之后发现，既然我只用它的文本编辑功能，那暂时也不需要掌握其他的用法。</li>\n<li>obsidian 的优点非常明显，就是可以直接在编辑文本的时候预览到最终的效果，比如三个井号 ### 是三级标题，在新的一行输入之后直接就变了，下面展示一级标题二级标题三级标题</li>\n</ul>\n<h1 id=\"我是一级标题\"><a class=\"anchor\" href=\"#我是一级标题\">#</a> 我是一级标题</h1>\n<h2 id=\"我是二级标题\"><a class=\"anchor\" href=\"#我是二级标题\">#</a> 我是二级标题</h2>\n<h3 id=\"我是三级标题\"><a class=\"anchor\" href=\"#我是三级标题\">#</a> 我是三级标题</h3>\n<p>非常的直观方便！</p>\n<h2 id=\"更新的方式\"><a class=\"anchor\" href=\"#更新的方式\">#</a> 更新的方式</h2>\n<ul>\n<li>现在已经完全熟悉 hexo 更新指令了，但在更新的过程中给可以选择两种方式，一种是在 blog 文件夹中右键运行 git bush，第二种是借助编译器里的终端，比如 kiro 里的，后者的优点是比前者快一些，有问题还可以随时问 ai，我比较满意。但是如果是在另一个电脑中，没有办法的情况下，第一种情况也行<br />\n —————————————————— 二编，7 月 29 日 23：46——————————-————</li>\n</ul>\n<h2 id=\"随机图片生成\"><a class=\"anchor\" href=\"#随机图片生成\">#</a> 随机图片生成</h2>\n<ul>\n<li>作者的这个 api 地址是不能用的，我现在 github 应该只能免费生成一个网页，现在我的博客文章没有封面是一个比较棘手的事。</li>\n</ul>\n<h2 id=\"写日记\"><a class=\"anchor\" href=\"#写日记\">#</a> 写日记</h2>\n<ul>\n<li>我纠结的第二个问题就是要不要在部署在 github 上的博客写日记。我之前的日记是在 csdn 写的，因为那个平台被熟人发现的概率非常非常低，并且主要是更新自己的一些日常，算是把自己的想法完全裸露在世界面前。</li>\n<li>我的一直的愿望就是能有一个地方，永久的储存我的思考，记录，我希望十年或者二十年之后看起来会特别感动，至少我把当年的事都记下来了。当然就算一开始是一些不好的情绪多一些，慢慢我也会记录生活中的快乐。这绝对是一个很宏大的计划。</li>\n<li>我决定还是要在我的网站上写日记，因为其他大佬也有在自己的网站上记录生活，分类中，学习，生活，技术分明，还有游戏。我觉得这真的是一件很酷的事情。还有就是我的网站被熟人发现的概率基本为零。江沛那样的大佬的 github 就只有两三个粉丝甚至更少，我这样的第一没人关注我，第二也不会看我的博客，嘿嘿。我去看看 csdn 能不能直接保存为 md，这样就省了很多力气了。</li>\n</ul>\n<h2 id=\"csdn文章迁移\"><a class=\"anchor\" href=\"#csdn文章迁移\">#</a> csdn 文章迁移</h2>\n<ul>\n<li>刚才找到了一个办法，需要下载一个 python 程序，相当于是把 csdn 中的所有文章爬下来，44mb 但是酒店的网实在是太差了，只能明天去公司下载了。今天又不小心熬夜了（并非不小心）晚安。</li>\n</ul>\n",
+            "tags": [
+                "技术",
+                "博客",
+                "Hexo"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/blog-meta/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "url": "https://tartar0us.github.io/blog-meta/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "title": "我的第一篇Hexo博客",
+            "date_published": "2025-07-25T16:00:00.000Z",
+            "content_html": "<h1 id=\"欢迎来到我的博客\"><a class=\"anchor\" href=\"#欢迎来到我的博客\">#</a> 欢迎来到我的博客</h1>\n<h2 id=\"1这个博客的由来\"><a class=\"anchor\" href=\"#1这个博客的由来\">#</a> 1. 这个博客的由来</h2>\n<ul>\n<li>我在完全不懂前端知识的情况下，让 trae 帮我写了一个 blog 网站，并成功地部署到了 github 上。整个过程用了大概一天</li>\n<li>但是很不幸的是我后来在对 blog 的 UI 的美化过程中，trae 的代码编写出现了一些失误，以至于 blog 的 ui 基本上掉了。经过一个小时的调试后我决定放弃让 trae 用 hexo 架构帮我编写博客。</li>\n<li>在 b 站搜索后我决定使用 hexo 网站上的主题对自己的 blog 进行美化，并且删除除了文章和图片之外的所有内容，毕竟现在的 blog 也是一坨，到此结束也没有什么不好的。</li>\n<li>今天是 7 月 25 日，是我第二次对个人网站搭建的尝试，我将继续对前端进行探索，争取简单了解 js，html 语言，最终问了自己 blog 的个性化而努力。</li>\n</ul>\n<h2 id=\"2-我的学习清单\"><a class=\"anchor\" href=\"#2-我的学习清单\">#</a> 2. 我的学习清单</h2>\n<p>sql、python、线性规划、同时继续加深对随机森林，决策树，svm，xgboost，GBDT 等模型的理解，并尝试学习 html，js，md 等前端语言。听起来是一个很宏大的东西，可能在整个调试的过程中很吃力，最后的成果并不完美，但是我相信这绝对会是具有里程碑意义的一步。</p>\n<h2 id=\"3-代码示例\"><a class=\"anchor\" href=\"#3-代码示例\">#</a> 3. 代码示例</h2>\n<p>&lt;!–code￼0–&gt;</p>\n<h2 id=\"4-图片展示\"><a class=\"anchor\" href=\"#4-图片展示\">#</a> 4. 图片展示</h2>\n<p><img data-src=\"/images/universe.png\" alt=\"我的背景图\" /><br />\n上面这张图片是让 AI 生成的<br />\n<img data-src=\"/images/profile%20picture.jpg\" alt=\"我的背景图\" /><br />\n这张图片是《挪威的森林》里的小林绿子</p>\n<blockquote>\n<p>提示：完成编辑后，运行  <code>hexo clean &amp;&amp; hexo server</code>  预览效果</p>\n</blockquote>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "Hexo"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/diary/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/7%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月22日日记",
+            "date_published": "2025-07-21T16:00:00.000Z",
+            "content_html": "<p>今天是实习第一天，我只能说酒店很完美，能洗衣服能晾衣服，洗澡，有空调，有热水，有电绝对是很值得。</p>\n<p>早上八点多到了公司之后贾总让我先跟着张总学习一下使用 trae，他们公司本来是用的 cursor，但是好像后来觉得不如 trae 好用，就改用 trae 了。然后今天晓蝶姐给我推荐了用 kiro 也挺好用的，基本上跟 trae 差不多，我用 trae 的最大的感想就是比之前我用过所有的网页版交互人工智能都要先进，我说我的需求，他就可以完成一个程序开发的整个流程。我今天又顺带着上了一下我的 github，搭建了两个仓库，一个仓库中存的代码是让 trae 帮我生成的贪吃蛇网页版小游戏的代码，另一个是生成了一个待办清单的网页版，我后期想把它开发成一个 android app，估计明天就能弄出来，非常的有意思，这样我就相当于有了自己开发的第一个 app，我甚至可以把这个用来弄我们三下乡团队的老年人手机教学，和反诈骗、心理健康知识科普 app。这个 ai 真的是非常的好用。</p>\n<p>在看这个 trae 的教学视频的时候，博主的一段话点醒了我，他说这个 ai 开发环境的主要目的是帮助有技术的人更高效的开发工具，没有技术的人用起来会比较吃力，因为有技术的人在程序卡住的时候可以知道问题出在哪，解决问题推进程序继续完善，而没有技术的人只会说自己的需求，没法帮助 ai 解决问题，如果 ai 卡住了他们也就卡住了。所以说熟练的掌握 ai 工具确实是一个必不可少的技能，但是自身的专业素养，编码能力也是很重要的。</p>\n<p>午饭在酒店吃的，有点辣。 明天中午一到十二点就跑，争取吃上西红柿鸡蛋打卤面。</p>\n<p>晚饭在回来的路上找了一家面馆，吃的宽面，但是豆芽不是很好吃，好在有一瓶冰镇啤酒，非常的爽。</p>\n<p>今天在公司借着公司的网下载了三角洲行动，然后回宿舍之后电脑打了几把，感觉好像不长时间玩的话 3d 也不是很严重。然后主要是不能自己玩这个摸金，会觉得带枪进去被打死特别亏，跑刀又很无聊，所以说游戏的最高配置还是朋友，以后手游三角洲和小林杰哥一起玩，端游可以叫着别佳诺和学长，非常的好。</p>\n<p>好像没怎么完成自己给自己布置的任务，有点懒惰，慢慢来吧！</p>\n<p>晓蝶姐说 sql 没必要现在着急学，现在可以看看随机森林，lstm，回归模型，还有线性规划等等等等。</p>\n<p>我要自己学这些内容，还有英语，还有 python，这个下学期会用到，然后还有数学建模，还有 mark down 之类的语言。感觉玩电脑真的是一个非常有意思的过程，你可以创造很多新的东西，你还可以在学习的过程中学到更多的英语，这真的是一个很不错的事情</p>\n",
+            "tags": [
+                "生活",
+                "实习",
+                "成长"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/diary/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "7月21日日记",
+            "date_published": "2025-07-20T16:00:00.000Z",
+            "content_html": "<pre><code>昨天20号，晚上和张紫旭一家一起吃饭了，还有一个小姑娘，平时这个小姑娘学文科的，经常六百多，张紫旭平时550，但是高考的时候他俩反过来了，张紫旭604，小姑娘我看应该是560左右，录取上了齐鲁工业大学的法学，然后张紫旭应该是被大连海事大学的计算机录取了。有点可惜差一点成校友了，因为他报志愿的时候把计算机全都放前面了，而不是专注于院校。要是把东秦的都放在前面就稳来了。\n\n感觉昨天这两个哥们都挺帅的，张紫旭打扮的非常帅，烫头韩式纹理，然后还有好多耳夹，甚至还有狼尾\n\n哦卧槽我想起来昨天上午去哪了，昨天上午回老家了，姑姑姑父表哥也回去了。吃饭到最后一直在批判我表哥，考研没考上，现在在家里还偶尔打游戏，考教师资格也没考上，当时最可惜的是潍柴来校招没去。哎。潍柴真的是一个很好的企业。然后现在在家也不上班，学习也不好好学，应该是准备二战了，但是也没有把心思全部放在学习上。有点愁人。自己不学别人怎么劝也没用。还是得自己幡然醒悟。   说实话，我觉得如果一个大学生，大学英语四级大学四年一直考一直没过的话，我觉得他这辈子也就这样了，如果一直维持下去。这个东西只要肯背单词，都能过的。\n\n  19号下午开班会的时候说了劳动教育的事，我回老家的时候做了一顿排骨，然后好像是忘了记录家人的反馈了。。。没关系，视频和照片拍摄了。一定要拉满，周末的时候积极搞这些东西，争取不要等到最后 的ddl\n\n  今天的话早上摆烂，中午在家吃，下午一共四个人开车来石家庄，定了酒店，距离公司还挺近的，步行六百多米，然后明天就要去上班哩。有点激动。\n\n 今天晚上在孙大厨吃完饭出来之后，饭店门口围了一群精神小妹，手里拿着ktv的优惠卷问我们：“哥去不去唱歌“   我觉得他们还挺聪明的，知道在好的饭店门口问，不去烧烤摊之类的地方。但是感觉收入肯定很微薄，还不如进厂努努力，虽然累，但是起码比这样挣得多。\n\n今天晚上和张紫旭 加上他表哥一起玩了pubg，卡的不行，第一次知道打游戏要开显卡。有点意思哈。然后明天准备跟着刘晓蝶姐姐学习了。加油\n</code></pre>\n<p>——————</p>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "成长"
             ]
         }
     ]
