@@ -42,60 +42,40 @@
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2021/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2021/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:46 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2020/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2020/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:45 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2019/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2019/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:44 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2018/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2018/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:44 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2017/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2017/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:43 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2016/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2016/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:43 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2015/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2015/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:42 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2014/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2014/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:42 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <guid isPermalink="true">https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/</guid>
+            <title>Kaggle</title>
+            <link>https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="kaggle" scheme="https://tartar0us.github.io/tags/kaggle/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;入门&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#入门&#34;&gt;#&lt;/a&gt; 入门&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;本来打算把 kaggle 入门归类到我们的 tech 文件夹中，但是想到未来还要有很多的博客关于 kaggle，就直接开了一个文件夹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;如何使用kaggle&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何使用kaggle&#34;&gt;#&lt;/a&gt; 如何使用 kaggle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;下载数据集&lt;/li&gt;
+&lt;li&gt;模型求解&lt;/li&gt;
+&lt;li&gt;提交数据 -&amp;gt; 得到分数&lt;/li&gt;
+&lt;li&gt;优化模型，尝试获得更高的分数&lt;/li&gt;
+&lt;li&gt;最终得到排名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;官方比赛介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#官方比赛介绍&#34;&gt;#&lt;/a&gt; 官方比赛介绍&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;参加比赛&lt;/strong&gt;&lt;br /&gt;
+阅读挑战说明，接受比赛规则并访问比赛数据集。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开始工作&lt;/strong&gt;&lt;br /&gt;
+下载数据，在本地或 Kaggle Notebooks（我们无需设置、可自定义的 Jupyter Notebooks 环境，带有免费 GPU）上构建模型，并生成预测文件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提交&lt;/strong&gt;&lt;br /&gt;
+：将您的预测作为提交上传到 Kaggle 上，并获得准确度分数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;查看排行榜&lt;/strong&gt;&lt;br /&gt;
+查看您的模型与我们排行榜上其他 Kaggler 的排名如何。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提高你的分数查看&lt;/strong&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS9jL3RpdGFuaWMvZGlzY3Vzc2lvbg==&#34;&gt;讨论论坛&lt;/span&gt;，找到其他竞争对手的大量教程和见解。&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://tartar0us.github.io/life/%E7%95%99%E5%AD%A6/</guid>
@@ -142,6 +122,18 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</guid>
+            <title>kaggle泰坦尼克号问题</title>
+            <link>https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="kaggle" scheme="https://tartar0us.github.io/tags/kaggle/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;~~ 第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</guid>
             <title>数学模型</title>
             <link>https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</link>
@@ -178,61 +170,6 @@
 &lt;h2 id=&#34;标准型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标准型&#34;&gt;#&lt;/a&gt; 标准型&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;目标函数为求最小值&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月31日日记</title>
-            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
-&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
-&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
-&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
-&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
-&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
-&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
-&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
-&lt;li&gt;有点撑得慌。&lt;/li&gt;
-&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
-&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
-&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
-&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
-&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
-&lt;li&gt;打车                           25 元&lt;/li&gt;
-&lt;li&gt;买水果                       14 元&lt;/li&gt;
-&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
-&lt;li&gt;午饭                           12 元&lt;/li&gt;
-&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
-&lt;li&gt;火车票                       69 元&lt;/li&gt;
-&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
-&lt;li&gt;火影日常&lt;/li&gt;
-&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
-&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
-&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -441,6 +378,114 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月31日日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
+&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
+&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
+&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
+&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
+&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
+&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
+&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
+&lt;li&gt;有点撑得慌。&lt;/li&gt;
+&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
+&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
+&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
+&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
+&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
+&lt;li&gt;打车                           25 元&lt;/li&gt;
+&lt;li&gt;买水果                       14 元&lt;/li&gt;
+&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
+&lt;li&gt;午饭                           12 元&lt;/li&gt;
+&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
+&lt;li&gt;火车票                       69 元&lt;/li&gt;
+&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
+&lt;li&gt;火影日常&lt;/li&gt;
+&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
+&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
+&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/python%20demo/</guid>
+            <title>Python Demo</title>
+            <link>https://tartar0us.github.io/python%20demo/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+            <category term="编程" scheme="https://tartar0us.github.io/tags/%E7%BC%96%E7%A8%8B/" />
+            <pubDate>Wed, 30 Jul 2025 15:30:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这是一个 Python 基础语法演示，包含复数运算、字符串格式化等内容。&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/python%20demo/</guid>
+            <title>python demo1</title>
+            <link>https://tartar0us.github.io/tech/python%20demo/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;写函数的时候用print输出好还是用return输出好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写函数的时候用print输出好还是用return输出好&#34;&gt;#&lt;/a&gt; 写函数的时候用 print 输出好还是用 return 输出好？&lt;/h3&gt;
+&lt;h5 id=&#34;一-用return-的优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-用return-的优势&#34;&gt;#&lt;/a&gt; 一、用 return 的优势&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;单一职责原则&lt;/strong&gt;&lt;br /&gt;
+函数的核心职责是 “计算数据”（实现加法逻辑），而 “输出结果” 属于展示层面的行为。第一种方式中， &lt;code&gt;plus&lt;/code&gt;  函数专注于计算  &lt;code&gt;a + b&lt;/code&gt;  的结果并通过  &lt;code&gt;return&lt;/code&gt;  返回，把 “计算” 和 “输出” 的职责分开，符合编程里的&lt;strong&gt;单一职责原则&lt;/strong&gt;，函数功能更纯粹、清晰。&lt;br /&gt;
+比如，后续如果不想打印结果，而是要把这个和用于其他计算（如参与更复杂的公式、存入列表等），直接使用  &lt;code&gt;return&lt;/code&gt;  的结果即可，灵活性更高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结果可复用&lt;/strong&gt;&lt;br /&gt;
+ &lt;code&gt;return&lt;/code&gt;  返回的是一个明确的值，这个值可以被调用处灵活处理：既可以用  &lt;code&gt;print&lt;/code&gt;  输出，也能赋值给变量参与其他逻辑。例如：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;python&lt;/p&gt;
+&lt;p&gt;运行&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼1–&amp;gt;&lt;/p&gt;
+&lt;p&gt;如果是第二种方式（函数内部直接  &lt;code&gt;print&lt;/code&gt;  ），就无法直接获取计算结果做后续处理，函数的复用性大打折扣。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;符合函数设计理念&lt;/strong&gt;&lt;br /&gt;
+函数的本质是 “输入一些数据，经过处理后输出（返回）另一些数据”， &lt;code&gt;return&lt;/code&gt;  是实现这一流程的标准方式。它清晰地界定了函数的输入输出，让代码逻辑更易理解、维护，其他人阅读代码时，能快速知道函数会产出什么结果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;作用域&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作用域&#34;&gt;#&lt;/a&gt; 作用域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;函数中如果定义了变量，那么这个变量就只能在函数内使用，是一个局部变量，如果在函数外使用会报错&lt;/li&gt;
+&lt;li&gt;如果局部变量与全局变量同名，在函数中优先调用局部变量，除非声明 global XXXX&lt;/li&gt;
+&lt;li&gt;for 循环里的变量可以在循环外使用，虽然可以但是不建议，这不标准&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;for循环体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#for循环体&#34;&gt;#&lt;/a&gt; for 循环体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;python 中的 for 循环和 c 语言中的 for 循环有较大差别，c 语言中 for 后面的括号跟着执行条件，在执行循环之前先判断条件。而 python 中的 for 指令默认遍历，如果想要加条件需要在循环体中加。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>7月29日记</title>
             <link>https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
@@ -505,6 +550,299 @@
 &lt;li&gt;我什么时候能上影啊。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
+            <title>markdown语法学习</title>
+            <link>https://tartar0us.github.io/tech/markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
+            <pubDate>Tue, 29 Jul 2025 23:31:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;md基本语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#md基本语法&#34;&gt;#&lt;/a&gt; md 基本语法&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;井号来设置标题，例如一个 #加空格就是一级标题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;我是一级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是一级标题&#34;&gt;#&lt;/a&gt; 我是一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;我是二级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是二级标题&#34;&gt;#&lt;/a&gt; 我是二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;我是三级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是三级标题&#34;&gt;#&lt;/a&gt; 我是三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;我是四级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是四级标题&#34;&gt;#&lt;/a&gt; 我是四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;我是五级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是五级标题&#34;&gt;#&lt;/a&gt; 我是五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;我是六级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我是六级标题&#34;&gt;#&lt;/a&gt; 我是六级标题&lt;/h6&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在 obsidian 中暂时不用担心文章 title 和日期之类的，因为有快捷按键可以设置&lt;/li&gt;
+&lt;li&gt;好像我目前除了会写个标题和正文之外不会别的了（）&lt;/li&gt;
+&lt;li&gt;两个 *（星号）之间的字体是斜体，例如：&lt;em&gt;你好&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;两个～（波浪线）之间的字是一段被删除线标记的文本 例如：&lt;s&gt;hell0&lt;/s&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下面是ai生成的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下面是ai生成的&#34;&gt;#&lt;/a&gt; 下面是 AI 生成的&lt;/h1&gt;
+&lt;h3 id=&#34;三-文本样式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-文本样式&#34;&gt;#&lt;/a&gt; 三、文本样式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;粗体&lt;/strong&gt;：用两个星号 &lt;code&gt;**&lt;/code&gt;  或两个下划线 &lt;code&gt;__&lt;/code&gt; 包围文字。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;：用一个星号 &lt;code&gt;*&lt;/code&gt;  或一个下划线 &lt;code&gt;_&lt;/code&gt; 包围文字。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼1–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;s&gt;删除线&lt;/s&gt;：用两个波浪号 &lt;code&gt;~~&lt;/code&gt;  包围文字。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼2–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;四-列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-列表&#34;&gt;#&lt;/a&gt; 四、列表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;无序列表&lt;/strong&gt;：使用 &lt;code&gt;-&lt;/code&gt; 、 &lt;code&gt;+&lt;/code&gt;  或 &lt;code&gt;*&lt;/code&gt;  作为列表标记。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼3–&amp;gt;&lt;/p&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼4–&amp;gt;&lt;/p&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼5–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;有序列表&lt;/strong&gt;：使用数字加点作为列表标记。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼6–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;五-链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五-链接&#34;&gt;#&lt;/a&gt; 五、链接&lt;/h3&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼7–&amp;gt;&lt;/p&gt;
+&lt;p&gt;例如：&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼8–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;六-图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#六-图片&#34;&gt;#&lt;/a&gt; 六、图片&lt;/h3&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼9–&amp;gt;&lt;/p&gt;
+&lt;p&gt;例如：&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼10–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;七-引用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#七-引用&#34;&gt;#&lt;/a&gt; 七、引用&lt;/h3&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼11–&amp;gt;&lt;/p&gt;
+&lt;p&gt;例如：&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼12–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;八-代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八-代码&#34;&gt;#&lt;/a&gt; 八、代码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;行内代码&lt;/strong&gt;：用反引号 &lt;code&gt;`&lt;/code&gt;  包围代码。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼13–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;代码块&lt;/strong&gt;：用三个反引号 &lt;code&gt;```&lt;/code&gt;  包围代码块。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;反引号是键盘上的波浪线！！！&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼14–&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;九-表格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#九-表格&#34;&gt;#&lt;/a&gt; 九、表格&lt;/h3&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼15–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;十-分隔线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十-分隔线&#34;&gt;#&lt;/a&gt; 十、分隔线&lt;/h3&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼16–&amp;gt;&lt;/p&gt;
+&lt;p&gt;或者&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼17–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;十一-脚注1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十一-脚注1&#34;&gt;#&lt;/a&gt; 十一、脚注 [^1]&lt;/h3&gt;
+&lt;p&gt;在需要添加脚注的地方插入 &lt;code&gt;[^1]&lt;/code&gt; ，然后在文档末尾添加脚注内容。&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼18–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;十二-html标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十二-html标签&#34;&gt;#&lt;/a&gt; 十二、HTML 标签&lt;/h3&gt;
+&lt;p&gt;Markdown 支持在文档中直接插入 HTML 标签，例如：&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;p&gt;复制&lt;/p&gt;
+&lt;p&gt;&amp;lt;!–code￼19–&amp;gt;&lt;/p&gt;
+&lt;p&gt;好吧我说实话，ai 生成的还是不能直接复制粘贴，网站上还是不能正确显示。等需要的时候来 md 里边看吧，等哪天看不下去了再改一下格式整理一下&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
+            <title>数据分析</title>
+            <link>https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="Python" scheme="https://tartar0us.github.io/tags/Python/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="md" scheme="https://tartar0us.github.io/tags/md/" />
+            <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
+            <pubDate>Tue, 29 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;这是一段引用文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;数据分析学习路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析学习路径&#34;&gt;#&lt;/a&gt; 数据分析学习路径&lt;/h2&gt;
+&lt;h3 id=&#34;需要掌握的知识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要掌握的知识&#34;&gt;#&lt;/a&gt; 需要掌握的知识&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;理论知识&lt;/li&gt;
+&lt;li&gt;业务知识（实践中学习）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;学习的五个层次&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习的五个层次&#34;&gt;#&lt;/a&gt; 学习的五个层次&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/pic.png&#34; alt=&#34;我的背景图&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;晓蝶姐说 :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;现在都是 ai 写代码了，我建议你学 python 语法的话能先看懂他写的就行，不用特别细致，找个项目快速过一遍整个流程，后边再具体的去学语法或者流程中的某个具体知识&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;数据分析师的python要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的python要求&#34;&gt;#&lt;/a&gt; 数据分析师的 python 要求&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1. 掌握 python 基本语法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2. 会基本使用 pandas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据分析师的excel要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的excel要求&#34;&gt;#&lt;/a&gt; 数据分析师的 excel 要求&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;详情见这个视频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW5xNHkxZDdyZz9zcG1faWRfZnJvbT0zMzMuNzg4LnZpZGVvcG9kLnNlY3Rpb25zJmFtcDt2ZF9zb3VyY2U9NTAyZWNhYjJmOGJlYzgwMGVjZDk0MTVmNzJmOGE5YTY=&#34;&gt;https://www.bilibili.com/video/BV1nq4y1d7rg?spm_id_from=333.788.videopod.sections&amp;amp;vd_source=502ecab2f8bec800ecd9415f72f8a9a6&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;透视表&lt;/li&gt;
+&lt;li&gt;记忆一些常用且有用的快捷键&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据分析师的sql要求&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析师的sql要求&#34;&gt;#&lt;/a&gt; 数据分析师的 sql 要求&lt;/h3&gt;
+&lt;h4 id=&#34;不需要掌握的点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不需要掌握的点&#34;&gt;#&lt;/a&gt; 不需要掌握的点&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;数据写入&lt;/li&gt;
+&lt;li&gt;数据修改&lt;/li&gt;
+&lt;li&gt;数据删除&lt;/li&gt;
+&lt;li&gt;游标&lt;/li&gt;
+&lt;li&gt;触发器&lt;/li&gt;
+&lt;li&gt;存储过程&lt;/li&gt;
+&lt;li&gt;安全管理&lt;/li&gt;
+&lt;li&gt;角色管理&lt;/li&gt;
+&lt;li&gt;事务控制&lt;/li&gt;
+&lt;li&gt;查询速度优化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;需要掌握的基础部分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要掌握的基础部分&#34;&gt;#&lt;/a&gt; 需要掌握的基础部分&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;select 数据提取&lt;/li&gt;
+&lt;li&gt;where 语句使用&lt;/li&gt;
+&lt;li&gt;表的内联外联&lt;/li&gt;
+&lt;li&gt;排序和去重&lt;/li&gt;
+&lt;li&gt;SQL 的书写规则&lt;/li&gt;
+&lt;li&gt;分组 子查询&lt;/li&gt;
+&lt;li&gt;聚合函数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;需要掌握的进阶部分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要掌握的进阶部分&#34;&gt;#&lt;/a&gt; 需要掌握的进阶部分&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;case when 的用法&lt;/li&gt;
+&lt;li&gt;窗口函数如何使用&lt;/li&gt;
+&lt;li&gt;sql 的执行顺序&lt;/li&gt;
+&lt;li&gt;变量的使用&lt;/li&gt;
+&lt;li&gt;分组查询严格模式&lt;/li&gt;
+&lt;li&gt;空值的影响处理&lt;/li&gt;
+&lt;li&gt;count (*) 和 count（列）&lt;/li&gt;
+&lt;li&gt;exist&lt;/li&gt;
+&lt;li&gt;临时表&lt;/li&gt;
+&lt;li&gt;自联接&lt;/li&gt;
+&lt;li&gt;文本时间函数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;sql三个重点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql三个重点&#34;&gt;#&lt;/a&gt; sql 三个重点&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;沟通好，明确需求，避免返工&lt;/li&gt;
+&lt;li&gt;写好的 sql 语句需要备份&lt;/li&gt;
+&lt;li&gt;sql 是一种语言，mysql 和 livesql 是工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数据分析的主要流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据分析的主要流程&#34;&gt;#&lt;/a&gt; 数据分析的主要流程&lt;/h2&gt;
+&lt;h3 id=&#34;一-数据预处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-数据预处理&#34;&gt;#&lt;/a&gt; 一、数据预处理&lt;/h3&gt;
+&lt;p&gt;1. 对脏数据、空缺数据进行处理，填充或删除（只针对时序数据中的缺失）&lt;/p&gt;
+&lt;h3 id=&#34;二-数据分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-数据分类&#34;&gt;#&lt;/a&gt; 二、数据分类&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;分成两个集，训练集和测试集，一般比例为 8：2，随机分配&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;三-模型建立还有可能不是模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-模型建立还有可能不是模型&#34;&gt;#&lt;/a&gt; 三、模型建立（还有可能不是模型）&lt;/h3&gt;
+&lt;p&gt;模型是通过经验，让机器吃这些数据，然后预测未来的情况，而另一种办法是直接同数据中计算出公式，未来的预测直接用公式计算解决（这种方法称为机理）&lt;/p&gt;
+&lt;p&gt;1. 运用各种模型，随机森林，xgboost&lt;/p&gt;
+&lt;h3 id=&#34;四-结果分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-结果分析&#34;&gt;#&lt;/a&gt; 四、结果分析&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;精确率，召回率等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;实用的数据库工具：Navicat Premium&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;五-可能存在的盲点或信息差&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五-可能存在的盲点或信息差&#34;&gt;#&lt;/a&gt; 五、可能存在的盲点或信息差&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;，其语言是 sql，做数据分析最重要的是模型建立的部分，sql 只是一个在数据库中读取数据的工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一些概念的定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些概念的定义&#34;&gt;#&lt;/a&gt; 一些概念的定义&lt;/h3&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/blog-meta/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>我的第二篇Hexo博客</title>
+            <link>https://tartar0us.github.io/blog-meta/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="Hexo" scheme="https://tartar0us.github.io/tags/Hexo/" />
+            <pubDate>Mon, 28 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;第二篇 blog&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog 更新指令&lt;/li&gt;
+&lt;li&gt;hexo clean 清理当前缓存的静态页面&lt;/li&gt;
+&lt;li&gt;hexo generate 生成新的静态页面&lt;/li&gt;
+&lt;li&gt;hexo deploy 将生成的静态页面挂到 github 之类的网站进行代理&lt;/li&gt;
+&lt;li&gt;hexo server 启动本地服务器，预览静态页面&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/blog-meta/hello-world/</guid>
+            <title>Hello World</title>
+            <link>https://tartar0us.github.io/blog-meta/hello-world/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <pubDate>Sat, 26 Jul 2025 10:51:28 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;p&gt;&amp;lt;!–code￼0–&amp;gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;p&gt;&amp;lt;!–code￼1–&amp;gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;p&gt;&amp;lt;!–code￼2–&amp;gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;p&gt;&amp;lt;!–code￼3–&amp;gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
