@@ -98,27 +98,6 @@
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2013/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2013/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:41 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2012/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2012/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:41 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2011/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/%E6%9C%AA%E5%91%BD%E5%90%8D%2011/</link>
-            <pubDate>Fri, 01 Aug 2025 01:57:40 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://tartar0us.github.io/life/%E7%95%99%E5%AD%A6/</guid>
             <title>留学信息</title>
             <link>https://tartar0us.github.io/life/%E7%95%99%E5%AD%A6/</link>
@@ -163,6 +142,29 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</guid>
+            <title>数学模型</title>
+            <link>https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+            <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;rnn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rnn&#34;&gt;#&lt;/a&gt; RNN&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Recurrent Neural Network（循环神经网络）&lt;/li&gt;
+&lt;li&gt;有记忆的神经网络，但是记忆太短，容易出错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lstm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lstm&#34;&gt;#&lt;/a&gt; LSTM&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Long Short-Term Memory（长短期记忆）&lt;/li&gt;
+&lt;li&gt;有三个门来控制记忆，还可以选择删除哪些记忆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遗忘门、输入门、输出门&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;具有时间顺序&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://tartar0us.github.io/tech/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</guid>
             <title>非线性规划</title>
             <link>https://tartar0us.github.io/tech/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</link>
@@ -173,82 +175,71 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;解法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解法&#34;&gt;#&lt;/a&gt; 解法&lt;/h2&gt;
 &lt;p&gt;目前没有统一的解法，都是在选定决策变量的初始值之后搜索方法&lt;/p&gt;
+&lt;h2 id=&#34;标准型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标准型&#34;&gt;#&lt;/a&gt; 标准型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;目标函数为求最小值&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/tech/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</guid>
-            <title>线性规划速成</title>
-            <link>https://tartar0us.github.io/tech/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</link>
-            <category term="数学" scheme="https://tartar0us.github.io/categories/%E6%95%B0%E5%AD%A6/" />
-            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
-            <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月31日日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
             <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;线性规划的定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线性规划的定义&#34;&gt;#&lt;/a&gt; 线性规划的定义&lt;/h2&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;一个优化问题，如果其所有表达式（条件，目标，约束）都是线性的，那么它就是线性规划。&lt;/li&gt;
+&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
+&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
+&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;例题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#例题&#34;&gt;#&lt;/a&gt; 例题&lt;/h2&gt;
+&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
+&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
+&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
+&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
+&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
+&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
+&lt;li&gt;有点撑得慌。&lt;/li&gt;
+&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
+&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
+&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
 &lt;ol&gt;
-&lt;li&gt;游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。&lt;/li&gt;
-&lt;li&gt;通关奖励与消耗：
-&lt;ul&gt;
-&lt;li&gt;A 地图：20 点经验 / 次，消耗 4 点体力 / 次&lt;/li&gt;
-&lt;li&gt;B 地图：30 点经验 / 次，消耗 8 点体力 / 次&lt;/li&gt;
-&lt;li&gt;C 地图：45 点经验 / 次，消耗 15 点体力 / 次&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;约束条件：A、B、C 三张地图每天通关总次数最多 20 次。&lt;/li&gt;
+&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
+&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
+&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
+&lt;li&gt;打车                           25 元&lt;/li&gt;
+&lt;li&gt;买水果                       14 元&lt;/li&gt;
+&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
+&lt;li&gt;午饭                           12 元&lt;/li&gt;
+&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
+&lt;li&gt;火车票                       69 元&lt;/li&gt;
+&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;解答&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解答&#34;&gt;#&lt;/a&gt; 解答：&lt;/h2&gt;
-&lt;h3 id=&#34;我的思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的思路&#34;&gt;#&lt;/a&gt; 我的思路&lt;/h3&gt;
+&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3&lt;/li&gt;
-&lt;li&gt;所以 A 图最值得刷&lt;/li&gt;
-&lt;li&gt;但是如果全刷 A 图会浪费 20 体力&lt;/li&gt;
-&lt;li&gt;只能去掉几张 A，用 B 来补&lt;/li&gt;
-&lt;li&gt;少 1A 多 1B 的差价是 4 体力，正好可以整除 20&lt;/li&gt;
-&lt;li&gt;最终确定 15 次 A 图，5 次 B 图&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;几何意义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#几何意义&#34;&gt;#&lt;/a&gt; 几何意义&lt;/h2&gt;
-&lt;h3 id=&#34;可行域&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可行域&#34;&gt;#&lt;/a&gt; 可行域&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;由于我们的约束条件都是线性的，我们可以在一个平面直角坐标系中画出所有的条件，最终围成的区域内一定有我们的解。&lt;/li&gt;
-&lt;li&gt;可行域一定是一个凸多边形&lt;/li&gt;
-&lt;li&gt;有关几何意义的内容，大致理解就可以，不要丝扣，我们还是应该致力于解决问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;决策变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策变量&#34;&gt;#&lt;/a&gt; 决策变量&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;问题中要确定的未知量&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;目标函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标函数&#34;&gt;#&lt;/a&gt; 目标函数&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;即最终想求解最值的函数&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;约束条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#约束条件&#34;&gt;#&lt;/a&gt; 约束条件&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;一般约束条件：各种实际条件限制，时间，资金等&lt;/li&gt;
-&lt;li&gt;隐藏约束条件：函数、自变量的定义域限制、&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;解题思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题思路&#34;&gt;#&lt;/a&gt; 解题思路&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;数学建模的过程，就是把题目翻译成数学语言的过程&lt;/li&gt;
-&lt;li&gt;一组公式，加上对这组公式的含义的解释，就是一个数学模型&lt;/li&gt;
-&lt;li&gt;模型求解可以用单纯形法&lt;/li&gt;
-&lt;li&gt;建议用 python 或 matlab 求解&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;和多元函数求极值的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和多元函数求极值的关系&#34;&gt;#&lt;/a&gt; 和多元函数求极值的关系&lt;/h3&gt;
-&lt;p&gt;拉格朗日数乘法（只能用于等式）&lt;/p&gt;
-&lt;h3 id=&#34;套公式代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#套公式代码&#34;&gt;#&lt;/a&gt; 套公式（代码）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;让 kimi 写了个求解线性规划的代码，以后只需要把数据整理好写到三个表中就可以了，整理数据的活也可以给 AI。&lt;/li&gt;
-&lt;li&gt;有一个小技巧，改表格的时候，把 csv 改成 txt，直接粘贴 AI 给的表格的文本文档形式，然后保存之后再改回 csv，非常的方便。&lt;/li&gt;
+&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
+&lt;li&gt;火影日常&lt;/li&gt;
+&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
+&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
+&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/research/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E7%9A%84%E6%8C%AF%E5%8A%A8%E5%88%86%E6%9E%90/</guid>
+            <guid isPermalink="true">https://tartar0us.github.io/research/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E5%BC%95%E5%87%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/</guid>
             <title>轴承故障的振动分析学习总结</title>
-            <link>https://tartar0us.github.io/research/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E7%9A%84%E6%8C%AF%E5%8A%A8%E5%88%86%E6%9E%90/</link>
+            <link>https://tartar0us.github.io/research/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E5%BC%95%E5%87%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/</link>
             <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
             <category term="实习" scheme="https://tartar0us.github.io/tags/%E5%AE%9E%E4%B9%A0/" />
             <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
@@ -379,58 +370,141 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title>7月31日日记</title>
-            <link>https://tartar0us.github.io/diary/7%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</guid>
+            <title>线性规划速成</title>
+            <link>https://tartar0us.github.io/tech/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92/</link>
+            <category term="数学" scheme="https://tartar0us.github.io/categories/%E6%95%B0%E5%AD%A6/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <category term="数学" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6/" />
+            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;线性规划的定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线性规划的定义&#34;&gt;#&lt;/a&gt; 线性规划的定义&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一个优化问题，如果其所有表达式（条件，目标，约束）都是线性的，那么它就是线性规划。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;例题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#例题&#34;&gt;#&lt;/a&gt; 例题&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;游戏每天提供 100 点体力，可通过通关 A、B、C 三张地图获取经验升级。&lt;/li&gt;
+&lt;li&gt;通关奖励与消耗：
+&lt;ul&gt;
+&lt;li&gt;A 地图：20 点经验 / 次，消耗 4 点体力 / 次&lt;/li&gt;
+&lt;li&gt;B 地图：30 点经验 / 次，消耗 8 点体力 / 次&lt;/li&gt;
+&lt;li&gt;C 地图：45 点经验 / 次，消耗 15 点体力 / 次&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;约束条件：A、B、C 三张地图每天通关总次数最多 20 次。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;解答&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解答&#34;&gt;#&lt;/a&gt; 解答：&lt;/h2&gt;
+&lt;h3 id=&#34;我的思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的思路&#34;&gt;#&lt;/a&gt; 我的思路&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;刷 A 图的体力转换经验是 1：5，B 图 1：3.75，C 图 1：3&lt;/li&gt;
+&lt;li&gt;所以 A 图最值得刷&lt;/li&gt;
+&lt;li&gt;但是如果全刷 A 图会浪费 20 体力&lt;/li&gt;
+&lt;li&gt;只能去掉几张 A，用 B 来补&lt;/li&gt;
+&lt;li&gt;少 1A 多 1B 的差价是 4 体力，正好可以整除 20&lt;/li&gt;
+&lt;li&gt;最终确定 15 次 A 图，5 次 B 图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;几何意义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#几何意义&#34;&gt;#&lt;/a&gt; 几何意义&lt;/h2&gt;
+&lt;h3 id=&#34;可行域&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#可行域&#34;&gt;#&lt;/a&gt; 可行域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;由于我们的约束条件都是线性的，我们可以在一个平面直角坐标系中画出所有的条件，最终围成的区域内一定有我们的解。&lt;/li&gt;
+&lt;li&gt;可行域一定是一个凸多边形&lt;/li&gt;
+&lt;li&gt;有关几何意义的内容，大致理解就可以，不要丝扣，我们还是应该致力于解决问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;决策变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#决策变量&#34;&gt;#&lt;/a&gt; 决策变量&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;问题中要确定的未知量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;目标函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目标函数&#34;&gt;#&lt;/a&gt; 目标函数&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;即最终想求解最值的函数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;约束条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#约束条件&#34;&gt;#&lt;/a&gt; 约束条件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一般约束条件：各种实际条件限制，时间，资金等&lt;/li&gt;
+&lt;li&gt;隐藏约束条件：函数、自变量的定义域限制、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;解题思路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题思路&#34;&gt;#&lt;/a&gt; 解题思路&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;数学建模的过程，就是把题目翻译成数学语言的过程&lt;/li&gt;
+&lt;li&gt;一组公式，加上对这组公式的含义的解释，就是一个数学模型&lt;/li&gt;
+&lt;li&gt;模型求解可以用单纯形法&lt;/li&gt;
+&lt;li&gt;建议用 python 或 matlab 求解&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如果出现多个目标函数，即多目标规划问题，应保留其中一个目标函数，将剩余的函数转换为约束条件，变成单目标规划问题求解&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;和多元函数求极值的关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和多元函数求极值的关系&#34;&gt;#&lt;/a&gt; 和多元函数求极值的关系&lt;/h3&gt;
+&lt;p&gt;拉格朗日数乘法（只能用于等式）&lt;/p&gt;
+&lt;h3 id=&#34;套公式代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#套公式代码&#34;&gt;#&lt;/a&gt; 套公式（代码）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;让 kimi 写了个求解线性规划的代码，以后只需要把数据整理好写到三个表中就可以了，整理数据的活也可以给 AI。&lt;/li&gt;
+&lt;li&gt;有一个小技巧，改表格的时候，把 csv 改成 txt，直接粘贴 AI 给的表格的文本文档形式，然后保存之后再改回 csv，非常的方便。&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月29日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
             <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-            <pubDate>Thu, 31 Jul 2025 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h2&gt;
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;看着文件夹里的 md 文件越来越多，很有成就感&lt;/li&gt;
-&lt;li&gt;上班的时候只要看教学时频或者看字幕双眼迷离了就开始捣鼓博客，可以提神。因为听人讲可有时候不动脑子，很快就会困了（总之还是注意力不集中呗）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我要给我的博客定一个标准&lt;/strong&gt;：比如我每次记录的时间节点是什么。目前有每天的日记，还有一篇年度总结，但是我想每个月也可以写，每个学期也可以写，每个学年也可以写。虽说有点乱吧。&lt;/li&gt;
-&lt;li&gt;一会如果吃完饭还有时间我要写一个以学年为单位的总结，后面找时间补 7 月的总结&lt;/li&gt;
+&lt;li&gt;大概就是博客的搭建越来越完善，非常开心，看着博客里的文章一点点变多，非常有成就感。明天要把 csdn 中的所有日记都导出 md 挂到我的网站上，那个时候网页的内容就丰富多了。&lt;/li&gt;
+&lt;li&gt;学了一点点 md 语法，我认为写博客是完全够用了。&lt;/li&gt;
+&lt;li&gt;现在存在的问题就是前端的东西看不太懂，对 UI 的美化还是有些依赖 AI，缺点很明显，很容易像上次一样被 ai 直接全搞砸了。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
+&lt;h1 id=&#34;实习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实习&#34;&gt;#&lt;/a&gt; 实习&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;今天学习了一些线性规划的有关知识，我发现在数据分析这个领域的某些概念并不和学科中的大概念相同，或者说，数据分析这个更注重实践的领域，其实了解这个东西是如何运作的就 OK 了。&lt;/li&gt;
-&lt;li&gt;学习和实习要分开，也要联系起来，分开是指对于同一个内容的学习，可能实习的要求并不是很高，但是学习上会对我做要求，例如 python，在数据分析中我只需要能基本看懂代码就可以，因为最终的编写任务是交给 AI 完成的，但是在学校的考核中我还是要深入学习一下 python 的基本语法甚至进阶语法，因为考试的时候可没有 AI 帮我写代码；联系起来就是可以通过实习提升自己知识水平的广度，了解很多学校里学不到的东西，也可以通过学校的学习拓展实习所学的深度，例如未来我们应该会学习傅里叶变换，到时候学的就是公式和推导，应用，而不是简单的只有应用了。&lt;/li&gt;
-&lt;li&gt;总体来说这一周有点摆烂。看公司里的活也挺多，晓蝶姐也挺忙的，就没好意思打扰&lt;/li&gt;
+&lt;li&gt;学了 python 的部分基本语法，明天争取上午快速过完，然后再看看 excel，不能太墨迹，要不然一个暑假很快过去了什么也学不到。&lt;/li&gt;
+&lt;li&gt;感觉贾总的公司的人们业务能力都不是很强，我在的这段时间好像闯祸两次了，就是遇到问题就停滞，甚至不跟上级汇报。很呆呆的感觉，可能程序员都这样吧。&lt;/li&gt;
+&lt;li&gt;收藏了 b 站一个数据分析师的系列视频，以后可以跟着他学，多了解数据分析师需要学哪些东西，找对方向。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;回来之后吃饭，刷了一会视频，从八点睡到了十一点。很奇怪。&lt;/li&gt;
-&lt;li&gt;起床打了一把吃鸡，现在零点半，在写日记&lt;/li&gt;
-&lt;li&gt;作息好像完全乱了。。这太扯了&lt;/li&gt;
-&lt;li&gt;饿了。点了个塔斯汀，手残可乐撒了，不为打翻的可乐哭泣，高高兴兴吃掉剩下的。这可能就是成长吧&lt;/li&gt;
-&lt;li&gt;有点撑得慌。&lt;/li&gt;
-&lt;li&gt;明天就又可以回家了好开心，报名周六晚上打排球了，听说这次的人都挺厉害的&lt;/li&gt;
-&lt;li&gt;破酒店凌晨一点十七莫名其妙断网了&lt;/li&gt;
-&lt;li&gt;现在是八月一号凌晨两点半，睡意全无。上 csdn 搬运一些日记吧&lt;/li&gt;
+&lt;li&gt;回酒店之后洗了衣服，有进步。&lt;/li&gt;
+&lt;li&gt;晚饭吃的塔斯汀，虽然不是很健康但是爽了。&lt;/li&gt;
+&lt;li&gt;睡得又有点晚了。无可厚非，今天基本没有在浪费时间。&lt;/li&gt;
+&lt;li&gt;但是好多天没读书了。&lt;/li&gt;
+&lt;li&gt;代办有一些还没做，明天得着手弄了&lt;/li&gt;
+&lt;li&gt;以后坚决不能这样，实习每天只睡四五个小时太折磨人了，（但是今天好像是最近一周之内睡得最早的一次）以后坚决不能这么熬夜了。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记一下上周日回石家庄玩爸爸给的200块钱怎么花的&#34;&gt;#&lt;/a&gt; 记一下上周日回石家庄玩爸爸给的 200 块钱怎么花的&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;三小瓶君乐宝酸奶     10 元&lt;/li&gt;
-&lt;li&gt;火车站寄存柜            16 元&lt;/li&gt;
-&lt;li&gt;牛肉面                       15 元&lt;/li&gt;
-&lt;li&gt;打车                           25 元&lt;/li&gt;
-&lt;li&gt;买水果                       14 元&lt;/li&gt;
-&lt;li&gt;吃饭                  12+22.9+10+21.9+12+10+10 元&lt;/li&gt;
-&lt;li&gt;午饭                           12 元&lt;/li&gt;
-&lt;li&gt;拓展坞                       34 元&lt;/li&gt;
-&lt;li&gt;火车票                       69 元&lt;/li&gt;
-&lt;li&gt;怎么成三百多了。。不管了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
+&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;和平精英挂机做任务（吃了一把）&lt;/li&gt;
-&lt;li&gt;火影日常&lt;/li&gt;
-&lt;li&gt;突然想起来 ios 区还有一个小号，登录领一下自选 A 忍&lt;/li&gt;
-&lt;li&gt;三角洲好几天没玩了&lt;/li&gt;
-&lt;li&gt;单机游戏好久没玩了。为什么当时那么想玩。买了又不玩&lt;/li&gt;
+&lt;li&gt;火影日常 + 上忍二&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;^+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.771331em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.771331em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
+            <title>7月30日日记</title>
+            <link>https://tartar0us.github.io/diary/7%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
+            <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+            <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <pubDate>Wed, 30 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客&#34;&gt;#&lt;/a&gt; 博客&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;太懒了，博客的迁移大业目前还没有进行&lt;/li&gt;
+&lt;li&gt;遇到的问题是代码不能在预览的网页上显示。可能是主题作者用了自定义的代码高亮配置，但是这个我又不会捣鼓。目前暂时想到的解决方案是上网（贴吧）求助大佬。&lt;/li&gt;
+&lt;li&gt;哦忘说了，30 号这天晚上折腾了大概半个小时左右的平板，想用 termux 搭一个 linux 的虚拟机，跟着 b 站教程来，最后一步进不去了。再者看到耗电量变大挺快，然后应用的场景少之又少，就暂时放弃了。准备今天晚上下载一个 obsidian 在平板上，这样也可以写 markdown 文件了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;python 基本语法强化，把学过的内容写成 md 文件存了下来&lt;/li&gt;
+&lt;li&gt;（其实这一天全摸鱼写博客了，又因为连续熬夜睡太晚没状态，听课的时候迷迷糊糊的）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;两点睡的。越来越狠了熬夜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;六连胜上暗部。&lt;/li&gt;
+&lt;li&gt;看到 xwx 上超影了，说实话有点羡慕&lt;/li&gt;
+&lt;li&gt;我什么时候能上影啊。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
  ]]></description>
         </item>
     </channel>
