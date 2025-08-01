@@ -39,6 +39,32 @@
             "tags": []
         },
         {
+            "id": "https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/",
+            "url": "https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/",
+            "title": "Kaggle",
+            "date_published": "2025-07-31T16:00:00.000Z",
+            "content_html": "<h3 id=\"入门\"><a class=\"anchor\" href=\"#入门\">#</a> 入门</h3>\n<ul>\n<li>本来打算把 kaggle 入门归类到我们的 tech 文件夹中，但是想到未来还要有很多的博客关于 kaggle，就直接开了一个文件夹。</li>\n</ul>\n<h3 id=\"如何使用kaggle\"><a class=\"anchor\" href=\"#如何使用kaggle\">#</a> 如何使用 kaggle</h3>\n<ul>\n<li>下载数据集</li>\n<li>模型求解</li>\n<li>提交数据 -&gt; 得到分数</li>\n<li>优化模型，尝试获得更高的分数</li>\n<li>最终得到排名</li>\n</ul>\n<h3 id=\"官方比赛介绍\"><a class=\"anchor\" href=\"#官方比赛介绍\">#</a> 官方比赛介绍</h3>\n<ol>\n<li><strong>参加比赛</strong><br />\n阅读挑战说明，接受比赛规则并访问比赛数据集。</li>\n<li><strong>开始工作</strong><br />\n下载数据，在本地或 Kaggle Notebooks（我们无需设置、可自定义的 Jupyter Notebooks 环境，带有免费 GPU）上构建模型，并生成预测文件。</li>\n<li><strong>提交</strong><br />\n：将您的预测作为提交上传到 Kaggle 上，并获得准确度分数。</li>\n<li><strong>查看排行榜</strong><br />\n查看您的模型与我们排行榜上其他 Kaggler 的排名如何。</li>\n<li><strong>提高你的分数查看</strong><br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS9jL3RpdGFuaWMvZGlzY3Vzc2lvbg==\">讨论论坛</span>，找到其他竞争对手的大量教程和见解。</li>\n</ol>\n",
+            "tags": [
+                "技术",
+                "实习",
+                "数据分析",
+                "kaggle"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
+            "url": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
+            "title": "kaggle泰坦尼克号问题",
+            "date_published": "2025-07-31T16:00:00.000Z",
+            "content_html": "<p><s>第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力</s></p>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
+            "tags": [
+                "技术",
+                "实习",
+                "数据分析",
+                "kaggle"
+            ]
+        },
+        {
             "id": "https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/",
             "url": "https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/",
             "title": "数学模型",
@@ -56,36 +82,10 @@
             "url": "https://tartar0us.github.io/%E7%95%99%E5%AD%A6%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/%E7%95%99%E5%AD%A6/",
             "title": "留学信息",
             "date_published": "2025-07-31T16:00:00.000Z",
-            "content_html": "<h2 id=\"目标院校\"><a class=\"anchor\" href=\"#目标院校\">#</a> 目标院校</h2>\n<ul>\n<li>新加坡国立大学（NUS）</li>\n<li>新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业</li>\n<li>香港大学</li>\n<li>香港中文大学</li>\n<li>香港科技大学</li>\n<li>帝国理工学院（IC）</li>\n</ul>\n<h2 id=\"需要准备的内容按照重要程度排序\"><a class=\"anchor\" href=\"#需要准备的内容按照重要程度排序\">#</a> 需要准备的内容（按照重要程度排序）</h2>\n<h4 id=\"1绩点\"><a class=\"anchor\" href=\"#1绩点\">#</a> 1. 绩点</h4>\n<ul>\n<li>港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力</li>\n</ul>\n<h4 id=\"2语言\"><a class=\"anchor\" href=\"#2语言\">#</a> 2. 语言</h4>\n<ul>\n<li>这个算一个标准，一个要求，港新是总分 6.5 就可以</li>\n<li>但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上</li>\n<li>韦姐高考英语 146，自学的 7.5 分，太强哩</li>\n<li></li>\n</ul>\n<h4 id=\"3实习\"><a class=\"anchor\" href=\"#3实习\">#</a> 3. 实习</h4>\n<ul>\n<li>与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历</li>\n</ul>\n<h4 id=\"4kaggle\"><a class=\"anchor\" href=\"#4kaggle\">#</a> 4.kaggle</h4>\n<ul>\n<li>此条不具有通用性</li>\n<li>kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。</li>\n<li>今天（8 月 1 日）学完了 python 基本语法，还有各种机器学习模型、以及数据分析的流程，我跟晓蝶姐说想要一些公司的实例复现一下，她跟我说可以上 kaggle 打打比赛，学学真正的数据分析</li>\n</ul>\n<h4 id=\"5学术\"><a class=\"anchor\" href=\"#5学术\">#</a> 5. 学术</h4>\n<ul>\n<li>发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树<br />\n有</li>\n<li>韦姐说，我们院的几个研究和数据分析、人工智能沾边的老师里边，安爽导师跟我最适配。我过段时间试试可不可以给安爽老师打杂，干一些活，哪怕能学到一点点知识也可以，这绝对是一个不可多得的机会。</li>\n<li>安爽导师推荐过的几本书：数据分析，大数据，机器学习</li>\n</ul>\n",
+            "content_html": "<h2 id=\"目标院校\"><a class=\"anchor\" href=\"#目标院校\">#</a> 目标院校</h2>\n<ul>\n<li>新加坡国立大学（NUS）</li>\n<li>新加坡南洋理工大学（NTU）三位学长学姐都在这里毕业</li>\n<li>香港大学</li>\n<li>香港中文大学</li>\n<li>香港科技大学</li>\n<li>帝国理工学院（IC）</li>\n</ul>\n<h2 id=\"需要准备的内容按照重要程度排序\"><a class=\"anchor\" href=\"#需要准备的内容按照重要程度排序\">#</a> 需要准备的内容（按照重要程度排序）</h2>\n<h4 id=\"1绩点\"><a class=\"anchor\" href=\"#1绩点\">#</a> 1. 绩点</h4>\n<ul>\n<li>港新平均在 85 分，即在收到 offer 的学生中，存在 82 分和 90 分的，一般超过 85 分比较稳妥，越高越有竞争力</li>\n</ul>\n<h4 id=\"2语言\"><a class=\"anchor\" href=\"#2语言\">#</a> 2. 语言</h4>\n<ul>\n<li>这个算一个标准，一个要求，港新是总分 6.5 就可以</li>\n<li>但是帝国理工要求比较高，要 7，并且每一个小分都要 6.5 以上</li>\n<li>韦姐高考英语 146，自学的 7.5 分，太强哩</li>\n<li></li>\n</ul>\n<h4 id=\"3实习\"><a class=\"anchor\" href=\"#3实习\">#</a> 3. 实习</h4>\n<ul>\n<li>与所申请项目方向有关的实习，比如想申请 CS（computer science）最好要有互联网公司算法的实习经历，想申请数分，就要有数据分析相关的实习经历</li>\n</ul>\n<h4 id=\"4kaggle\"><a class=\"anchor\" href=\"#4kaggle\">#</a> 4.kaggle</h4>\n<ul>\n<li>此条不具有通用性</li>\n<li>kaggle 是一个数据分析有关的比赛，如果打带奖金的比赛获奖，可以起到提升背景的作用。</li>\n<li>今天（8 月 1 日）学完了 python 基本语法，还有各种机器学习模型、以及数据分析的流程，我跟晓蝶姐说想要一些公司的实例复现一下，她跟我说可以上 kaggle 打打比赛，学学真正的数据分析</li>\n</ul>\n<h4 id=\"5学术\"><a class=\"anchor\" href=\"#5学术\">#</a> 5. 学术</h4>\n<ul>\n<li>发论文绝对有利于申请，但是这个对我来说有点太难了。我一个绩点 3.7 的学生感觉不太可能在学术方面有所建树<br />\n有</li>\n<li>韦姐说，我们院的几个研究和数据分析、人工智能沾边的老师里边，安爽导师跟我最适配。我过段时间试试可不可以给安爽老师打杂，干一些活，哪怕能学到一点点知识也可以，这绝对是一个不可多得的机会。</li>\n<li>安爽导师推荐过的几本书：数据分析，大数据，机器学习</li>\n<li></li>\n</ul>\n",
             "tags": [
                 "学业",
                 "留学"
-            ]
-        },
-        {
-            "id": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
-            "url": "https://tartar0us.github.io/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/",
-            "title": "kaggle泰坦尼克号问题",
-            "date_published": "2025-07-31T16:00:00.000Z",
-            "content_html": "<p><s>第一个问题，翻译页面只翻译了一部分，重要的教程部分还是英文。强行锻炼了我的英语能力</s></p>\n<h3 id=\"\"><a class=\"anchor\" href=\"#\">#</a> </h3>\n",
-            "tags": [
-                "技术",
-                "实习",
-                "数据分析",
-                "kaggle"
-            ]
-        },
-        {
-            "id": "https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/",
-            "url": "https://tartar0us.github.io/Kaggle/kaggle%E5%85%A5%E9%97%A8/",
-            "title": "Kaggle",
-            "date_published": "2025-07-31T16:00:00.000Z",
-            "content_html": "<h3 id=\"入门\"><a class=\"anchor\" href=\"#入门\">#</a> 入门</h3>\n<ul>\n<li>本来打算把 kaggle 入门归类到我们的 tech 文件夹中，但是想到未来还要有很多的博客关于 kaggle，就直接开了一个文件夹。</li>\n</ul>\n<h3 id=\"如何使用kaggle\"><a class=\"anchor\" href=\"#如何使用kaggle\">#</a> 如何使用 kaggle</h3>\n<ul>\n<li>下载数据集</li>\n<li>模型求解</li>\n<li>提交数据 -&gt; 得到分数</li>\n<li>优化模型，尝试获得更高的分数</li>\n<li>最终得到排名</li>\n</ul>\n<h3 id=\"官方比赛介绍\"><a class=\"anchor\" href=\"#官方比赛介绍\">#</a> 官方比赛介绍</h3>\n<ol>\n<li><strong>参加比赛</strong><br />\n阅读挑战说明，接受比赛规则并访问比赛数据集。</li>\n<li><strong>开始工作</strong><br />\n下载数据，在本地或 Kaggle Notebooks（我们无需设置、可自定义的 Jupyter Notebooks 环境，带有免费 GPU）上构建模型，并生成预测文件。</li>\n<li><strong>提交</strong><br />\n：将您的预测作为提交上传到 Kaggle 上，并获得准确度分数。</li>\n<li><strong>查看排行榜</strong><br />\n查看您的模型与我们排行榜上其他 Kaggler 的排名如何。</li>\n<li><strong>提高你的分数查看</strong><br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS9jL3RpdGFuaWMvZGlzY3Vzc2lvbg==\">讨论论坛</span>，找到其他竞争对手的大量教程和见解。</li>\n</ol>\n",
-            "tags": [
-                "技术",
-                "实习",
-                "数据分析",
-                "kaggle"
             ]
         },
         {
@@ -202,8 +202,8 @@
                 "Python",
                 "实习",
                 "数据分析",
-                "SQL",
-                "md"
+                "md",
+                "SQL"
             ]
         },
         {
