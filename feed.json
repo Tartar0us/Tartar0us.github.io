@@ -7,6 +7,67 @@
     "home_page_url": "https://Tartar0us.github.io",
     "items": [
         {
+            "id": "https://tartar0us.github.io/diary/8%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/8%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "8月13日日记",
+            "date_published": "2025-08-12T16:00:00.000Z",
+            "content_html": "<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>今天纯属是炸飞飞了，下午三点多跑路去修电脑，忘了问秦皇岛的售后了，最后花了两千多换了一个新的屏幕。不说别的，清灰还真的挺可以，而且最后修好了我也能最近就用着，不用等到开学了，非常的爽。</li>\n<li>长记性了，以后坚决不让我的天选姬碰一点水</li>\n<li>我操了这个空调怎么在喷水。</li>\n<li>这个 qq 电脑版为啥下载不了文件了，好像是在我更改了文件下载储存位置之后。好麻烦。明天得找时间把这个问题修复一下。</li>\n<li>这个周好像时间又很快就要过去了。非常的匆忙啊</li>\n<li>晚上不熬夜了，一会写完就睡，明天早起吃好饭然后再抓紧时间学习，你的时间越来越少了。</li>\n</ul>\n<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>没有电脑，今天用平板学习，看了一点点数据结构，感觉还可以理解，就是卡在空间复杂度那里有点。</li>\n<li>然后复习了一小点 sql，发现一个特别好的课，但是看评论区说好像全看完基本上也就是入门的样子，没做到深入浅出，只做到了浅出，但是我觉得应付我未来寒假的实习应该够了。</li>\n<li>现在的目标非常明确，是用剩下的时间为我大二的学习和未来的实习做准备，一方面提升数据分析实习需要的硬实力，另一方面是要准备辅修计算机需要的知识，进行一个名为预习的运动，然后同时也学习一些有关机器学习的知识，但是感觉这个方面这两天并没有很上心。</li>\n<li>等机器学习的书到了之后应该会好一些吧。</li>\n<li>写日记的时候发现自己的打字速度好像有了显著的提升。很开心</li>\n</ul>\n<h2 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h2>\n<ul>\n<li>吃鸡没玩</li>\n<li>火影日常打完，打了几把匹配，有的纯打不过，有的能穿三。不知道为什么匹配机制这么逆天。但是每一把我都当作排位来打。还是比较认真的。</li>\n<li>模拟器调了一下设置，帧率设置成 144hz，太爽了，太丝滑了，之前过的是什么苦日子。</li>\n</ul>\n<h4 id=\"反思\"><a class=\"anchor\" href=\"#反思\">#</a> 反思</h4>\n<ul>\n<li>感觉在公司摸鱼的时间还是太多了。没有完全全身心的投入对计划的执行过程中去。</li>\n<li>回到住处之后还是一个劲的傻玩。不知道干一些有意义的事。</li>\n<li>答应王晓的整理晓明语录拖了太久太久，明天抽时间弄出来。</li>\n<li>不知不觉又到快一点了。好好休息，明天争取十点之前就写完日记，到时候感觉有点晚了就可以直接睡觉而不是再熬夜写日记了。</li>\n</ul>\n<h1 id=\"今天71k了也就是71w字十万字指日可待\"><a class=\"anchor\" href=\"#今天71k了也就是71w字十万字指日可待\">#</a> 今天 71k 了，也就是 7.1w 字，十万字指日可待</h1>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "成长"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/tech/MES/",
+            "url": "https://tartar0us.github.io/tech/MES/",
+            "title": "",
+            "date_published": "2025-08-12T03:51:25.713Z",
+            "content_html": "<p><em>完全不会</em></p>\n<ul>\n<li>AI 卡住了，运行的太慢了，算了</li>\n<li></li>\n</ul>\n",
+            "tags": []
+        },
+        {
+            "id": "https://tartar0us.github.io/tech/Kaggle/%E9%93%B6%E8%A1%8C%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BC%88%E6%B8%B8%E4%B9%90%E5%9C%BA%EF%BC%89/",
+            "url": "https://tartar0us.github.io/tech/Kaggle/%E9%93%B6%E8%A1%8C%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE%EF%BC%88%E6%B8%B8%E4%B9%90%E5%9C%BA%EF%BC%89/",
+            "title": "",
+            "date_published": "2025-08-12T03:48:10.398Z",
+            "content_html": "<h2 id=\"kiro\"><a class=\"anchor\" href=\"#kiro\">#</a> kiro</h2>\n<p>version-1 准确率达到了 95%<br />\nversion-3</p>\n<h2 id=\"trae\"><a class=\"anchor\" href=\"#trae\">#</a> trae</h2>\n<p>version-2 准确率达到 89%（训练过程十分缓慢）</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://tartar0us.github.io/diary/8%E6%9C%8812%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/8%E6%9C%8812%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "8月12日日记",
+            "date_published": "2025-08-11T16:00:00.000Z",
+            "content_html": "<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>今天算学了不少东西，上午弄了一下老爸给的任务，kiro 只做出来一个基本的框架，今天用的次数有点多，直接不干活了。晓蝶姐给了一套提示词，后天搞一下。你问我为啥是后天，因为今天晚上电脑进水了，明天要静置一天。静置一天之后看看怎么样吧。唉，以后喝完水一定要把盖子盖上。</li>\n<li>简单学了一下基本的 SQL 语法，这个 sqlzoo 真好玩，要是能登录保存进度就更好了。目前是没法记录进度的。今天学会了一些基本的读取数据的指令，虽然比较基础吧，但是起码起步了，感觉好像传说中的 sql 也没有想象中的那么难，万事开头难，只要开始了就有力量顺下去了。</li>\n<li>但是我发现我做什么事好像都喜欢一开始不动脑子的那一部分，比如打各种游戏，下围棋，学数学也是，喜欢那种从 0 到 0.01 的过程，就是一开始很新鲜，然后自己能在很快的时间内入门，了解一些基础的东西，但是再进一步学习好像很困难，稍微用一点脑子的我就不想学了。这是很错误的。这就是为什么我高中的物理化学生物那么差。一定要强行改变这个习惯，不然以后学什么都可能一开始三分热度，后面就不想学了。</li>\n</ul>\n<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>昨天发烧了。上午窜了，中午实在没劲了，请假在酒店一觉睡到 5 点，出门买了药，然后就接着玩到一点，也没有困。还是比较健康的吧说实话</li>\n<li>太无聊了，想上暗网看看，结果发现不会上。放弃。</li>\n<li>说说电脑进水之后，第一件事倒过来控水，第二步擦拭，第三步晾干。</li>\n<li>华硕的售后是真不好找，大如石家庄这样的省会，也只有一家。我听着应该是离我住的地方不近。先静置一天再说吧。希望没事。<strong>记住这种情况千万不能用热吹风机吹</strong></li>\n</ul>\n<h2 id=\"博客\"><a class=\"anchor\" href=\"#博客\">#</a> 博客</h2>\n<ul>\n<li>今天也是边学习边记笔记吧，写了不少东西，非常的开心，sql 学的很快，然后也是让 AI 给简单的制定了一个 8 月的学习计划，包括了实习的后期准备，进组的相关学习，还有辅修的准备，还是比较全面的</li>\n<li>记住你的 blog 主体是在桌面的文件夹上，u 盘里的只是很小的一部分备份</li>\n</ul>\n<h2 id=\"任务\"><a class=\"anchor\" href=\"#任务\">#</a> 任务</h2>\n<ul>\n<li>从明天开始不打吃鸡了，晚上回酒店之后洗洗衣服，把之前落下的任务都补一补，比如今日校园要发布的任务，晓明语录（依旧拖拉）然后还有想办法搞点钱。要趁早完成资本的原始积累。<br />\n还有就是博客的美化，虽然现在已经很好了，但是要想办法完善一些二级的功能，让网站的可交互性变高。同时记得登录一下 kaggle。</li>\n</ul>\n<h2 id=\"总结类\"><a class=\"anchor\" href=\"#总结类\">#</a> 总结类</h2>\n<ul>\n<li>依旧一拖再拖，欠着好多账没还。大一总结，月度总结，实习总结之类的。其实还是自己太容易把时间放到没用的事情上。要多专注与更重要的事。带的书也没怎么读说实话、加油孩子，你还有很长的路要走。</li>\n<li>依旧大爱仙尊  ：<br />\n<em>这个世界太大，我们都是小人物。但我会加油的，会一直努力的！</em></li>\n</ul>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "成长"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/tech/programming/SQL%E5%AD%A6%E4%B9%A0/",
+            "url": "https://tartar0us.github.io/tech/programming/SQL%E5%AD%A6%E4%B9%A0/",
+            "title": "SQL学习笔记",
+            "date_published": "2025-08-11T16:00:00.000Z",
+            "content_html": "<h1 id=\"8月12日\"><a class=\"anchor\" href=\"#8月12日\">#</a> 8 月 12 日</h1>\n<h2 id=\"基础查询语法\"><a class=\"anchor\" href=\"#基础查询语法\">#</a> 基础查询语法</h2>\n<p>SELECT * FROM world</p>\n<p>(输出整个 world 表格)</p>\n<p>SELECT name , gdp FROM world WHERE population &gt;5000000</p>\n<p>(输出表格 world 中的 name 和 gdp 两列，筛选条件是 population 数量大于五百万)</p>\n<p>SELECT name FROM world<br />\nWHERE name LIKE 'C%ia'</p>\n<p>(输出表格 world 中的 name 一列，筛选条件是名称由 C 开头，ia 结尾)</p>\n<p><strong>% 是万能占位符，可以代表一个或多个字符，比如 “% d” 就是代表所有结尾是字母 d 的单词<br />\n同时，&quot;__&quot; 下划线也是万能占位符，表示一个字符，比如 “% o__o%” 代表所有包含 o 什么什么 o 这四个字母的单词</strong></p>\n<p>多重筛选<br />\n美國、印度和中國 (USA, India, China) 是人口又大，同時面積又大的國家。排除這些國家。</p>\n<p>顯示以人口或面積為大國的國家，但不能同時兩者。顯示國家名稱，人口和面積<br />\n SELECT name, population ,area<br />\nFROM world<br />\nWHERE area &gt;3000000 AND population &lt;250000000<br />\nOR area&lt;3000000 AND population&gt;250000000</p>\n<p>因为 AND 的优先级高于 OR，所以会先运算 AND 再运算 OR，正好可以筛选出来只符合两个条件中一个的国家</p>\n<h3 id=\"round函数\"><a class=\"anchor\" href=\"#round函数\">#</a> ROUND 函数：</h3>\n<p>ROUND(1000.22222,2)<br />\n 输出为： 1000.22 在 mysql 中是四舍五入到两位小数，但是别的数据库系统可能是直接截取到两位小数<br />\n<em>如果想保留一千为单位的整数，例如本来是 123300，编程 123000，你可以使用</em><br />\n ROUND（float，-3）<br />\n如果 3 表示保留三位小数（千分位），那么 - 3 是不是就代表千位呢？（我真聪明）<br />\n或者可以用数学的办法<br />\n ROUND（gdp/population/1000,0)* 1000 AS THOGPP<br />\ngdp/population ：计算人均 gdp<br />\nROUND（gdp/population/1000,0) 人均 GDP 除以一千保留整数</p>\n<p>ROUND（gdp/population/1000,0)* 1000 人均 GDP 保留千位数<br />\n最后随便命了个名，起名为千 G 每人 ：THOusand Gdp Per Person <s>抽象</s></p>\n",
+            "tags": [
+                "技术",
+                "SQL"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/tech/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%A4%AA%E7%A9%BA%E9%A3%9E%E8%88%B9/",
+            "url": "https://tartar0us.github.io/tech/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%A4%AA%E7%A9%BA%E9%A3%9E%E8%88%B9/",
+            "title": "泰坦尼克号太空飞船",
+            "date_published": "2025-08-11T01:09:16.743Z",
+            "content_html": "<h2 id=\"分类和回归\"><a class=\"anchor\" href=\"#分类和回归\">#</a> 分类和回归</h2>\n<ul>\n<li>分类的目的是预测离散的类别标签</li>\n<li>回归的目的是预测连续的类别标签</li>\n<li>例如 gradient boosting 梯度提升模型，既可以在分类问题中使用，也可以在回归问题中使用</li>\n</ul>\n<h3 id=\"梯度提升是一个通用的机器学习框架不仅限于回归\"><a class=\"anchor\" href=\"#梯度提升是一个通用的机器学习框架不仅限于回归\">#</a> 梯度提升是一个<strong>通用的机器学习框架</strong>，不仅限于回归：</h3>\n<ol>\n<li>\n<p><strong>回归版本</strong>:  <code>GradientBoostingRegressor</code></p>\n<ul>\n<li>损失函数：平方损失、绝对损失等</li>\n<li>输出：连续数值</li>\n</ul>\n</li>\n<li>\n<p><strong>分类版本</strong>:  <code>GradientBoostingClassifier</code></p>\n<ul>\n<li>损失函数：对数损失 (log-loss)、指数损失等</li>\n<li>输出：类别概率 → 类别预测</li>\n<li></li>\n</ul>\n</li>\n</ol>\n",
+            "tags": [
+                "机器学习"
+            ]
+        },
+        {
             "id": "https://tartar0us.github.io/diary/8%E6%9C%889%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "url": "https://tartar0us.github.io/diary/8%E6%9C%889%E6%97%A5%E6%97%A5%E8%AE%B0/",
             "title": "",
@@ -22,8 +83,8 @@
             "content_html": "<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>今天回老家了</li>\n<li>中午喝了一下精酿。感觉有点度数，不好喝，苦苦的，不如信阳毛尖好喝（冰镇的）</li>\n<li>中午睡觉睡了两三个小时，挺管用</li>\n<li>别的好像没了，稀松平常的一天</li>\n<li>准备写的计划也没写。有点累了一会就睡觉</li>\n<li>卧槽了，无座就是真的无座啊。站了一个多小时。有点累稍微。</li>\n<li>无座让我认识了一位叔叔，他儿子今年高考，去的杭州师范，这个叔叔自己是河北工业大学的化学，然后北京化工大学的材料硕士，现在周末还出去接单子，在一个胶卷公司，叫乐凯好像，做材料，他说材料比其他的行业工资稍微低一些。他的认知里，计算机目前还是一个很景气的行业，但是我看到的好像并没有很吃香，因为晓蝶姐现在才一个月七八千的样子，23 年毕业之后就没涨过。叔叔说他一个朋友的女儿，学计算机，之前在快手一个月 5 万，现在在一个小公司 7w。我觉得这个还是幸存者偏差吧。这个叔叔人特别好，还借我充电宝。</li>\n<li>酒店的这个房间感觉光线有点弱</li>\n<li>团支书（wxx）15 号的生日，给她买了两本猎奇漫画。也不知道她喜欢什么别的，之前交流读书的时候她说喜欢读猎奇的书。买了伊藤润二的《鱼》和中国漫画家的《黑虫》黑虫还挺好看的，当时是高中的时候借的大胖（黄永康）的看的，他总是有很多钱买各种各样的漫画和小说，我非常羡慕。我需要省吃俭用好久才能狠下心来买一本小说。</li>\n</ul>\n<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>周末学啥习</li>\n</ul>\n<h2 id=\"游戏\"><a class=\"anchor\" href=\"#游戏\">#</a> 游戏</h2>\n<ul>\n<li>火影日常</li>\n<li>吃鸡战令 88 级了，首胜，钻石一</li>\n<li>你什么时候学习能跟打游戏一样有劲就好了。</li>\n</ul>\n<h4 id=\"晚安十一点半不算特别晚\"><a class=\"anchor\" href=\"#晚安十一点半不算特别晚\">#</a> 晚安，十一点半不算特别晚</h4>\n",
             "tags": [
                 "生活",
-                "成长",
-                "博客"
+                "博客",
+                "成长"
             ]
         },
         {
@@ -34,8 +95,8 @@
             "content_html": "<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>今天晚上紫旭升学宴，下午请了半天假没去，四点五十落地德州</li>\n<li>晚上他一圈同学都挺厉害的，有一个医学的本硕博连读，还有一个哈工大</li>\n<li>晚上喝了一点点啤酒。这个东西好像是越喝越免疫，但是对身体也没什么好处说实在的</li>\n<li>吃饭的时候桌子对面也是一个火影玩家，单挑了四五把，感觉我跟我</li>\n</ul>\n<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>有惊无险进组</li>\n<li>发了邮件之后，高铁上导师微信回我，问我想做哪方面的研究，她课题组研究的比较深。韦姐让我看看她的文章，极限写一个简单的回复。一开始想写一个有关她的研究的总结，但是最后来不及了，就简单表达了自己想进组学习的心愿和</li>\n</ul>\n",
             "tags": [
                 "生活",
-                "成长",
-                "博客"
+                "博客",
+                "成长"
             ]
         },
         {
@@ -47,8 +108,28 @@
             "tags": []
         },
         {
-            "id": "https://tartar0us.github.io/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/",
-            "url": "https://tartar0us.github.io/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/",
+            "id": "https://tartar0us.github.io/tech/8%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/",
+            "url": "https://tartar0us.github.io/tech/8%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/",
+            "title": "",
+            "date_published": "2025-08-07T07:40:34.278Z",
+            "content_html": "<p>从 8 月 12 日到 9 月 1 日共 20 天，时间紧张但可通过「聚焦核心、强关联学习、高频实践」高效推进。核心原则：<strong>工具（Python/SQL）优先落地，数学服务应用，机器学习依附工具入门</strong>，避免孤立学习，用「任务串联」提升效率。<br />\n以下是分阶段规划：</p>\n<h3 id=\"第一阶段基础工具攻坚8月12日-8月21日共10天-目标掌握python数据分析核心库-sql基础查询同步渗透数学基础概念为后续应用铺垫\"><a class=\"anchor\" href=\"#第一阶段基础工具攻坚8月12日-8月21日共10天-目标掌握python数据分析核心库-sql基础查询同步渗透数学基础概念为后续应用铺垫\">#</a> <strong>第一阶段：基础工具攻坚（8 月 12 日 - 8 月 21 日，共 10 天）</strong> <strong>目标</strong>：掌握 Python 数据分析核心库、SQL 基础查询，同步渗透数学基础概念（为后续应用铺垫）。</h3>\n<h4 id=\"每日时间分配6-7小时\"><a class=\"anchor\" href=\"#每日时间分配6-7小时\">#</a> 每日时间分配（6-7 小时）：</h4>\n<h5 id=\"python25小时语法库实操聚焦能用起来\"><a class=\"anchor\" href=\"#python25小时语法库实操聚焦能用起来\">#</a> <strong>Python（2.5 小时）</strong>：语法→库实操，聚焦「能用起来」</h5>\n<ul>\n<li>第 1-2 天：补 Python 基础语法（变量 / 循环 / 函数 / 列表字典），用《Python 编程：从入门到实践》前 5 章或 B 站「黑马 Python 基础」快速过，重点练「列表推导式、函数参数」（数据分析高频用）。</li>\n<li>第 3-7 天：核心库实操（每天一个库 + 案例）\n<ul>\n<li>NumPy：数组创建、索引、广播（用「计算学生成绩平均分 / 标准差」案例练）；</li>\n<li>Pandas：Series/DataFrame 创建、缺失值处理（dropna/fillna）、分组聚合（groupby）、合并表（merge）（用「电商订单数据清洗 + 统计销量 TOP3 商品」案例练）；</li>\n<li>Matplotlib/Seaborn：折线图 / 柱状图 / 热力图（用「绘制月度销售额趋势 + 用户年龄分布」案例练）。</li>\n</ul>\n</li>\n<li>第 8-10 天：综合案例（每天 1 个）：\n<ul>\n<li>用 Pandas 处理「泰坦尼克号数据」（清洗 + 生存概率分析）；</li>\n<li>爬取简单数据（如豆瓣 TOP250 电影）+ 可视化（用 requests+BeautifulSoup，聚焦数据处理而非反爬）。</li>\n</ul>\n</li>\n</ul>\n<h5 id=\"sql15小时聚焦查询逻辑跳过复杂函数\"><a class=\"anchor\" href=\"#sql15小时聚焦查询逻辑跳过复杂函数\">#</a> <strong>SQL（1.5 小时）</strong>：聚焦「查询逻辑」，跳过复杂函数</h5>\n<ul>\n<li>第 1-3 天：基础语法（SELECT/FROM/WHERE/GROUP BY/ORDER BY），用「SQLZoo」或「LeetCode 数据库入门题（1-20 题）」练，比如「查询年龄 &gt; 30 的用户信息」「统计每个部门的平均工资」。</li>\n<li>第 4-7 天：进阶查询（JOIN 多表关联、子查询），用「学生 - 课程 - 成绩」三表练：「查询每门课的平均分及最高分学生姓名」。</li>\n<li>第 8-10 天：结合 Python（用 pandas.read_sql_query），实现「SQL 取数→Python 清洗可视化」闭环（比如从模拟的 MySQL 表中取销售数据，用 Python 画折线图）。</li>\n</ul>\n<h5 id=\"数学基础15小时只学数据分析机器学习必用部分跳过纯推导\"><a class=\"anchor\" href=\"#数学基础15小时只学数据分析机器学习必用部分跳过纯推导\">#</a> <strong>数学基础（1.5 小时）</strong>：只学「数据分析 / 机器学习必用」部分，跳过纯推导</h5>\n<ul>\n<li>微积分（第 1-5 天）：</li>\n<li>重点：导数（函数斜率，理解「变化率」，如用户增长速率）、偏导数（多变量函数的变化率，如价格和广告对销量的影响）、梯度（优化算法的基础，知道「梯度下降是找最小值」即可）。</li>\n<li>资源：3Blue1Brown《微积分的本质》（前 6 集）+ 动手算：用 Python 的 sympy 库求简单函数导数（如 f (x)=x²+2x 的导数）。</li>\n<li>线性代数（第 6-10 天）：</li>\n<li>重点：向量（数据的表示，如一个用户的特征向量）、矩阵（数据表的数学形式）、矩阵乘法（特征组合）、特征值 / 特征向量（PCA 降维的核心，知道「保留主要特征」即可）。</li>\n<li>资源：3Blue1Brown《线性代数的本质》（前 5 集）+ 用 NumPy 实操矩阵运算（如两个矩阵相乘、求特征值）。 - <strong>计算机辅修基础（0.5 小时）</strong>：抓最核心的「数据结构入门」 - 每天 1 个概念：数组 / 链表（数据存储形式）、哈希表（字典的原理）、二叉树（了解即可），看《算法图解》前 3 章，用 Python 简单实现（如用列表模拟数组，用字典模拟哈希表）。</li>\n</ul>\n<h3 id=\"第二阶段应用联动机器学习入门8月22日-8月31日共10天-目标用工具落地场景让数学服务实践机器学习聚焦流程和直观理解\"><a class=\"anchor\" href=\"#第二阶段应用联动机器学习入门8月22日-8月31日共10天-目标用工具落地场景让数学服务实践机器学习聚焦流程和直观理解\">#</a> <strong>第二阶段：应用联动 + 机器学习入门（8 月 22 日 - 8 月 31 日，共 10 天）</strong> <strong>目标</strong>：用工具落地场景，让数学服务实践，机器学习聚焦「流程和直观理解」。</h3>\n<h4 id=\"每日时间分配6-7小时-2\"><a class=\"anchor\" href=\"#每日时间分配6-7小时-2\">#</a> 每日时间分配（6-7 小时）：</h4>\n<h5 id=\"pythonsql综合实践2小时用真实场景数据练闭环\"><a class=\"anchor\" href=\"#pythonsql综合实践2小时用真实场景数据练闭环\">#</a> <strong>Python+SQL 综合实践（2 小时）</strong>：用「真实场景数据」练闭环</h5>\n<ul>\n<li>第 1-3 天：处理「Kaggle 公开数据集」（如鸢尾花、房价数据）：\n<ul>\n<li>用 SQL 从数据库取数（模拟业务库）；</li>\n<li>用 Pandas 清洗（缺失值 / 异常值）、特征工程（计算新特征，如「房价 / 面积 = 单价」）； - 用 Seaborn 画相关性热力图（看哪些特征影响房价）。</li>\n</ul>\n</li>\n<li>第 4-5 天：写一个小工具（如「自动化生成周报」）：\n<ul>\n<li>用 SQL 拉取上周数据，Pandas 计算关键指标（环比增长率），Matplotlib 生成图表，最后导出为 Excel/PDF。</li>\n</ul>\n</li>\n</ul>\n<h5 id=\"数学机器学习联动2小时用数学理解模型用python跑模型\"><a class=\"anchor\" href=\"#数学机器学习联动2小时用数学理解模型用python跑模型\">#</a> <strong>数学 + 机器学习联动（2 小时）</strong>：用数学理解模型，用 Python 跑模型</h5>\n<ul>\n<li>第 1-3 天：线性回归（机器学习入门首选，强关联线性代数）\n<ul>\n<li>原理：用线性代数理解「y=wx+b」是向量乘法；用微积分理解「损失函数（平方误差）的梯度下降优化」。</li>\n<li>实操：用 sklearn 库跑房价预测模型（从 Kaggle 下数据），输出 w（系数）和 b（截距），解释「哪个特征对房价影响最大」（如面积系数 0.8＞房间数系数 0.3）。</li>\n</ul>\n</li>\n<li>第 4-6 天：逻辑回归（分类问题，关联概率和导数）\n<ul>\n<li>原理：知道「用 Sigmoid 函数把输出映射到 0-1（概率）」，损失函数用交叉熵（不用推导，知道是衡量预测和真实的差距）。</li>\n<li>实操：用泰坦尼克号数据预测「是否生存」，看准确率，画混淆矩阵。</li>\n</ul>\n</li>\n<li>第 7-10 天：简单了解其他模型（决策树、K-Means），知道「决策树是用规则分类」「K-Means 是聚类（无监督）」，用 sklearn 跑一遍，看结果即可（不深入调参）。</li>\n</ul>\n<h5 id=\"计算机辅修深化1小时结合数据分析场景学算法基础\"><a class=\"anchor\" href=\"#计算机辅修深化1小时结合数据分析场景学算法基础\">#</a> <strong>计算机辅修深化（1 小时）</strong>：结合数据分析场景学「算法基础」</h5>\n<ul>\n<li>重点：时间复杂度（如为什么 Pandas 的向量化运算比 for 循环快，因为 O (n) vs O (n²)）、排序算法（了解快速排序原理，知道 Pandas 的 sort_values 用的是高效算法）。 - 资源：B 站「王树森算法入门」前 5 集，结合 Python 代码看（如自己写一个简单的冒泡排序，对比 Pandas 的排序速度）。</li>\n</ul>\n<h5 id=\"复盘与补缺1小时每天结束前做-整理当天代码到github建一个数据分析实习准备仓库分pythonsql机器学习文件夹\"><a class=\"anchor\" href=\"#复盘与补缺1小时每天结束前做-整理当天代码到github建一个数据分析实习准备仓库分pythonsql机器学习文件夹\">#</a> <strong>复盘与补缺（1 小时）</strong>：每天结束前做 - 整理当天代码到 GitHub（建一个「数据分析实习准备」仓库，分 Python/SQL/ 机器学习文件夹）；</h5>\n<ul>\n<li>用 Notion 记「踩坑笔记」（如 Pandas 的 merge 容易重复列、SQL 的 JOIN 条件写错会导致数据膨胀）；</li>\n<li>每周日花 2 小时：用思维导图梳理关联（如「线性回归→矩阵乘法→NumPy 实现→房价预测案例」）。</li>\n</ul>\n<h3 id=\"关键提醒避免3个误区\"><a class=\"anchor\" href=\"#关键提醒避免3个误区\">#</a> <strong>关键提醒：避免 3 个误区</strong></h3>\n<ol>\n<li><strong>不追求「学完」，只追求「能用」</strong>：比如 Python 不用学类 / 装饰器，SQL 不用学存储过程，数学不用推导公式，知道「是什么、怎么用」即可。</li>\n<li><strong>用「输出倒逼输入」</strong>：每学一个工具 / 模型，必须动手写代码 + 生成一个「可展示的结果」（如图表、报告、GitHub 代码），这些能直接放进实习作品集。</li>\n<li><strong>灵活调整节奏</strong>：如果某部分（如 SQL JOIN）卡壳，当天多花 30 分钟补，从后面的「了解性内容」（如决策树）里匀时间，优先保证核心工具（Python/Pandas/SQL 查询）落地。 按这个节奏，20 天后你能掌握：</li>\n</ol>\n<ul>\n<li>Python 处理数据、可视化的完整流程； - SQL 解决 80% 的业务查询需求； - 理解数据分析中用到的数学概念（知道模型背后的直观逻辑）；</li>\n<li>跑通 2-3 个机器学习基础模型，能讲清流程和结果意义。 这些足够支撑数据分析实习的基础要求，且成果（代码、报告）可直接放进简历和 GitHub，比「学了但没产出」更有说服力。</li>\n</ul>\n",
+            "tags": []
+        },
+        {
+            "id": "https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "url": "https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/",
+            "title": "8月6日日记",
+            "date_published": "2025-08-06T16:00:00.000Z",
+            "content_html": "<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>鸢尾花代码写完，发现有好多错误，改完之后运行依旧不行。准确率只有 30%</li>\n<li>最后开了个新 python 文件，不让 python 画图了，用 svm 和逻辑回归模拟了一下，svm 达到了 10）% 准确率</li>\n</ul>\n<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>一点睡的觉，还不是很晚</li>\n<li></li>\n</ul>\n",
+            "tags": [
+                "生活",
+                "博客",
+                "成长"
+            ]
+        },
+        {
+            "id": "https://tartar0us.github.io/tech/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/",
+            "url": "https://tartar0us.github.io/tech/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/",
             "title": "波士顿房价预测",
             "date_published": "2025-08-06T16:00:00.000Z",
             "content_html": "<h1 id=\"属于多变量回归类型问题\"><a class=\"anchor\" href=\"#属于多变量回归类型问题\">#</a> 属于多变量回归类型问题</h1>\n<h2 id=\"基础算法集成算法\"><a class=\"anchor\" href=\"#基础算法集成算法\">#</a> 基础算法 &amp; 集成算法</h2>\n<p>在机器学习中，基础算法（也称为 “单一模型”）和集成算法是两类重要的模型类型，它们的核心区别在于：<strong>基础算法是独立工作的单一模型，而集成算法是通过组合多个基础模型来提升性能</strong>。以下是具体分类及常见算法：</p>\n<h3 id=\"一-基础算法单一模型\"><a class=\"anchor\" href=\"#一-基础算法单一模型\">#</a> <strong>一、基础算法（单一模型）</strong></h3>\n<p>基础算法是机器学习的 “building blocks”，直接从数据中学习规律，适用于不同类型的任务（分类、回归、聚类等）。</p>\n<h4 id=\"1-线性模型\"><a class=\"anchor\" href=\"#1-线性模型\">#</a> 1. <strong>线性模型</strong></h4>\n<ul>\n<li><strong>线性回归</strong>：用于回归任务，通过拟合线性方程（ <code>y = wx + b</code> ）预测连续值。</li>\n<li><strong>逻辑回归</strong>：用于二分类任务，通过 Sigmoid 函数将线性输出映射到 [0,1] 区间，表示分类概率。</li>\n<li><strong>线性判别分析（LDA）</strong>：用于分类，通过寻找最优投影方向，使不同类别数据的分离度最大。</li>\n</ul>\n<h4 id=\"2-树模型\"><a class=\"anchor\" href=\"#2-树模型\">#</a> 2. <strong>树模型</strong></h4>\n<ul>\n<li><strong>决策树</strong>：通过对特征进行一系列 “是 / 否” 的判断（如 “年龄 &gt; 30？”），生成树状决策规则，可用于分类或回归。</li>\n<li><strong>ID3、C4.5、CART</strong>：决策树的不同实现版本，主要区别在于特征选择标准（信息增益、信息增益比、基尼系数等）。</li>\n</ul>\n<h4 id=\"3-基于距离的模型\"><a class=\"anchor\" href=\"#3-基于距离的模型\">#</a> 3. <strong>基于距离的模型</strong></h4>\n<ul>\n<li><strong>K 近邻（KNN）</strong>：通过计算新样本与训练集中 “最近的 k 个样本” 的距离，用多数投票（分类）或平均值（回归）预测结果。</li>\n<li><strong>K-means</strong>：聚类算法，将数据分为 k 个簇，使簇内样本相似度高、簇间相似度低。</li>\n</ul>\n<h4 id=\"4-概率模型\"><a class=\"anchor\" href=\"#4-概率模型\">#</a> 4. <strong>概率模型</strong></h4>\n<ul>\n<li><strong>朴素贝叶斯</strong>：基于贝叶斯定理和 “特征条件独立假设” 的分类算法，适用于文本分类等场景（如垃圾邮件识别）。</li>\n<li><strong>高斯混合模型（GMM）</strong>：聚类算法，假设数据由多个高斯分布混合生成，用于发现数据的潜在分布。</li>\n</ul>\n<h4 id=\"5-核方法\"><a class=\"anchor\" href=\"#5-核方法\">#</a> 5. <strong>核方法</strong></h4>\n<ul>\n<li><strong>支持向量机（SVM）</strong>：通过寻找 “最大间隔超平面” 进行分类，可通过核函数（如 RBF 核）处理非线性数据，也可扩展到回归任务（SVR）。</li>\n</ul>\n<h4 id=\"6-神经网络基础版\"><a class=\"anchor\" href=\"#6-神经网络基础版\">#</a> 6. <strong>神经网络（基础版）</strong></h4>\n<ul>\n<li><strong>感知机</strong>：最简单的神经网络，由单个神经元组成，用于二分类。</li>\n<li><strong>多层感知机（MLP）</strong>：由输入层、隐藏层、输出层组成的浅层神经网络，可处理非线性问题。</li>\n</ul>\n<h3 id=\"二-集成算法\"><a class=\"anchor\" href=\"#二-集成算法\">#</a> <strong>二、集成算法</strong></h3>\n<p>集成算法通过<strong>组合多个基础模型的预测结果</strong>（如投票、加权平均）来降低单一模型的偏差或方差，从而提升整体性能。核心思想是 “三个臭皮匠顶个诸葛亮”。</p>\n<h4 id=\"1-bagging并行集成\"><a class=\"anchor\" href=\"#1-bagging并行集成\">#</a> 1. <strong>Bagging（并行集成）</strong></h4>\n<ul>\n<li><strong>原理</strong>：通过对训练集进行有放回抽样（Bootstrap），生成多个不同的子数据集，分别训练多个基础模型，最后取平均或投票。</li>\n<li><strong>代表算法</strong>：\n<ul>\n<li><strong>随机森林（Random Forest）</strong>：以决策树为基础模型，同时在特征选择上引入随机性（每次分裂只随机选部分特征），进一步降低过拟合风险。</li>\n</ul>\n</li>\n</ul>\n<h4 id=\"2-boosting串行集成\"><a class=\"anchor\" href=\"#2-boosting串行集成\">#</a> 2. <strong>Boosting（串行集成）</strong></h4>\n<ul>\n<li><strong>原理</strong>：多个基础模型 “串行” 训练，每个新模型专注于修正前一个模型的错误（对前序模型预测错误的样本赋予更高权重），最后加权融合所有模型。</li>\n<li><strong>代表算法</strong>：\n<ul>\n<li><strong>AdaBoost</strong>：通过调整样本权重和模型权重，逐步提升弱分类器的性能。</li>\n<li><strong>梯度提升树（GBDT）</strong>：以决策树为基础模型，通过梯度下降法最小化预测误差，是工业界常用的强模型。</li>\n<li><strong>XGBoost、LightGBM、CatBoost</strong>：GBDT 的工程优化版本，加入正则化、并行计算等机制，训练更快、性能更强。</li>\n</ul>\n</li>\n</ul>\n<h4 id=\"3-stacking堆叠集成\"><a class=\"anchor\" href=\"#3-stacking堆叠集成\">#</a> 3. <strong>Stacking（堆叠集成）</strong></h4>\n<ul>\n<li><strong>原理</strong>：将多个基础模型的预测结果作为 “新特征”，输入到一个 “元模型”（如逻辑回归、线性回归）中，由元模型给出最终预测。</li>\n<li><strong>特点</strong>：灵活性高，可组合不同类型的基础模型（如 SVM + 决策树 + 神经网络），但实现较复杂。</li>\n</ul>\n<h4 id=\"4-voting投票集成\"><a class=\"anchor\" href=\"#4-voting投票集成\">#</a> 4. <strong>Voting（投票集成）</strong></h4>\n<ul>\n<li><strong>原理</strong>：直接对多个基础模型的预测结果进行投票（分类任务）或加权平均（回归任务）。</li>\n<li><strong>分类</strong>：\n<ul>\n<li><strong>硬投票</strong>：选择得票最多的类别作为结果。</li>\n<li><strong>软投票</strong>：根据每个模型的预测概率加权求和，选择概率最高的类别。</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"总结\"><a class=\"anchor\" href=\"#总结\">#</a> <strong>总结</strong></h3>\n<ul>\n<li>\n<p><strong>基础算法</strong>是集成算法的 “零件”，各有优缺点（如决策树易过拟合，线性模型难以处理非线性数据）。</p>\n</li>\n<li>\n<p><strong>集成算法</strong>通过组合基础算法，通常能获得更稳定、更优的性能，是竞赛和工业界的常用方案（如 XGBoost、随机森林）。</p>\n</li>\n<li>\n<h3 id=\"什么时候用基础算法\"><a class=\"anchor\" href=\"#什么时候用基础算法\">#</a> 什么时候用基础算法？</h3>\n</li>\n<li>\n<p>数据量小</p>\n</li>\n<li>\n<p>需要快速结果</p>\n</li>\n<li>\n<p>要求模型可解释</p>\n</li>\n<li>\n<p>计算资源有限</p>\n</li>\n</ul>\n<h3 id=\"什么时候用集成算法\"><a class=\"anchor\" href=\"#什么时候用集成算法\">#</a> 什么时候用集成算法？</h3>\n<ul>\n<li>追求高精度</li>\n<li>数据量充足</li>\n<li>不在乎计算时间</li>\n<li>可以接受 &quot;黑盒&quot; 模型</li>\n</ul>\n<h3 id=\"各个模型对此问题的解答\"><a class=\"anchor\" href=\"#各个模型对此问题的解答\">#</a> 各个模型对此问题的解答</h3>\n<p>KNN 回归 评估指标：<br />\n均方误差（MSE）: 9.74<br />\n 均方根误差（RMSE）: 3.12<br />\n 平均绝对误差（MAE）: 2.41<br />\n 决定系数（R²）: 0.83</p>\n<h2 id=\"binary\"><a class=\"anchor\" href=\"#binary\">#</a> binary</h2>\n<p>binary 表示二进制<br />\n binary classification 表示二分法</p>\n<ul>\n<li>在 KNN 的学习过程中遇到了 KD 树算法<br />\n kd 是一种数据结构，常被用于快速搜索任务<br />\n KD 树通过<strong>递归地对空间进行二分划分</strong>（类似二叉树），将数据点组织成树结构，从而将搜索范围逐步缩小（理想情况下时间复杂度可降至 O (log n)）。</li>\n</ul>\n<p>线性回归 评估指标：<br />\n均方误差（MSE）: 19.81<br />\n 均方根误差（RMSE）: 4.45<br />\n 平均绝对误差（MAE）: 3.23<br />\n 决定系数（R²）: 0.65</p>\n<p>支持向量回归 评估指标：<br />\n均方误差（MSE）: 15.29<br />\n 均方根误差（RMSE）: 3.91<br />\n 平均绝对误差（MAE）: 2.47<br />\n 决定系数（R²）: 0.73</p>\n<p>决策树回归 评估指标：<br />\n均方误差（MSE）: 20.29<br />\n 均方根误差（RMSE）: 4.50<br />\n 平均绝对误差（MAE）: 2.44<br />\n 决定系数（R²）: 0.64</p>\n<p>随机森林回归 评估指标：<br />\n均方误差（MSE）: 7.64<br />\n 均方根误差（RMSE）: 2.76<br />\n 平均绝对误差（MAE）: 1.91<br />\n 决定系数（R²）: 0.87</p>\n<p>梯度提升回归 评估指标：<br />\n均方误差（MSE）: 5.53<br />\n 均方根误差（RMSE）: 2.35<br />\n 平均绝对误差（MAE）: 1.85<br />\n 决定系数（R²）: 0.90</p>\n<h3 id=\"图表的字体无法显示\"><a class=\"anchor\" href=\"#图表的字体无法显示\">#</a> 图表的字体无法显示</h3>\n<ul>\n<li>\n<h1 id=\"设置中文显示\"><a class=\"anchor\" href=\"#设置中文显示\">#</a> 设置中文显示</h1>\n</li>\n</ul>\n<p>plt.rcParams[&quot;font.family&quot;] = [&quot;SimHei&quot;, &quot;WenQuanYi Micro Hei&quot;, &quot;Heiti TC&quot;]<br />\n plt.rcParams [&quot;axes.unicode_minus&quot;] = False  # 解决负号显示问题</p>\n",
@@ -59,28 +140,16 @@
             ]
         },
         {
-            "id": "https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "8月6日日记",
-            "date_published": "2025-08-06T16:00:00.000Z",
-            "content_html": "<h2 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h2>\n<ul>\n<li>鸢尾花代码写完，发现有好多错误，改完之后运行依旧不行。准确率只有 30%</li>\n<li>最后开了个新 python 文件，不让 python 画图了，用 svm 和逻辑回归模拟了一下，svm 达到了 10）% 准确率</li>\n</ul>\n<h2 id=\"生活\"><a class=\"anchor\" href=\"#生活\">#</a> 生活</h2>\n<ul>\n<li>一点睡的觉，还不是很晚</li>\n<li></li>\n</ul>\n",
-            "tags": [
-                "生活",
-                "成长",
-                "博客"
-            ]
-        },
-        {
-            "id": "https://tartar0us.github.io/programming/python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/",
-            "url": "https://tartar0us.github.io/programming/python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/",
+            "id": "https://tartar0us.github.io/tech/programming/python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/",
+            "url": "https://tartar0us.github.io/tech/programming/python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/",
             "title": "",
             "date_published": "2025-08-06T08:39:30.706Z",
             "content_html": "<h2 id=\"sklearn\"><a class=\"anchor\" href=\"#sklearn\">#</a> <strong>SKLEARN</strong></h2>\n<ul>\n<li>from sklearn.model_selection import train_test_split</li>\n<li><code>train_test_split</code>  是 <strong>机器学习中划分训练集和测试集的核心工具</strong>，作用是把原始数据集拆成两部分：</li>\n<li><strong>训练集（train）</strong>：用来训练模型（让模型学习数据规律）。</li>\n<li><strong>测试集（test）</strong>：用来评估模型（验证模型在新数据上的效果）。<br />\n<strong>记住函数的用途，在整个 python 代码中能看懂就可以</strong></li>\n</ul>\n<h2 id=\"一些单词\"><a class=\"anchor\" href=\"#一些单词\">#</a> 一些单词</h2>\n<ul>\n<li>DecisionTreeClassifier 决策树分类器（决定，树，分类的工具）</li>\n<li>LogisticRegression    逻辑回归 regression 回归</li>\n</ul>\n",
             "tags": []
         },
         {
-            "id": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%9C%AA%E5%91%BD%E5%90%8D/",
-            "url": "https://tartar0us.github.io/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%9C%AA%E5%91%BD%E5%90%8D/",
+            "id": "https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%9C%AA%E5%91%BD%E5%90%8D/",
+            "url": "https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%9C%AA%E5%91%BD%E5%90%8D/",
             "title": "",
             "date_published": "2025-08-06T08:36:51.123Z",
             "content_html": "",
@@ -124,65 +193,6 @@
             "title": "3月20日日记",
             "date_published": "2025-08-06T01:09:36.526Z",
             "content_html": "<p>今天依旧让人厌烦的早操，吃完饭七点十五睡九点半去上体育课，没手感发了两个球都出界了。</p>\n<p>晚上不知道哪里来的胆子，分期 12 期买了个 matepad 11.5s 灵动版。算上笔 2600 了，每个月还 242。可能我真的很想要吧。拿到了肯定会很开心吧，或许会用来记笔记吧，或许会玩吧。不重要了。可能多年之后我已经有能买最顶配 ipad（2w 左右）的能力了，但那个时候可能我也不想要了。我发誓这是我第一次超前消费，也将是最后一次超前消费。希望自己能够真正利用起来，虽然好像这件事做得不太对，爸妈知道了肯定会生气。但是我觉得自己不后悔了。我真的很想要一个平板。当然，也有可能我说这些就是自我安慰，或许实际上我是一个没有主见的，被消费主义裹挟的唐笔大学生。无所谓了哈哈哈哈哈，我会很开心的，期待收货<br />\n ————————————————<br />\n 版权声明：本文为 CSDN 博主「Kamui_0us」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。<br />\n原文链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0LzIzMDFfNzYzNjQ0NzAvYXJ0aWNsZS9kZXRhaWxzLzE0NjQwNTIwMA==\">https://blog.csdn.net/2301_76364470/article/details/146405200</span></p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "3月19日日记",
-            "date_published": "2025-08-06T01:09:09.084Z",
-            "content_html": "<p>本周的任务</p>\n<p>1. 班级故事两篇八百字（这个压力）</p>\n<p>2. 收集本月的团日材料</p>\n<p>3. 周日去食堂收集五四述职材料</p>\n<p>4. 学计算机二级（这么多天了还没行动）</p>\n<p>今天下午上完英语课之后和同学们去了海边，本来说的是为了班级风采视频拍一些素材，但是 Max 的无人机在海滩上被禁飞了，好像这一片都是禁飞的区域，最终决定，来都来了，吃顿好的再回去上晚自习。我们去茂业吃了好像是东北菜，然后买了 DQ，这是我第一次吃这么贵的冰激凌，19.9，但是确实很好吃，很可惜是吃饭前吃的冰激凌，导致最后正餐吃的少了一点，但是还是很撑得慌，非常满足的一顿饭。大家都很开心。回了自习室时间刚刚好开始上晚自习，我们几个打王者的又五排了，我是真的菜，第一把射手 0/4 评分 5.1 第二把对抗 0/8 评分 4.8。又卸载了，感觉如果再和他们一起玩会拖累他们。（本来一个礼拜之前已经卸载了，因为这个赛季 qq 微信都上王者了）我也看出来了我在 moba 放面似乎并没有什么天赋。其他游戏可能也是吧，zhr 都上过荣耀，超影，感觉他什么游戏都比我玩的好。不过无所谓，毕竟游戏是游戏，如果带来太大的压力或者心理负担不如不玩。我很喜欢非竞技类游戏，但是有些这种游戏又会有玩家想尽办法在其他的地方攀比，比如圣遗物的好坏啊，角色的练度啊，所以慢慢的跟别人比较就会越来越累，渐渐的就不想玩了（某二字游戏）。天有点冷，校园跑也没坚持一天一跑。等着暖和一点再说吧。<br />\n————————————————<br />\n 版权声明：本文为 CSDN 博主「Kamui_0us」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。<br />\n原文链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9ibG9nLmNzZG4ubmV0LzIzMDFfNzYzNjQ0NzAvYXJ0aWNsZS9kZXRhaWxzLzE0NjM3ODc5Nw==\">https://blog.csdn.net/2301_76364470/article/details/146378797</span></p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "3月22日日记",
-            "date_published": "2025-08-06T01:06:59.100Z",
-            "content_html": "<pre><code>水一下水一下，明天补\n\n三编 我知道tab的用法了，会生成一个小边框，还挺好看的\n</code></pre>\n<p>二编</p>\n<p>word 转 pdf 的过程中 如果出现目录有问题，显示 错误未定义书签，只需要 ctrl+A 全选文章，然后 ctrl+f11 锁定全文就可以了</p>\n<p>3 月 22 日<br />\n拿到了新的平板，迫不及待的试了一下和平精英，发现帧率和画质还没有手机好，然后屏幕太大了操作不了。最能用来养小猫，刷抖音和学习了，把 zmq 给的电子课本都导入到笔记里了，试了一下写字也是肥肠的丝滑。很好，等保护套和类纸膜到了之后就可以无纸化学习了，想想就爽哈哈哈哈哈。今天中午训练排球了，脚步倒不好。扣球和跳飘都没太学会。无所谓。中午在校一开箱平板，喝了雪碧，回宿舍舍友点了 kfc 外卖，给我留了一杯可乐，太好哩<br />\n晚上把乒乓球训练推了，，真是一个酣畅淋漓的周六 宿舍真的热的不行了。不是人待的地方。</p>\n<p>晚上女朋友放假啦！聊天到零点 20 左右。还有 76 天孩子就可以脱离苦海了。加油！！</p>\n<h2 id=\"63w字啦加油\"><a class=\"anchor\" href=\"#63w字啦加油\">#</a> 6.3W 字啦！！加油！！</h2>\n",
-            "tags": [
-                "成长",
-                "博客"
-            ]
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8825%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8825%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "",
-            "date_published": "2025-08-05T16:44:26.825Z",
-            "content_html": "<p>今天很忙碌 中午训练 下午导员开会 晚上努力工作</p>\n<p>又准备积极分子笔试。心情还不错</p>\n<p>哦今天训练队长哭了，感觉他有点幼稚。情绪不是很稳定。</p>\n<p>近期任务如图，不赘述了，早点睡今天😂</p>\n<p>加油，我们都在努力的活着</p>\n<p>一个之前一起打 ctf 的朋友没进核心。这东西真的难啊。换一条路吧，补一补学习，准备考研😃。人生的容错率很高的，加油我的朋友</p>\n<p>晚安</p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8827%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8827%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "",
-            "date_published": "2025-08-05T16:43:19.907Z",
-            "content_html": "<p>今天选拔了拔河的，身体条件优势直接选上😃</p>\n<p>晚上五四述职，书记让我翻 ppt，紧紧张张的🥹也算是完成了任务。</p>\n<p>我们班是五四红旗团支部🥰</p>\n<p>排球课没想到败给男生一队了，很强他们，我们还需要加强😉</p>\n<p>最近学习又少了。还是上课注意力不集中。太困了。以后尝试中午睡觉。晚安！</p>\n<p>明天是 zoey 生日，明天晚上可以一起出去玩了😃</p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8826%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8826%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "",
-            "date_published": "2025-08-05T16:43:19.907Z",
-            "content_html": "<p>早八水课，早十微积分没太听进去。</p>\n<p>下午英语课看了一点点 python，发现自己还好像有一点点懂。下了英语课去训练了，队长说起来下学期要招人，要选拔。我要一直在队里打球。虽然我打的菜但是我很开心。今天训练的时候不知道为什么脑袋里一直在播放你的名字（我现在立即戴上耳机听一下）。真的很治愈。感觉今天的训练很轻松。天气也刚刚好，不是很热，偶尔有凉飕飕的风。大家一起垫球传球，笑得很开心。这真的是很轻松的半个小时。脑子很空，想的很少。</p>\n<p>训练完想给电动车充电呢，到了地方发现充电器找不着了。。没多想，看了一下网上同款价格，60 块钱。买了之后回宿舍，无非是走几天路。如果我一直埋怨自己，使劲想这件事，说不定会睡不好，还会觉得自己什么都干不好。实际上这件事很小。60 块钱的小事，何足挂齿哈哈哈哈哈。</p>\n<p>以后不管遇到什么事，先冷静计算后果。如果是钱可以解决的都不是问题。其他的再说。人生的容错是很高的。</p>\n<p>团工作忘了交纸质版优秀团日材料了。下了晚自习去交。今天晚上有点摆烂。小问题，都是小问题。</p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "",
-            "date_published": "2025-08-05T16:42:40.211Z",
-            "content_html": "<p>补上昨天的。</p>\n<p>不知道为什么又熬夜了。到了一点多才睡</p>\n<p>上午参加了控院的五四述职，没太在意有啥亮点</p>\n<p>打球了下午。被压力，倒是没有很失落，习惯了</p>\n<p>上午宝宝回来了，聊了一点点天，很开心😸</p>\n<p>没了。</p>\n<p>在宿舍写了一点了好像，但是忘了保存草稿就来了。。。</p>\n<p>没关系 现在是下午四点五十，今天玩了一下午，并没有学习任何东西。一会六点到九点要去打趣味运动会乒乓球比赛，晚上计划回宿舍写写作业，早点睡觉因为明天上午还要去听控制工程学院的五四述职大会。然后明天晚上六点四十工学馆 215 还要进行积极分子考核笔试。应该没什么问题。然后周二要弄 speaking assessment，还没有写稿子目前。这周的解析几何作业和微积分作业也没弄。我服了。（服你大坝，自己在宿舍不知道干别的，要么就和平精英要么就刷视频。废物一个）谁问你了。我就玩。滚。</p>\n<p>男单男双都被秒了哈哈哈哈哈哈</p>\n<p>没有啥意外的，本来就是来玩</p>\n<p>今天排球训练也很开心的，虽然说被压力了，但是我的抗压能力超强😘</p>\n<p>宝宝现在还没回消息。估计没带手机或者在另一个家住了😭等明天聊天吧，想换个好看点的头像让她更有聊天的欲望呢。换成了经典的塔塔洛斯白毛哈哈哈</p>\n<p>晚安</p>\n",
-            "tags": []
-        },
-        {
-            "id": "https://tartar0us.github.io/diary/3%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "url": "https://tartar0us.github.io/diary/3%E6%9C%8831%E6%97%A5%E6%97%A5%E8%AE%B0/",
-            "title": "",
-            "date_published": "2025-08-05T16:42:04.515Z",
-            "content_html": "<p>二元极限不会求。定义发证明也是不会。难受的要死。但是没办法是自己欠的账。着急也是看不懂。只能压力自己。很难受，有点气急攻心了。停了一下雨中巴黎和恍然大悟缓了缓。真是废物。<br />\n好消息是 u 盘找到了，被团支书借走了，最近这段时间一直很忙她忘还给我了<br />\n今天下午微信状态设置了个 胡思乱想：活着真没意思  三个人问我怎么回事。谢谢你们。我其实是一个情绪特别不稳定的人，但是我很少说出来。写下来好像也好一点了<br />\n还是因为钱的事。我总是不知足。我感觉父母太在意我手里有多少钱了。像是在算计我一样。我不想这么被人管着。但是我目前唯一的经济来源就是他们。努力工作不是为了家庭为了孩子吗，但是为什么不能让我过的更好一点。从小到大都是，买个什么东西费老劲了，尤其是电子产品，必须软磨硬泡。可以在 201 几年每年花几千给我报兴趣班，但是零花钱十块都舍不得给我。为什么学习让我跟人家学习好的比，条件就不能跟有钱的比呢。我当然知道这么想非常的自私，非常的不孝。但是我就是想不通。又不是缺钱，我总是感觉自己的生活水平比同阶级同龄人的低，我常常因为钱发愁。我讨厌任何人跟我提钱。真是个恶心的东西。现在他妈的又七点四十三了。晚自习又是什么也没干。和解吧 和自己。干着急也没用，回宿舍少玩一会，洗洗衣服什么的<br />\n你不能要求一个十八岁的孩子既要学习好又要学生工作干的特别漂亮，同时兼顾语言学习甚至创业，自力更生。你太贪了。我不是特别牛逼的孩子。我就是个普通人。我想玩，我想不考虑这么多。我一个还在读书的年纪，为什么要让我想这么多。我太痛苦了。<br />\n说白了今天心情低落可能是因为昨天晚上一点多睡觉。然后贤者时间了。沙贝。<br />\n微积分旷课了，结果这节课讲的是偏导。感觉有点补不回来了<br />\n慢慢来吧。怎么活都是活。别太着急。差的慢慢补。少玩一点<br />\n感觉和高中时候疫情在家差不多了，知道自己落下了，但是清醒着堕落。<br />\n这个破绩点纯属是我的水课拉起来的，还在沾沾自喜感觉自己学习很好一样。这个学期必须补起来了。废物</p>\n",
             "tags": []
         }
     ]
