@@ -10,16 +10,49 @@
         </author>
         <description>你所厌恶的今天，是昨日死去之人苦苦奢望的明天</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 13 Aug 2025 00:00:00 +0800</pubDate>
-        <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0800</lastBuildDate>
+        <pubDate>Thu, 14 Aug 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0800</lastBuildDate>
         <category term="1111111111111111111111" />
+        <item>
+            <guid isPermalink="true">https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%AE%9E%E6%93%8D/%E7%AA%81%E5%87%BA%E4%BA%94%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA/</guid>
+            <title>1.突出五个模型中的一个</title>
+            <link>https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%AE%9E%E6%93%8D/%E7%AA%81%E5%87%BA%E4%BA%94%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA/</link>
+            <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
+            <pubDate>Thu, 14 Aug 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;给的材料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#给的材料&#34;&gt;#&lt;/a&gt; 给的材料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;第一张图片，里面是跑完模型之后五个模型的结果，有准确率和 MAE&lt;/li&gt;
+&lt;li&gt;第二张图片，里面是三线表的格式，看出来是比较第一个模型和其他几个模型的差异，包括 &lt;strong&gt;准确率提升幅度&lt;/strong&gt; 和&lt;strong&gt;统计显著性&lt;/strong&gt;（f 和 p 值）&lt;/li&gt;
+&lt;li&gt;暂时不知道上面两个粗体是什么意思。但是通过比较应该是可以看出来第一个模型比其他四个模型要好一些&lt;/li&gt;
+&lt;li&gt;客户要求用方差分析&lt;/li&gt;
+&lt;li&gt;都没给原数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;分析过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析过程&#34;&gt;#&lt;/a&gt; 分析过程&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;给的数据是图片，AI 没法识别，找到在线工具，图片转 xlsx。&lt;/li&gt;
+&lt;li&gt;给 AI 指令，但是他还是不能识别表格，他自己写了一个 python 程序转成 csv（或者我上网找在线工具转成 csv 也行）&lt;/li&gt;
+&lt;li&gt;出来分析报告之后简单对比了一下要求的格式，让它把 F 值精确了一下（一开始输出的是整数）&lt;/li&gt;
+&lt;li&gt;上网找 word 里怎么做三线表
+&lt;ul&gt;
+&lt;li&gt;插入之后上边框和下边框都是黑色 1.5 磅&lt;/li&gt;
+&lt;li&gt;中间是 0.75 磅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;生成的分析报告是 txt，找在线工具转换成 word&lt;/li&gt;
+&lt;li&gt;把三线表放到分析报告.docx 里&lt;/li&gt;
+&lt;li&gt;给客户&lt;/li&gt;
+&lt;li&gt;现在等着下一步的消息了&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://tartar0us.github.io/diary/8%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
             <title>8月13日日记</title>
             <link>https://tartar0us.github.io/diary/8%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Wed, 13 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
 &lt;ul&gt;
@@ -125,8 +158,8 @@ version-3&lt;/p&gt;
             <title>8月12日日记</title>
             <link>https://tartar0us.github.io/diary/8%E6%9C%8812%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Tue, 12 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
 &lt;ul&gt;
@@ -214,7 +247,22 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
 &lt;h3 id=&#34;非ascll编码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非ascll编码&#34;&gt;#&lt;/a&gt; 非 ascll 编码&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;好烦。看不懂维基百科上的介绍&lt;/li&gt;
+&lt;li&gt;太好了直接复制粘贴就可以&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;字符串中带单引号&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字符串中带单引号&#34;&gt;#&lt;/a&gt; 字符串中带单引号&lt;/h3&gt;
+&lt;p&gt;EUGENE O&#39;NEILL   这是一个诺贝尔奖获得者的名字，里面带一个单引号&lt;br /&gt;
+表示方式一： name = ‘EUGENE O&#39;’NEILL‘  （把字符串中的单引号变成两个单引号）&lt;br /&gt;
+表示方式二： name =“EUGENE O&#39;NEILL”  （外边用双引号括起来）&lt;/p&gt;
+&lt;h2 id=&#34;排序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#排序&#34;&gt;#&lt;/a&gt; 排序&lt;/h2&gt;
+&lt;p&gt;ORDER BY xx    以 xx 为条件排序，&lt;br /&gt;
+ORDER BY year DESC   以年份为条件降序排序（显示最新的）&lt;br /&gt;
+ORDER BY year DESC ，winner    以年份为条件降序排序，同年份的用获奖者名字排序   ORDER BY -year ，winner  和上面那句一样的效果&lt;/p&gt;
+&lt;h3 id=&#34;布尔值&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#布尔值&#34;&gt;#&lt;/a&gt; 布尔值&lt;/h3&gt;
+&lt;p&gt;subject in （‘literature’，‘chemistry’）算是一种布尔值，放到 select 语句中会生成一列 0 或者 1，判断这个诺贝尔奖获奖者的学科是不是属于化学或者物理。可以用这个来排序&lt;br /&gt;
+ ORDER BY&lt;br /&gt;
+CASE WHEN subject IN （‘literature’，‘chemistry’）THEN 1&lt;br /&gt;
+ELSE 0&lt;br /&gt;
+ 因为 0 比 1 打，sql 默认升序排序，所以这个排序会把化学和物理的奖项排到输出列表的最后。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -293,8 +341,8 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
             <title>8月10日日记</title>
             <link>https://tartar0us.github.io/diary/8%E6%9C%8810%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Sun, 10 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
 &lt;ul&gt;
@@ -326,8 +374,8 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
             <title>8月8日日记</title>
             <link>https://tartar0us.github.io/diary/8%E6%9C%888%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Fri, 08 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
 &lt;ul&gt;
@@ -449,8 +497,8 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
             <title>8月6日日记</title>
             <link>https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
             <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+            <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Thu, 07 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
 &lt;ul&gt;
@@ -469,8 +517,8 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
             <title>波士顿房价预测</title>
             <link>https://tartar0us.github.io/tech/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/</link>
             <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
             <category term="机器学习" scheme="https://tartar0us.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" />
+            <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
             <pubDate>Thu, 07 Aug 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;属于多变量回归类型问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属于多变量回归类型问题&#34;&gt;#&lt;/a&gt; 属于多变量回归类型问题&lt;/h1&gt;
 &lt;h2 id=&#34;基础算法集成算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础算法集成算法&#34;&gt;#&lt;/a&gt; 基础算法 &amp;amp; 集成算法&lt;/h2&gt;
@@ -726,19 +774,6 @@ WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
 &lt;p&gt;得多想想办法，清明节不干别的了，好好休息，学习，锻练，或者找点能挣钱的活（并非刚需）。&lt;/p&gt;
 &lt;p&gt;这篇文章的格式实在是混乱，甚至没有每个自然段开头空两格，但是这已经无所谓了。&lt;/p&gt;
 &lt;p&gt;班里好像有同学帮人做 ppt 能挣点钱，可以跟他打探一下消息！今天就写到这吧，现在是八点十五了，同学们都陆续走了，我得开始弄微积分作业了。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://tartar0us.github.io/diary/3%E6%9C%8824%E6%97%A5%E6%97%A5%E8%AE%B0/</guid>
-            <title></title>
-            <link>https://tartar0us.github.io/diary/3%E6%9C%8824%E6%97%A5%E6%97%A5%E8%AE%B0/</link>
-            <pubDate>Wed, 06 Aug 2025 09:10:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;今天上课很认真 微积分和解析几何基本都听进去了，记笔记也很认真，不得不说平板是真的很方便，包一下子变轻了，无纸化学习的好处啊！晚上参加了雅思的口语试听课 感觉还可以 老师说我差不多有 5 分的水平 需要练，目前还不是很着急上课 ，再考虑考虑。平板真的买对了，玩猫咪和汤也很开心！学习是主要用途目前😃&lt;/p&gt;
-&lt;p&gt;计算机二级放弃了，我们导员也是考了三次才考过去，我想一个礼拜突击基本不可能。这个东西目前来说也不是很急，慢慢来吧。&lt;/p&gt;
-&lt;p&gt;排球训练加量到一周三次了，我队服选了 9 号，名字是 kgym 嘿嘿 影山飞雄！加油好好练，感觉振东杯应该有机会上场🤓。给 zoey 和小林的生日礼物都到了，小林很惊喜😆不知道 zoey 喜不喜欢，这周五就出去吃饭了，好耶。&lt;/p&gt;
-&lt;p&gt;鸭子胃不太得劲，我记得高中的时候好像也有这种情况。体弱多病的孩子🥲祝你早日康复。&lt;/p&gt;
-&lt;p&gt;还没收集心理测评的截图。明天弄一下🧐&lt;/p&gt;
-&lt;p&gt;晚安，今天还是比较充实的！有进步！！&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
