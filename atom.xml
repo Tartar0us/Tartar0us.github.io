@@ -52,14 +52,56 @@
         <updated>2025-08-12T16:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E5%AD%A6/</id>
+        <title>数据结构初学</title>
+        <link rel="alternate" href="https://tartar0us.github.io/tech/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%9D%E5%AD%A6/"/>
+        <content type="html">&lt;h2 id=&#34;python中的数据结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python中的数据结构&#34;&gt;#&lt;/a&gt; Python 中的数据结构&lt;/h2&gt;
+&lt;h3 id=&#34;from-英雄从哪里出来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#from-英雄从哪里出来&#34;&gt;#&lt;/a&gt; from  英雄从哪里出来&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;元组：小括号，不可增删改&lt;/li&gt;
+&lt;li&gt;列表：中括号，可以增删改查&lt;/li&gt;
+&lt;li&gt;字典：花括号，可以增删改查，键值对一一对应&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;时间复杂度空间复杂度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时间复杂度空间复杂度&#34;&gt;#&lt;/a&gt; 时间复杂度空间复杂度&lt;/h3&gt;
+&lt;p&gt;看整个代码运行了多少次，如果是常数次，比如 1，2，100 次，则时间复杂度为 O（1）&lt;br /&gt;
+如果运行了 n 次，n 一般为输入的，那么时间复杂度为 O（n）&lt;br /&gt;
+如果有两个循环，运行了 n 的平方次，那么时间复杂度为 O（n^2）&lt;br /&gt;
+如果遍历的范围一次比一次小，二分法查找，那么时间复杂度为 O（log2n）&lt;strong&gt;这里是以 2 为底 n 的对数&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;时间复杂度陷阱&lt;/em&gt; ：&lt;br /&gt;
+比较时间复杂度的前提是数据量足够庞大，有时候在较小的数据量下，时间复杂度高的方法反而运行的更快，这个要根据实际应用中的需要来判断，比如一个程序，跑 0.01 秒和 0.001 秒基本上没什么区别，那就没必要弄复杂的低复杂度算法，因为我们既要兼顾时间复杂度，又要兼顾代码的可读性。&lt;/p&gt;
+&lt;p&gt;空间复杂度是说这个程序在运行的过程中占用的硬件设备的空间大小（很可能这个理解是错误的）&lt;/p&gt;
+</content>
+        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="计科" scheme="https://tartar0us.github.io/tags/%E8%AE%A1%E7%A7%91/" />
+        <updated>2025-08-12T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://tartar0us.github.io/tech/MES/</id>
         <title></title>
         <link rel="alternate" href="https://tartar0us.github.io/tech/MES/"/>
         <content type="html">&lt;p&gt;&lt;em&gt;完全不会&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;AI 卡住了，运行的太慢了，算了&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;我已拿到一份「原始需求描述」，需严格遵守 8 阶段开发流程。&lt;br /&gt;
+必须先完成「需求澄清」→ 输出《业务流程文档》+《需求确认清单》。&lt;br /&gt;
+再根据澄清结果生成《&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzEueG4tLXhmcjhwOTQ3ZDdrci5tZA==&#34;&gt;1. 功能清单.md&lt;/span&gt;》（即系统前端目录树：一级模块 → 二级页面）。&lt;br /&gt;
+然后预生成其余 7 个骨架文档（仅标题）：&lt;br /&gt;
+1. 功能清单，md&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzIueG4tLXZocTMzaXk4dHh2YzdyaWpwdi5tZA==&#34;&gt;2. 业务流程文档.md&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzMueG4tLTRycnA5ZW90bmplNzV1MnkyZS5tZA==&#34;&gt;3. 技术选型报告.md&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzQueG4tLTdkdjI3YmpldDFhNDA4azdlYS5tZA==&#34;&gt;4. 架构设计文档.md&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzUueG4tLUVSLTdoOGNtMTBhdGpnZGtkLm1k&#34;&gt;5. 数据库 ER 图.md&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzYueG4tLUFQSS00cDhmOTlqb3k2YzE0ai5tZA==&#34;&gt;6.API 规范文档.md&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzcueG4tLXdxdm80OGEyMHdiZGEubWQ=&#34;&gt;7. 权限矩阵.md&lt;/span&gt;。&lt;br /&gt;
+然后进入「原型设计」：为功能清单中的每个页面产出原型图 Markdown , 在原型图设计的时候在原型图文件夹下建立每个模块的子文件夹，每个页面单独作为一个文件，&lt;br /&gt;
+每个  wireframes/*.md  必须包含：&lt;br /&gt;
+ # 页面名称&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;## Markdown 伪图 （```markdown 伪图 代码块，纯 ASCII 矩形框）&lt;/p&gt;
+&lt;p&gt;## 字段说明 （若有表单，用表格：字段 | 类型 | 必填 | 说明）&lt;/p&gt;
+&lt;p&gt;## 交互逻辑 （有序列表或 Mermaid 时序图）&lt;/p&gt;
+&lt;p&gt;## 跳转关系 （列表或 Mermaid 图）&lt;/p&gt;
+&lt;p&gt;最后根据原型图文件夹下的每个页面生成相应的静态页面，静态页面的生成需要参考文件中的布局和样式，完全沿用其：响应式布局方式（Flex / Grid / 媒体查询）颜色变量、字体、圆角、阴影、按钮 / 表单 / 表格等基础样式使用的第三方组件库（如 Element-Plus / Ant-Design-Vue / Bootstrap-Vue 等）及 CDN 引入方式通用组件写法（Header、Sidebar、Card、Table、Modal、Breadcrumb、Loading 等）, 同时静态页面文件夹下也建立每个每个模块的子文件夹，然后每个文件夹下放置这个模块的子页面&lt;/p&gt;
 </content>
         <updated>2025-08-12T03:51:25.713Z</updated>
     </entry>
@@ -149,6 +191,24 @@ gdp/population ：计算人均 gdp&lt;br /&gt;
 ROUND（gdp/population/1000,0) 人均 GDP 除以一千保留整数&lt;/p&gt;
 &lt;p&gt;ROUND（gdp/population/1000,0)* 1000 人均 GDP 保留千位数&lt;br /&gt;
 最后随便命了个名，起名为千 G 每人 ：THOusand Gdp Per Person &lt;s&gt;抽象&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SQL 报错又找不到问题的时候，想一想有没有少用括号或者用中文的字符&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;8月14日&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8月14日&#34;&gt;#&lt;/a&gt; 8 月 14 日&lt;/h2&gt;
+&lt;p&gt;SELECT yr,subject,winner&lt;br /&gt;
+FROM  nobel&lt;br /&gt;
+WHERE (yr between 1980 AND 1989 )AND (subject = &#39;literature&#39;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;上面 sql 指令的意思是，罗列出 1980 年至 1989 年诺贝尔文学奖的年份，学科和获奖人&lt;br /&gt;
+&lt;strong&gt; between 并没有左闭右开之类，直接说什么就是什么。爽&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;WHERE subject NOT IN （‘literature’，‘peace’）&lt;br /&gt;
+WHERE  NOT subject  IN （‘literature’，‘peace’）&lt;br /&gt;
+上面两行代码具有相同的效力，但是意思不完全相同&lt;br /&gt;
+第一行是说，subject 不在 文学奖或和平奖里&lt;br /&gt;
+第二行是说，否定了 subject 在文学奖或者和平奖里&lt;/p&gt;
+&lt;h3 id=&#34;非ascll编码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非ascll编码&#34;&gt;#&lt;/a&gt; 非 ascll 编码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;好烦。看不懂维基百科上的介绍&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="SQL" scheme="https://tartar0us.github.io/tags/SQL/" />
@@ -677,17 +737,5 @@ ROUND（gdp/population/1000,0) 人均 GDP 除以一千保留整数&lt;/p&gt;
 &lt;p&gt;晚安，今天还是比较充实的！有进步！！&lt;/p&gt;
 </content>
         <updated>2025-08-06T01:10:06.868Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/diary/3%E6%9C%8820%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
-        <title>3月20日日记</title>
-        <link rel="alternate" href="https://tartar0us.github.io/diary/3%E6%9C%8820%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
-        <content type="html">&lt;p&gt;今天依旧让人厌烦的早操，吃完饭七点十五睡九点半去上体育课，没手感发了两个球都出界了。&lt;/p&gt;
-&lt;p&gt;晚上不知道哪里来的胆子，分期 12 期买了个 matepad 11.5s 灵动版。算上笔 2600 了，每个月还 242。可能我真的很想要吧。拿到了肯定会很开心吧，或许会用来记笔记吧，或许会玩吧。不重要了。可能多年之后我已经有能买最顶配 ipad（2w 左右）的能力了，但那个时候可能我也不想要了。我发誓这是我第一次超前消费，也将是最后一次超前消费。希望自己能够真正利用起来，虽然好像这件事做得不太对，爸妈知道了肯定会生气。但是我觉得自己不后悔了。我真的很想要一个平板。当然，也有可能我说这些就是自我安慰，或许实际上我是一个没有主见的，被消费主义裹挟的唐笔大学生。无所谓了哈哈哈哈哈，我会很开心的，期待收货&lt;br /&gt;
- ————————————————&lt;br /&gt;
- 版权声明：本文为 CSDN 博主「Kamui_0us」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。&lt;br /&gt;
-原文链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0LzIzMDFfNzYzNjQ0NzAvYXJ0aWNsZS9kZXRhaWxzLzE0NjQwNTIwMA==&#34;&gt;https://blog.csdn.net/2301_76364470/article/details/146405200&lt;/span&gt;&lt;/p&gt;
-</content>
-        <updated>2025-08-06T01:09:36.526Z</updated>
     </entry>
 </feed>
