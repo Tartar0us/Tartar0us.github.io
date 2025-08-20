@@ -8,8 +8,73 @@
     <author>
       <name>Tartar0us</name>
     </author>
-    <updated>2025-08-17T16:00:00.000Z</updated>
+    <updated>2025-08-19T06:34:49.822Z</updated>
     <category term="1111111111111111111111" />
+    <entry>
+        <id>https://tartar0us.github.io/tech/%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%91%BD%E5%90%8D%E5%92%8C%E5%82%A8%E5%AD%98%E6%95%B0%E6%8D%AE/</id>
+        <title></title>
+        <link rel="alternate" href="https://tartar0us.github.io/tech/%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%91%BD%E5%90%8D%E5%92%8C%E5%82%A8%E5%AD%98%E6%95%B0%E6%8D%AE/"/>
+        <content type="html"></content>
+        <updated>2025-08-19T06:34:49.822Z</updated>
+    </entry>
+    <entry>
+        <id>https://tartar0us.github.io/tech/%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E6%B8%85%E7%90%86%E6%96%87%E4%BB%B6/</id>
+        <title></title>
+        <link rel="alternate" href="https://tartar0us.github.io/tech/%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E6%B8%85%E7%90%86%E6%96%87%E4%BB%B6/"/>
+        <content type="html">&lt;h3 id=&#34;桌面不要放到别的盘&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#桌面不要放到别的盘&#34;&gt;#&lt;/a&gt; 桌面不要放到别的盘&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;网上有教程教人把桌面放到别的盘里，因为电脑默认把桌面放在c盘，但是在使用过程中，为了方便，我们桌面上的东西会越来越多，c盘因此爆满。
+思路是清理c盘，思路是对的，但是做法完全不可取。因为如果你将桌面转移到别的盘里，很可能未来使用某些软件的时候找不到PATH，我的另一个电脑就是这样半报废的。很多软件用不了，或者说配置环境的时候非常麻烦。所以还是老老实实的把桌面放在C盘。或者你有时间折腾一些软件的配置。&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <updated>2025-08-19T06:34:49.822Z</updated>
+    </entry>
+    <entry>
+        <id>https://tartar0us.github.io/AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91/AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91/</id>
+        <title>8月19日日记</title>
+        <link rel="alternate" href="https://tartar0us.github.io/AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91/AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91/"/>
+        <content type="html">&lt;h2 id=&#34;分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分类&#34;&gt;#&lt;/a&gt; 分类&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI 生成视频分为图生视频和文生视频&lt;/li&gt;
+&lt;li&gt;现阶段，图生视频的质量比文生视频更高&lt;/li&gt;
+&lt;li&gt;可以把视频分成几个关键帧，把关键帧的脚本给豆包，让豆包生成视频
+&lt;ul&gt;
+&lt;li&gt;但是图生视频的问题是需要保持关键帧中角色的一致性，有一定的难度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;可控性：提示词和模型  提示词要足够清晰，准确，结构类似 运镜 + 场景 + 镜头 + 额外细节，例如：fpv 镜头，跟踪拍摄，一颗透明玻璃球，快速穿过丛林&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="AI" scheme="https://tartar0us.github.io/tags/AI/" />
+        <updated>2025-08-18T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://tartar0us.github.io/diary/8%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
+        <title>8月29日日记</title>
+        <link rel="alternate" href="https://tartar0us.github.io/diary/8%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
+        <content type="html">&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;太阳照常升起，吃早饭去上班&lt;/li&gt;
+&lt;li&gt;最近酒店不知道为什么有一大堆人。只能中午也点外卖回来吃了。&lt;/li&gt;
+&lt;li&gt;别的没什么特别的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;国赛校赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国赛校赛&#34;&gt;#&lt;/a&gt; 国赛校赛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;打的太水了。感觉自己没干什么东西。当然柳哥应该也不是特别懂，后面也开始水了，现在最困难的应该就是论文姐，因为我们基本上没搞出来啥东西相当于&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#游戏&#34;&gt;#&lt;/a&gt; 游戏&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;两把王者一把吃鸡&lt;/li&gt;
+&lt;li&gt;火影钓鱼活动，日常。&lt;/li&gt;
+&lt;li&gt;感觉有好多没做的事，应该把除了火影之外的东西都卸载了。要不没啥时间了。精力真的是有限的，&lt;/li&gt;
+&lt;li&gt;刚刚卸载了吃鸡和王者，steam 卸载了玩家国度，因为感觉用不太到。&lt;/li&gt;
+&lt;li&gt;u 盘里的赛博朋克和 gta5 没卸载，因为感觉也不是很占空间。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
+        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+        <updated>2025-08-18T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://tartar0us.github.io/tech/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%9B%BD%E8%B5%9B%E6%A0%A1%E8%B5%9B25-8-18/</id>
         <title>国赛校赛 车辆掉头</title>
@@ -30,6 +95,14 @@
 &lt;li&gt;安全性收益改为用时间计算，更加严谨&lt;/li&gt;
 &lt;li&gt;模糊化的&lt;/li&gt;
 &lt;li&gt;存在的小问题：题目没给数据，所以模型没法根据不同的驾驶风格进行各自的博弈，只能固定 α 等三个参数&lt;/li&gt;
+&lt;li&gt;综合考虑所有障碍物，进行一次博弈&lt;/li&gt;
+&lt;li&gt;删除风险收益&lt;/li&gt;
+&lt;li&gt;看看什么是平顺性收益&lt;/li&gt;
+&lt;li&gt;还有总收益&lt;/li&gt;
+&lt;li&gt;双方收益也是论文中有公式&lt;/li&gt;
+&lt;li&gt;层次分析获得三个希腊字母&lt;/li&gt;
+&lt;li&gt;删除后面的几个公式&lt;/li&gt;
+&lt;li&gt;不确定性让它不保守一些，速度快一些&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第二题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二题&#34;&gt;#&lt;/a&gt; 第二题&lt;/h2&gt;
 &lt;ul&gt;
@@ -43,9 +116,24 @@
 &lt;li&gt;去模糊化&lt;/li&gt;
 &lt;li&gt;粒子群&lt;/li&gt;
 &lt;li&gt;适应度函数&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;倒车路径炸了&lt;/li&gt;
+&lt;li&gt;横向加速度最小化，不要大于某个值&lt;/li&gt;
+&lt;li&gt;距离限制&lt;/li&gt;
+&lt;li&gt;几何约束不用管&lt;/li&gt;
+&lt;li&gt;曲线和多项式要弄出来&lt;br /&gt;
+第三天晚上的问题&lt;/li&gt;
+&lt;li&gt;第四十三行，倒车速度&lt;/li&gt;
+&lt;li&gt;横向加速度 1.5&lt;/li&gt;
+&lt;li&gt;图像中横向加速度更改一下 更加平缓&lt;/li&gt;
+&lt;li&gt;论文里的规划路径&lt;/li&gt;
+&lt;li&gt;主要是 A1234 四个点&lt;/li&gt;
+&lt;li&gt;适应度函数，根据赛题里的要求第二问第二小问&lt;/li&gt;
+&lt;li&gt;输出一下曲线&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第三题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三题&#34;&gt;#&lt;/a&gt; 第三题&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;借鉴任务一的判断&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="数学建模" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/" />
         <updated>2025-08-17T16:00:00.000Z</updated>
@@ -608,286 +696,5 @@ ORDER BY continent&lt;/p&gt;
         <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <updated>2025-08-07T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/diary/8%E6%9C%887%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
-        <title></title>
-        <link rel="alternate" href="https://tartar0us.github.io/diary/8%E6%9C%887%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
-        <content type="html"></content>
-        <updated>2025-08-07T14:39:45.575Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/tech/8%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/</id>
-        <title></title>
-        <link rel="alternate" href="https://tartar0us.github.io/tech/8%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/"/>
-        <content type="html">&lt;p&gt;从 8 月 12 日到 9 月 1 日共 20 天，时间紧张但可通过「聚焦核心、强关联学习、高频实践」高效推进。核心原则：&lt;strong&gt;工具（Python/SQL）优先落地，数学服务应用，机器学习依附工具入门&lt;/strong&gt;，避免孤立学习，用「任务串联」提升效率。&lt;br /&gt;
-以下是分阶段规划：&lt;/p&gt;
-&lt;h3 id=&#34;第一阶段基础工具攻坚8月12日-8月21日共10天-目标掌握python数据分析核心库-sql基础查询同步渗透数学基础概念为后续应用铺垫&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一阶段基础工具攻坚8月12日-8月21日共10天-目标掌握python数据分析核心库-sql基础查询同步渗透数学基础概念为后续应用铺垫&#34;&gt;#&lt;/a&gt; &lt;strong&gt;第一阶段：基础工具攻坚（8 月 12 日 - 8 月 21 日，共 10 天）&lt;/strong&gt; &lt;strong&gt;目标&lt;/strong&gt;：掌握 Python 数据分析核心库、SQL 基础查询，同步渗透数学基础概念（为后续应用铺垫）。&lt;/h3&gt;
-&lt;h4 id=&#34;每日时间分配6-7小时&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#每日时间分配6-7小时&#34;&gt;#&lt;/a&gt; 每日时间分配（6-7 小时）：&lt;/h4&gt;
-&lt;h5 id=&#34;python25小时语法库实操聚焦能用起来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python25小时语法库实操聚焦能用起来&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Python（2.5 小时）&lt;/strong&gt;：语法→库实操，聚焦「能用起来」&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;第 1-2 天：补 Python 基础语法（变量 / 循环 / 函数 / 列表字典），用《Python 编程：从入门到实践》前 5 章或 B 站「黑马 Python 基础」快速过，重点练「列表推导式、函数参数」（数据分析高频用）。&lt;/li&gt;
-&lt;li&gt;第 3-7 天：核心库实操（每天一个库 + 案例）
-&lt;ul&gt;
-&lt;li&gt;NumPy：数组创建、索引、广播（用「计算学生成绩平均分 / 标准差」案例练）；&lt;/li&gt;
-&lt;li&gt;Pandas：Series/DataFrame 创建、缺失值处理（dropna/fillna）、分组聚合（groupby）、合并表（merge）（用「电商订单数据清洗 + 统计销量 TOP3 商品」案例练）；&lt;/li&gt;
-&lt;li&gt;Matplotlib/Seaborn：折线图 / 柱状图 / 热力图（用「绘制月度销售额趋势 + 用户年龄分布」案例练）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;第 8-10 天：综合案例（每天 1 个）：
-&lt;ul&gt;
-&lt;li&gt;用 Pandas 处理「泰坦尼克号数据」（清洗 + 生存概率分析）；&lt;/li&gt;
-&lt;li&gt;爬取简单数据（如豆瓣 TOP250 电影）+ 可视化（用 requests+BeautifulSoup，聚焦数据处理而非反爬）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;sql15小时聚焦查询逻辑跳过复杂函数&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sql15小时聚焦查询逻辑跳过复杂函数&#34;&gt;#&lt;/a&gt; &lt;strong&gt;SQL（1.5 小时）&lt;/strong&gt;：聚焦「查询逻辑」，跳过复杂函数&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;第 1-3 天：基础语法（SELECT/FROM/WHERE/GROUP BY/ORDER BY），用「SQLZoo」或「LeetCode 数据库入门题（1-20 题）」练，比如「查询年龄 &amp;gt; 30 的用户信息」「统计每个部门的平均工资」。&lt;/li&gt;
-&lt;li&gt;第 4-7 天：进阶查询（JOIN 多表关联、子查询），用「学生 - 课程 - 成绩」三表练：「查询每门课的平均分及最高分学生姓名」。&lt;/li&gt;
-&lt;li&gt;第 8-10 天：结合 Python（用 pandas.read_sql_query），实现「SQL 取数→Python 清洗可视化」闭环（比如从模拟的 MySQL 表中取销售数据，用 Python 画折线图）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;数学基础15小时只学数据分析机器学习必用部分跳过纯推导&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数学基础15小时只学数据分析机器学习必用部分跳过纯推导&#34;&gt;#&lt;/a&gt; &lt;strong&gt;数学基础（1.5 小时）&lt;/strong&gt;：只学「数据分析 / 机器学习必用」部分，跳过纯推导&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;微积分（第 1-5 天）：&lt;/li&gt;
-&lt;li&gt;重点：导数（函数斜率，理解「变化率」，如用户增长速率）、偏导数（多变量函数的变化率，如价格和广告对销量的影响）、梯度（优化算法的基础，知道「梯度下降是找最小值」即可）。&lt;/li&gt;
-&lt;li&gt;资源：3Blue1Brown《微积分的本质》（前 6 集）+ 动手算：用 Python 的 sympy 库求简单函数导数（如 f (x)=x²+2x 的导数）。&lt;/li&gt;
-&lt;li&gt;线性代数（第 6-10 天）：&lt;/li&gt;
-&lt;li&gt;重点：向量（数据的表示，如一个用户的特征向量）、矩阵（数据表的数学形式）、矩阵乘法（特征组合）、特征值 / 特征向量（PCA 降维的核心，知道「保留主要特征」即可）。&lt;/li&gt;
-&lt;li&gt;资源：3Blue1Brown《线性代数的本质》（前 5 集）+ 用 NumPy 实操矩阵运算（如两个矩阵相乘、求特征值）。 - &lt;strong&gt;计算机辅修基础（0.5 小时）&lt;/strong&gt;：抓最核心的「数据结构入门」 - 每天 1 个概念：数组 / 链表（数据存储形式）、哈希表（字典的原理）、二叉树（了解即可），看《算法图解》前 3 章，用 Python 简单实现（如用列表模拟数组，用字典模拟哈希表）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;第二阶段应用联动机器学习入门8月22日-8月31日共10天-目标用工具落地场景让数学服务实践机器学习聚焦流程和直观理解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二阶段应用联动机器学习入门8月22日-8月31日共10天-目标用工具落地场景让数学服务实践机器学习聚焦流程和直观理解&#34;&gt;#&lt;/a&gt; &lt;strong&gt;第二阶段：应用联动 + 机器学习入门（8 月 22 日 - 8 月 31 日，共 10 天）&lt;/strong&gt; &lt;strong&gt;目标&lt;/strong&gt;：用工具落地场景，让数学服务实践，机器学习聚焦「流程和直观理解」。&lt;/h3&gt;
-&lt;h4 id=&#34;每日时间分配6-7小时-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#每日时间分配6-7小时-2&#34;&gt;#&lt;/a&gt; 每日时间分配（6-7 小时）：&lt;/h4&gt;
-&lt;h5 id=&#34;pythonsql综合实践2小时用真实场景数据练闭环&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pythonsql综合实践2小时用真实场景数据练闭环&#34;&gt;#&lt;/a&gt; &lt;strong&gt;Python+SQL 综合实践（2 小时）&lt;/strong&gt;：用「真实场景数据」练闭环&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;第 1-3 天：处理「Kaggle 公开数据集」（如鸢尾花、房价数据）：
-&lt;ul&gt;
-&lt;li&gt;用 SQL 从数据库取数（模拟业务库）；&lt;/li&gt;
-&lt;li&gt;用 Pandas 清洗（缺失值 / 异常值）、特征工程（计算新特征，如「房价 / 面积 = 单价」）； - 用 Seaborn 画相关性热力图（看哪些特征影响房价）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;第 4-5 天：写一个小工具（如「自动化生成周报」）：
-&lt;ul&gt;
-&lt;li&gt;用 SQL 拉取上周数据，Pandas 计算关键指标（环比增长率），Matplotlib 生成图表，最后导出为 Excel/PDF。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;数学机器学习联动2小时用数学理解模型用python跑模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数学机器学习联动2小时用数学理解模型用python跑模型&#34;&gt;#&lt;/a&gt; &lt;strong&gt;数学 + 机器学习联动（2 小时）&lt;/strong&gt;：用数学理解模型，用 Python 跑模型&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;第 1-3 天：线性回归（机器学习入门首选，强关联线性代数）
-&lt;ul&gt;
-&lt;li&gt;原理：用线性代数理解「y=wx+b」是向量乘法；用微积分理解「损失函数（平方误差）的梯度下降优化」。&lt;/li&gt;
-&lt;li&gt;实操：用 sklearn 库跑房价预测模型（从 Kaggle 下数据），输出 w（系数）和 b（截距），解释「哪个特征对房价影响最大」（如面积系数 0.8＞房间数系数 0.3）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;第 4-6 天：逻辑回归（分类问题，关联概率和导数）
-&lt;ul&gt;
-&lt;li&gt;原理：知道「用 Sigmoid 函数把输出映射到 0-1（概率）」，损失函数用交叉熵（不用推导，知道是衡量预测和真实的差距）。&lt;/li&gt;
-&lt;li&gt;实操：用泰坦尼克号数据预测「是否生存」，看准确率，画混淆矩阵。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;第 7-10 天：简单了解其他模型（决策树、K-Means），知道「决策树是用规则分类」「K-Means 是聚类（无监督）」，用 sklearn 跑一遍，看结果即可（不深入调参）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;计算机辅修深化1小时结合数据分析场景学算法基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算机辅修深化1小时结合数据分析场景学算法基础&#34;&gt;#&lt;/a&gt; &lt;strong&gt;计算机辅修深化（1 小时）&lt;/strong&gt;：结合数据分析场景学「算法基础」&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;重点：时间复杂度（如为什么 Pandas 的向量化运算比 for 循环快，因为 O (n) vs O (n²)）、排序算法（了解快速排序原理，知道 Pandas 的 sort_values 用的是高效算法）。 - 资源：B 站「王树森算法入门」前 5 集，结合 Python 代码看（如自己写一个简单的冒泡排序，对比 Pandas 的排序速度）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;复盘与补缺1小时每天结束前做-整理当天代码到github建一个数据分析实习准备仓库分pythonsql机器学习文件夹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#复盘与补缺1小时每天结束前做-整理当天代码到github建一个数据分析实习准备仓库分pythonsql机器学习文件夹&#34;&gt;#&lt;/a&gt; &lt;strong&gt;复盘与补缺（1 小时）&lt;/strong&gt;：每天结束前做 - 整理当天代码到 GitHub（建一个「数据分析实习准备」仓库，分 Python/SQL/ 机器学习文件夹）；&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;用 Notion 记「踩坑笔记」（如 Pandas 的 merge 容易重复列、SQL 的 JOIN 条件写错会导致数据膨胀）；&lt;/li&gt;
-&lt;li&gt;每周日花 2 小时：用思维导图梳理关联（如「线性回归→矩阵乘法→NumPy 实现→房价预测案例」）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;关键提醒避免3个误区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关键提醒避免3个误区&#34;&gt;#&lt;/a&gt; &lt;strong&gt;关键提醒：避免 3 个误区&lt;/strong&gt;&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;不追求「学完」，只追求「能用」&lt;/strong&gt;：比如 Python 不用学类 / 装饰器，SQL 不用学存储过程，数学不用推导公式，知道「是什么、怎么用」即可。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;用「输出倒逼输入」&lt;/strong&gt;：每学一个工具 / 模型，必须动手写代码 + 生成一个「可展示的结果」（如图表、报告、GitHub 代码），这些能直接放进实习作品集。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;灵活调整节奏&lt;/strong&gt;：如果某部分（如 SQL JOIN）卡壳，当天多花 30 分钟补，从后面的「了解性内容」（如决策树）里匀时间，优先保证核心工具（Python/Pandas/SQL 查询）落地。 按这个节奏，20 天后你能掌握：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Python 处理数据、可视化的完整流程； - SQL 解决 80% 的业务查询需求； - 理解数据分析中用到的数学概念（知道模型背后的直观逻辑）；&lt;/li&gt;
-&lt;li&gt;跑通 2-3 个机器学习基础模型，能讲清流程和结果意义。 这些足够支撑数据分析实习的基础要求，且成果（代码、报告）可直接放进简历和 GitHub，比「学了但没产出」更有说服力。&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2025-08-07T07:40:34.278Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
-        <title>8月6日日记</title>
-        <link rel="alternate" href="https://tartar0us.github.io/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
-        <content type="html">&lt;h2 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;鸢尾花代码写完，发现有好多错误，改完之后运行依旧不行。准确率只有 30%&lt;/li&gt;
-&lt;li&gt;最后开了个新 python 文件，不让 python 画图了，用 svm 和逻辑回归模拟了一下，svm 达到了 10）% 准确率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;一点睡的觉，还不是很晚&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <category term="生活" scheme="https://tartar0us.github.io/categories/%E7%94%9F%E6%B4%BB/" />
-        <category term="博客" scheme="https://tartar0us.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-        <updated>2025-08-06T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/tech/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/</id>
-        <title>波士顿房价预测</title>
-        <link rel="alternate" href="https://tartar0us.github.io/tech/Kaggle/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/"/>
-        <content type="html">&lt;h1 id=&#34;属于多变量回归类型问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#属于多变量回归类型问题&#34;&gt;#&lt;/a&gt; 属于多变量回归类型问题&lt;/h1&gt;
-&lt;h2 id=&#34;基础算法集成算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础算法集成算法&#34;&gt;#&lt;/a&gt; 基础算法 &amp;amp; 集成算法&lt;/h2&gt;
-&lt;p&gt;在机器学习中，基础算法（也称为 “单一模型”）和集成算法是两类重要的模型类型，它们的核心区别在于：&lt;strong&gt;基础算法是独立工作的单一模型，而集成算法是通过组合多个基础模型来提升性能&lt;/strong&gt;。以下是具体分类及常见算法：&lt;/p&gt;
-&lt;h3 id=&#34;一-基础算法单一模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-基础算法单一模型&#34;&gt;#&lt;/a&gt; &lt;strong&gt;一、基础算法（单一模型）&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;基础算法是机器学习的 “building blocks”，直接从数据中学习规律，适用于不同类型的任务（分类、回归、聚类等）。&lt;/p&gt;
-&lt;h4 id=&#34;1-线性模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-线性模型&#34;&gt;#&lt;/a&gt; 1. &lt;strong&gt;线性模型&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;线性回归&lt;/strong&gt;：用于回归任务，通过拟合线性方程（ &lt;code&gt;y = wx + b&lt;/code&gt; ）预测连续值。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;逻辑回归&lt;/strong&gt;：用于二分类任务，通过 Sigmoid 函数将线性输出映射到 [0,1] 区间，表示分类概率。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;线性判别分析（LDA）&lt;/strong&gt;：用于分类，通过寻找最优投影方向，使不同类别数据的分离度最大。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2-树模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-树模型&#34;&gt;#&lt;/a&gt; 2. &lt;strong&gt;树模型&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;决策树&lt;/strong&gt;：通过对特征进行一系列 “是 / 否” 的判断（如 “年龄 &amp;gt; 30？”），生成树状决策规则，可用于分类或回归。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ID3、C4.5、CART&lt;/strong&gt;：决策树的不同实现版本，主要区别在于特征选择标准（信息增益、信息增益比、基尼系数等）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3-基于距离的模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-基于距离的模型&#34;&gt;#&lt;/a&gt; 3. &lt;strong&gt;基于距离的模型&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;K 近邻（KNN）&lt;/strong&gt;：通过计算新样本与训练集中 “最近的 k 个样本” 的距离，用多数投票（分类）或平均值（回归）预测结果。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;K-means&lt;/strong&gt;：聚类算法，将数据分为 k 个簇，使簇内样本相似度高、簇间相似度低。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4-概率模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-概率模型&#34;&gt;#&lt;/a&gt; 4. &lt;strong&gt;概率模型&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;朴素贝叶斯&lt;/strong&gt;：基于贝叶斯定理和 “特征条件独立假设” 的分类算法，适用于文本分类等场景（如垃圾邮件识别）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高斯混合模型（GMM）&lt;/strong&gt;：聚类算法，假设数据由多个高斯分布混合生成，用于发现数据的潜在分布。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;5-核方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-核方法&#34;&gt;#&lt;/a&gt; 5. &lt;strong&gt;核方法&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;支持向量机（SVM）&lt;/strong&gt;：通过寻找 “最大间隔超平面” 进行分类，可通过核函数（如 RBF 核）处理非线性数据，也可扩展到回归任务（SVR）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;6-神经网络基础版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-神经网络基础版&#34;&gt;#&lt;/a&gt; 6. &lt;strong&gt;神经网络（基础版）&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;感知机&lt;/strong&gt;：最简单的神经网络，由单个神经元组成，用于二分类。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多层感知机（MLP）&lt;/strong&gt;：由输入层、隐藏层、输出层组成的浅层神经网络，可处理非线性问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;二-集成算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-集成算法&#34;&gt;#&lt;/a&gt; &lt;strong&gt;二、集成算法&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;集成算法通过&lt;strong&gt;组合多个基础模型的预测结果&lt;/strong&gt;（如投票、加权平均）来降低单一模型的偏差或方差，从而提升整体性能。核心思想是 “三个臭皮匠顶个诸葛亮”。&lt;/p&gt;
-&lt;h4 id=&#34;1-bagging并行集成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-bagging并行集成&#34;&gt;#&lt;/a&gt; 1. &lt;strong&gt;Bagging（并行集成）&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原理&lt;/strong&gt;：通过对训练集进行有放回抽样（Bootstrap），生成多个不同的子数据集，分别训练多个基础模型，最后取平均或投票。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;代表算法&lt;/strong&gt;：
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;随机森林（Random Forest）&lt;/strong&gt;：以决策树为基础模型，同时在特征选择上引入随机性（每次分裂只随机选部分特征），进一步降低过拟合风险。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2-boosting串行集成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-boosting串行集成&#34;&gt;#&lt;/a&gt; 2. &lt;strong&gt;Boosting（串行集成）&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原理&lt;/strong&gt;：多个基础模型 “串行” 训练，每个新模型专注于修正前一个模型的错误（对前序模型预测错误的样本赋予更高权重），最后加权融合所有模型。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;代表算法&lt;/strong&gt;：
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AdaBoost&lt;/strong&gt;：通过调整样本权重和模型权重，逐步提升弱分类器的性能。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;梯度提升树（GBDT）&lt;/strong&gt;：以决策树为基础模型，通过梯度下降法最小化预测误差，是工业界常用的强模型。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;XGBoost、LightGBM、CatBoost&lt;/strong&gt;：GBDT 的工程优化版本，加入正则化、并行计算等机制，训练更快、性能更强。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3-stacking堆叠集成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-stacking堆叠集成&#34;&gt;#&lt;/a&gt; 3. &lt;strong&gt;Stacking（堆叠集成）&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原理&lt;/strong&gt;：将多个基础模型的预测结果作为 “新特征”，输入到一个 “元模型”（如逻辑回归、线性回归）中，由元模型给出最终预测。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特点&lt;/strong&gt;：灵活性高，可组合不同类型的基础模型（如 SVM + 决策树 + 神经网络），但实现较复杂。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4-voting投票集成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-voting投票集成&#34;&gt;#&lt;/a&gt; 4. &lt;strong&gt;Voting（投票集成）&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原理&lt;/strong&gt;：直接对多个基础模型的预测结果进行投票（分类任务）或加权平均（回归任务）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;分类&lt;/strong&gt;：
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;硬投票&lt;/strong&gt;：选择得票最多的类别作为结果。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;软投票&lt;/strong&gt;：根据每个模型的预测概率加权求和，选择概率最高的类别。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; &lt;strong&gt;总结&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;基础算法&lt;/strong&gt;是集成算法的 “零件”，各有优缺点（如决策树易过拟合，线性模型难以处理非线性数据）。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;集成算法&lt;/strong&gt;通过组合基础算法，通常能获得更稳定、更优的性能，是竞赛和工业界的常用方案（如 XGBoost、随机森林）。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;什么时候用基础算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候用基础算法&#34;&gt;#&lt;/a&gt; 什么时候用基础算法？&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;数据量小&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;需要快速结果&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;要求模型可解释&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;计算资源有限&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;什么时候用集成算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候用集成算法&#34;&gt;#&lt;/a&gt; 什么时候用集成算法？&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;追求高精度&lt;/li&gt;
-&lt;li&gt;数据量充足&lt;/li&gt;
-&lt;li&gt;不在乎计算时间&lt;/li&gt;
-&lt;li&gt;可以接受 &amp;quot;黑盒&amp;quot; 模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;各个模型对此问题的解答&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#各个模型对此问题的解答&#34;&gt;#&lt;/a&gt; 各个模型对此问题的解答&lt;/h3&gt;
-&lt;p&gt;KNN 回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 9.74&lt;br /&gt;
- 均方根误差（RMSE）: 3.12&lt;br /&gt;
- 平均绝对误差（MAE）: 2.41&lt;br /&gt;
- 决定系数（R²）: 0.83&lt;/p&gt;
-&lt;h2 id=&#34;binary&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#binary&#34;&gt;#&lt;/a&gt; binary&lt;/h2&gt;
-&lt;p&gt;binary 表示二进制&lt;br /&gt;
- binary classification 表示二分法&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在 KNN 的学习过程中遇到了 KD 树算法&lt;br /&gt;
- kd 是一种数据结构，常被用于快速搜索任务&lt;br /&gt;
- KD 树通过&lt;strong&gt;递归地对空间进行二分划分&lt;/strong&gt;（类似二叉树），将数据点组织成树结构，从而将搜索范围逐步缩小（理想情况下时间复杂度可降至 O (log n)）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;线性回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 19.81&lt;br /&gt;
- 均方根误差（RMSE）: 4.45&lt;br /&gt;
- 平均绝对误差（MAE）: 3.23&lt;br /&gt;
- 决定系数（R²）: 0.65&lt;/p&gt;
-&lt;p&gt;支持向量回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 15.29&lt;br /&gt;
- 均方根误差（RMSE）: 3.91&lt;br /&gt;
- 平均绝对误差（MAE）: 2.47&lt;br /&gt;
- 决定系数（R²）: 0.73&lt;/p&gt;
-&lt;p&gt;决策树回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 20.29&lt;br /&gt;
- 均方根误差（RMSE）: 4.50&lt;br /&gt;
- 平均绝对误差（MAE）: 2.44&lt;br /&gt;
- 决定系数（R²）: 0.64&lt;/p&gt;
-&lt;p&gt;随机森林回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 7.64&lt;br /&gt;
- 均方根误差（RMSE）: 2.76&lt;br /&gt;
- 平均绝对误差（MAE）: 1.91&lt;br /&gt;
- 决定系数（R²）: 0.87&lt;/p&gt;
-&lt;p&gt;梯度提升回归 评估指标：&lt;br /&gt;
-均方误差（MSE）: 5.53&lt;br /&gt;
- 均方根误差（RMSE）: 2.35&lt;br /&gt;
- 平均绝对误差（MAE）: 1.85&lt;br /&gt;
- 决定系数（R²）: 0.90&lt;/p&gt;
-&lt;h3 id=&#34;图表的字体无法显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图表的字体无法显示&#34;&gt;#&lt;/a&gt; 图表的字体无法显示&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h1 id=&#34;设置中文显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置中文显示&#34;&gt;#&lt;/a&gt; 设置中文显示&lt;/h1&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;plt.rcParams[&amp;quot;font.family&amp;quot;] = [&amp;quot;SimHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, &amp;quot;Heiti TC&amp;quot;]&lt;br /&gt;
- plt.rcParams [&amp;quot;axes.unicode_minus&amp;quot;] = False  # 解决负号显示问题&lt;/p&gt;
-</content>
-        <category term="技术" scheme="https://tartar0us.github.io/categories/%E6%8A%80%E6%9C%AF/" />
-        <category term="数据分析" scheme="https://tartar0us.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
-        <category term="机器学习" scheme="https://tartar0us.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" />
-        <updated>2025-08-06T16:00:00.000Z</updated>
     </entry>
 </feed>
