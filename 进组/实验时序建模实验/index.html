@@ -1,0 +1,643 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+<link rel="alternate" type="application/rss+xml" title="Tartar0us's Blog" href="https://tartar0us.github.io/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="Tartar0us's Blog" href="https://tartar0us.github.io/atom.xml" />
+<link rel="alternate" type="application/json" title="Tartar0us's Blog" href="https://tartar0us.github.io/feed.json" />
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
+
+  
+  <meta name="keywords" content="实验,时序建模" />
+
+
+<link rel="canonical" href="https://tartar0us.github.io/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/">
+
+
+
+  <title>
+实验时序建模实验 - 进组 |
+Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
+<meta name="generator" content="Hexo 7.3.0"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">实验时序建模实验
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="Created: 2026-03-06 00:00:00">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">Posted on</span>
+    <time itemprop="dateCreated datePublished" datetime="2026-03-06T00:00:00+08:00">2026-03-06</time>
+  </span>
+  <span class="item" title="Symbols count in article">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">Symbols count in article</span>
+    <span>3928</span>
+    <span class="text">words</span>
+  </span>
+  <span class="item" title="Reading time">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">Reading time</span>
+    <span>4 mins.</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="Toggle navigation bar">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Tartar0us</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giclwrdwyaj20zk0m8are.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipexj2jgzj20zk0m8b09.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipesrnqv3j20zk0m8ava.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gicitspjpbj20zk0m81ky.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipew28b65j20zk0m8hdt.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giclg5ms2rj20zk0m8u0x.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">Home</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E8%BF%9B%E7%BB%84/" itemprop="item" rel="index" title="In 进组"><span itemprop="name">进组</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://tartar0us.github.io/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/avaaa.jpg">
+    <meta itemprop="name" content="Tartar0us">
+    <meta itemprop="description" content="高台藏鼠辈，乡野卧麒麟, 你所厌恶的今天，是昨日死去之人苦苦奢望的明天">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="Tartar0us's Blog">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <h1 id="一、你现在在跑的”最终版实验”是什么？"><a href="#一、你现在在跑的”最终版实验”是什么？" class="headerlink" title="一、你现在在跑的”最终版实验”是什么？"></a>一、你现在在跑的”最终版实验”是什么？</h1><p><strong>实验名（你以后论文里就这么叫）：</strong></p>
+<blockquote>
+<p>ResNet50 + Temporal Attention Pooling<br>(Backbone Frozen, Cross-Entropy Loss)</p>
+</blockquote>
+<p><strong>对照对象：</strong></p>
+<h2 id="在冻结-backbone-的条件下，引入轻量级时序注意力后，模型在-MARS-数据集上从随机水平稳定收敛，Cross-Entropy-loss-从-8-04-下降至-1-48，显著优于简单时序平均的-baseline。"><a href="#在冻结-backbone-的条件下，引入轻量级时序注意力后，模型在-MARS-数据集上从随机水平稳定收敛，Cross-Entropy-loss-从-8-04-下降至-1-48，显著优于简单时序平均的-baseline。" class="headerlink" title="在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。"></a>在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。</h2><h3 id="跑了20轮"><a href="#跑了20轮" class="headerlink" title="跑了20轮"></a>跑了20轮</h3><hr>
+<h2 id="meanpooling"><a href="#meanpooling" class="headerlink" title="meanpooling"></a>meanpooling</h2><p>![[Pasted image 20260122205651.png]]</p>
+<h2 id="时序注意力"><a href="#时序注意力" class="headerlink" title="时序注意力"></a>时序注意力</h2><p>![[Pasted image 20260122205727.png]]</p>
+<h2 id="loss函数变化如下"><a href="#loss函数变化如下" class="headerlink" title="loss函数变化如下"></a>loss函数变化如下</h2><p>PS C:\Users\HUASHUO\Desktop\实习_科研\时序建模&gt; &amp; D:&#x2F;Python&#x2F;python.exe c:&#x2F;Users&#x2F;HUASHUO&#x2F;Desktop&#x2F;实习_科研&#x2F;时序建模&#x2F;train_attention_frozen.py<br>&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; Start Training (Backbone Frozen) &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;<br>Epoch [1&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:36&lt;00:00,  4.36it&#x2F;s, loss&#x3D;8.6250]<br>Epoch [1&#x2F;20] Average Loss: 8.0385<br>Epoch [2&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:29&lt;00:00,  5.39it&#x2F;s, loss&#x3D;7.7270]<br>Epoch [2&#x2F;20] Average Loss: 6.5649<br>Epoch [3&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:36&lt;00:00,  4.35it&#x2F;s, loss&#x3D;7.4963]<br>Epoch [3&#x2F;20] Average Loss: 5.8414<br>Epoch [4&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:39&lt;00:00,  3.97it&#x2F;s, loss&#x3D;6.5035]<br>Epoch [4&#x2F;20] Average Loss: 5.1334<br>Epoch [5&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:26&lt;00:00,  5.98it&#x2F;s, loss&#x3D;7.3543]<br>Epoch [5&#x2F;20] Average Loss: 4.5142<br>Epoch [6&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:18&lt;00:00,  8.57it&#x2F;s, loss&#x3D;6.2687]<br>Epoch [6&#x2F;20] Average Loss: 4.2014<br>Epoch [7&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:19&lt;00:00,  8.14it&#x2F;s, loss&#x3D;5.8768]<br>Epoch [7&#x2F;20] Average Loss: 3.8086<br>Epoch [8&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:16&lt;00:00,  9.67it&#x2F;s, loss&#x3D;5.0060]<br>Epoch [8&#x2F;20] Average Loss: 3.5035<br>Epoch [9&#x2F;20]: 100%|██████████████████████████████████| 157&#x2F;157 [00:17&lt;00:00,  9.06it&#x2F;s, loss&#x3D;7.2790]<br>Epoch [9&#x2F;20] Average Loss: 3.2064<br>Epoch [10&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:19&lt;00:00,  8.07it&#x2F;s, loss&#x3D;7.0057]<br>Epoch [10&#x2F;20] Average Loss: 2.9417<br>Epoch [11&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:24&lt;00:00,  6.44it&#x2F;s, loss&#x3D;6.4427]<br>Epoch [11&#x2F;20] Average Loss: 2.7127<br>Epoch [12&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:26&lt;00:00,  5.96it&#x2F;s, loss&#x3D;6.1261]<br>Epoch [12&#x2F;20] Average Loss: 2.4385<br>Epoch [13&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:22&lt;00:00,  7.03it&#x2F;s, loss&#x3D;4.0942]<br>Epoch [13&#x2F;20] Average Loss: 2.2597<br>Epoch [14&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:38&lt;00:00,  4.10it&#x2F;s, loss&#x3D;4.9109]<br>Epoch [14&#x2F;20] Average Loss: 2.1240<br>Epoch [15&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:23&lt;00:00,  6.79it&#x2F;s, loss&#x3D;6.6973]<br>Epoch [15&#x2F;20] Average Loss: 2.0258<br>Epoch [16&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:20&lt;00:00,  7.66it&#x2F;s, loss&#x3D;4.1258]<br>Epoch [16&#x2F;20] Average Loss: 1.7999<br>Epoch [17&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:18&lt;00:00,  8.64it&#x2F;s, loss&#x3D;5.2614]<br>Epoch [17&#x2F;20] Average Loss: 1.7342<br>Epoch [18&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:16&lt;00:00,  9.24it&#x2F;s, loss&#x3D;6.4694]<br>Epoch [18&#x2F;20] Average Loss: 1.6658<br>Epoch [19&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:17&lt;00:00,  8.93it&#x2F;s, loss&#x3D;3.1201]<br>Epoch [19&#x2F;20] Average Loss: 1.5710<br>Epoch [20&#x2F;20]: 100%|█████████████████████████████████| 157&#x2F;157 [00:16&lt;00:00,  9.35it&#x2F;s, loss&#x3D;4.8086]<br>Epoch [20&#x2F;20] Average Loss: 1.4774<br>&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; Training Finished &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
+<h2 id="对比"><a href="#对比" class="headerlink" title="对比"></a>对比</h2><table>
+<thead>
+<tr>
+<th>方法</th>
+<th>Backbone</th>
+<th>时序建模</th>
+<th>Epoch</th>
+<th>Final CE Loss</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Mean Pooling</td>
+<td>ResNet50</td>
+<td>Average</td>
+<td>5</td>
+<td>~6.40</td>
+</tr>
+<tr>
+<td>Temporal Attention</td>
+<td>ResNet50 (Frozen)</td>
+<td>Attention</td>
+<td>20</td>
+<td><strong>1.48</strong></td>
+</tr>
+<tr>
+<td>&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; Evaluation Results &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rank-1 : 15.41%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rank-5 : 25.16%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rank-10 : 29.25%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>mAP : 20.37%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PS C:\Users\HUASHUO\Desktop\实习_科研\时序建模&gt;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+
+      <div class="tags">
+          <a href="/tags/%E5%AE%9E%E9%AA%8C/" rel="tag"><i class="ic i-tag"></i> 实验</a>
+          <a href="/tags/%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1/" rel="tag"><i class="ic i-tag"></i> 时序建模</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">Edited on</span>
+    <time title="Modified: 2026-03-07 00:15:30" itemprop="dateModified" datetime="2026-03-07T00:15:30+08:00">2026-03-07</time>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> Donate</button>
+  <p>Give me a cup of [coffee]~(锟ｂ柦锟?~*</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay.png" alt="Tartar0us WeChat Pay">
+        <p>WeChat Pay</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay.png" alt="Tartar0us Alipay">
+        <p>Alipay</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/paypal.png" alt="Tartar0us PayPal">
+        <p>PayPal</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>Post author:  </strong>Tartar0us <i class="ic i-at"><em>@</em></i>Tartar0us's Blog
+  </li>
+  <li class="link">
+    <strong>Post link: </strong>
+    <a href="https://tartar0us.github.io/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/" title="实验时序建模实验">https://tartar0us.github.io/进组/实验时序建模实验/</a>
+  </li>
+  <li class="license">
+    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> unless stating additionally.
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/diary/2026%E5%B9%B43%E6%9C%885%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipetfk5zwj20zk0m8e81.jpg" title="2026年3月5日日记">
+  <span class="type">Previous Post</span>
+  <span class="category"><i class="ic i-flag"></i> </span>
+  <h3>2026年3月5日日记</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+      
+
+  <a href="/diary/2026%E5%B9%B43%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipet8c1a2j20zk0m8kct.jpg" title="2026年3月6日日记">
+  <span class="type">Next Post</span>
+  <span class="category"><i class="ic i-flag"></i> </span>
+  <h3>2026年3月6日日记</h3>
+  </a>
+
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="Contents">
+          <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E4%B8%80%E3%80%81%E4%BD%A0%E7%8E%B0%E5%9C%A8%E5%9C%A8%E8%B7%91%E7%9A%84%E2%80%9D%E6%9C%80%E7%BB%88%E7%89%88%E5%AE%9E%E9%AA%8C%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="toc-number">1.</span> <span class="toc-text">一、你现在在跑的”最终版实验”是什么？</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9C%A8%E5%86%BB%E7%BB%93-backbone-%E7%9A%84%E6%9D%A1%E4%BB%B6%E4%B8%8B%EF%BC%8C%E5%BC%95%E5%85%A5%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%90%8E%EF%BC%8C%E6%A8%A1%E5%9E%8B%E5%9C%A8-MARS-%E6%95%B0%E6%8D%AE%E9%9B%86%E4%B8%8A%E4%BB%8E%E9%9A%8F%E6%9C%BA%E6%B0%B4%E5%B9%B3%E7%A8%B3%E5%AE%9A%E6%94%B6%E6%95%9B%EF%BC%8CCross-Entropy-loss-%E4%BB%8E-8-04-%E4%B8%8B%E9%99%8D%E8%87%B3-1-48%EF%BC%8C%E6%98%BE%E8%91%97%E4%BC%98%E4%BA%8E%E7%AE%80%E5%8D%95%E6%97%B6%E5%BA%8F%E5%B9%B3%E5%9D%87%E7%9A%84-baseline%E3%80%82"><span class="toc-number">1.1.</span> <span class="toc-text">在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%B7%91%E4%BA%8620%E8%BD%AE"><span class="toc-number">1.1.1.</span> <span class="toc-text">跑了20轮</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#meanpooling"><span class="toc-number">1.2.</span> <span class="toc-text">meanpooling</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B"><span class="toc-number">1.3.</span> <span class="toc-text">时序注意力</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#loss%E5%87%BD%E6%95%B0%E5%8F%98%E5%8C%96%E5%A6%82%E4%B8%8B"><span class="toc-number">1.4.</span> <span class="toc-text">loss函数变化如下</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AF%B9%E6%AF%94"><span class="toc-number">1.5.</span> <span class="toc-text">对比</span></a></li></ol></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="Related">
+        <ul>
+          <li class="active"><a href="/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/" rel="bookmark" title="实验时序建模实验">实验时序建模实验</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="Overview">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="Tartar0us"
+      data-src="/images/avaaa.jpg">
+  <p class="name" itemprop="name">Tartar0us</p>
+  <div class="description" itemprop="description">你所厌恶的今天，是昨日死去之人苦苦奢望的明天</div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">251</span>
+        <span class="name">posts</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">7</span>
+        <span class="name">categories</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">30</span>
+        <span class="name">tags</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL1RhcnRhcjB1cw==" title="https:&#x2F;&#x2F;github.com&#x2F;Tartar0us"><i class="ic i-github"></i></span>
+      <span class="exturl item bilibili" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vNDc0MTA1NjMz" title="https:&#x2F;&#x2F;space.bilibili.com&#x2F;474105633"><i class="ic i-play-circle"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>Home</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>Archives</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>Categories</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>Tags</a>
+  </li>
+
+  </ul>
+    
+  <li class="item">
+    <a href="/stats/" rel="section"><i class="ic i-bar-chart"></i>stats</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/friends/" rel="section"><i class="ic i-heart"></i>friends</a>
+  </li>
+
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+        <a href="/diary/2026%E5%B9%B43%E6%9C%885%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="prev" title="Previous Post"><i class="ic i-chevron-left"></i></a>
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+        <a href="/diary/2026%E5%B9%B43%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="next" title="Next Post"><i class="ic i-chevron-right"></i></a>
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+<div class="rpost pjax">
+  <h2>Random Posts</h2>
+  <ul>
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/life/2025%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/" title="2025年度总结">2025年度总结</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
+</div>
+
+    <span><a href="/diary/8%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/" title="8月6日日记">8月6日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
+</div>
+
+    <span><a href="/diary/8%E6%9C%888%E6%97%A5%E6%97%A5%E8%AE%B0/" title="8月8日日记">8月8日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/diary/10%E6%9C%882%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/diary/2026%E5%B9%B44%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/" title="2026年4月13日日记">2026年4月13日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
+</div>
+
+    <span><a href="/diary/9%E6%9C%883%E6%97%A5%E6%97%A5%E8%AE%B0/" title="9月3日日记">9月3日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/diary/2026%E5%B9%B43%E6%9C%8823%E6%97%A5%E6%97%A5%E8%AE%B0/" title="2026年3月23日日记">2026年3月23日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/diary/2026%E5%B9%B44%E6%9C%8820%E6%97%A5%E6%97%A5%E8%AE%B0/" title="2026年4月20日日记">2026年4月20日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%92%8CchatBI%E6%9E%84%E5%BB%BA/" title="Untitled">Untitled</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E6%8A%80%E6%9C%AF/" title="In 技术">技术</a>
+</div>
+
+    <span><a href="/tech/%E5%AE%9E%E4%B9%A0/%E6%B2%B3%E5%8C%97%E9%9D%9E%E5%87%A1%E7%89%A9%E8%81%94%E7%BD%91/%E5%AE%9E%E4%B9%A0%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E5%BC%95%E5%87%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/" title="轴承故障的振动分析学习总结">轴承故障的振动分析学习总结</a></span>
+  </li>
+
+  </ul>
+</div>
+<div>
+  <h2>Recent Comments</h2>
+  <ul class="leancloud-recent-comment"></ul>
+</div>
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 2023 – 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Tartar0us @ Tartar0us</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="Symbols count total">178410 words</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="Reading time total">2:42</span>
+  </div>
+  <div class="busuanzi">
+    <span class="post-meta-item-icon">
+      <i class="ic i-users"></i>
+    </span>
+    <span id="busuanzi_container_site_uv" title="总访客数">
+      <span id="busuanzi_value_site_uv">0</span> 人访问
+    </span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-eye"></i>
+    </span>
+    <span id="busuanzi_container_site_pv" title="总访问量">
+      <span id="busuanzi_value_site_pv">0</span> 次浏览
+    </span>
+  </div>
+  <div class="powered-by">
+    Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: '进组/实验时序建模实验/',
+    favicon: {
+      show: "锛堚棌麓3锝€鈼忥級Goooood",
+      hide: "(麓袛锝€)Booooom"
+    },
+    search : {
+      placeholder: "Search for Posts",
+      empty: "We didn't find any results for the search: ${query}",
+      stats: "${hits} results found in ${time} ms"
+    },
+    valine: true,fancybox: true,
+    copyright: 'Copied to clipboard successfully! <br> All articles in this blog are licensed under <i class="ic i-creative-commons"></i>BY-NC-SA.',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
+  };
+</script>
+
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+
+
+</body>
+</html>
