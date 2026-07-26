@@ -88,12 +88,12 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giph4fomxoj20zk0m8axp.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclfb3vzhj20zk0m8wny.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipexbei4hj20zk0m8npd.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclwrdwyaj20zk0m8are.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclxxcb6rj20zk0m8b29.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipeubcbajj20zk0m8h1h.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gicmnywqgpj20zk0m8dwx.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclize41wj20zk0m87gk.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gipesng5oej20zk0m87d4.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclx6phq6j20zk0m8e36.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giph4wqtg4j20zk0m8x6p.jpg"></li>
         </ul>
       </div>
     </header>
@@ -132,430 +132,385 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     
 
     <style>
-/* 现代化统计页面样式 */
-.stats-hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  padding: 60px 20px;
-  border-radius: 20px;
-  margin: 30px 0;
-  color: white;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+.analytics-dashboard {
+  --panel: #ffffff;
+  --ink: #1e293b;
+  --muted: #64748b;
+  --line: #d8e0ea;
+  --accent: #2563eb;
+  --accent-2: #0f766e;
+  --soft: #eef5ff;
+  color: var(--ink);
 }
 
-.stats-hero::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="white" opacity="0.1"/><circle cx="75" cy="75" r="1" fill="white" opacity="0.1"/><circle cx="50" cy="10" r="0.5" fill="white" opacity="0.1"/><circle cx="10" cy="60" r="0.5" fill="white" opacity="0.1"/><circle cx="90" cy="40" r="0.5" fill="white" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
-  pointer-events: none;
+.analytics-dashboard * {
+  box-sizing: border-box;
 }
 
-.stats-title {
-  font-size: 2.5em;
-  font-weight: 700;
-  margin-bottom: 15px;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  position: relative;
-  z-index: 1;
+.analytics-hero {
+  padding: 28px 0 18px;
+  border-bottom: 1px solid var(--line);
 }
 
-.stats-subtitle {
-  font-size: 1.1em;
-  opacity: 0.9;
-  margin-bottom: 40px;
-  position: relative;
-  z-index: 1;
+.analytics-title {
+  margin: 0 0 8px;
+  font-size: 30px;
+  letter-spacing: 0;
 }
 
-.stats-grid {
+.analytics-subtitle {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.analytics-config {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 25px;
-  max-width: 1000px;
-  margin: 0 auto;
-  position: relative;
-  z-index: 1;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 10px;
+  margin: 22px 0;
+  align-items: center;
 }
 
-.stat-card {
-  background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  padding: 30px 20px;
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
+.analytics-input {
+  width: 100%;
+  height: 42px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
 }
 
-.stat-card:hover {
-  transform: translateY(-5px);
-  background: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+.analytics-button {
+  height: 42px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
 }
 
-.stat-card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1);
+.analytics-button.secondary {
+  background: #334155;
 }
 
-.stat-icon {
-  font-size: 2.5em;
-  margin-bottom: 15px;
-  display: block;
+.analytics-button:disabled {
+  opacity: .55;
+  cursor: wait;
 }
 
-.stat-label {
-  font-size: 1.1em;
-  font-weight: 600;
-  margin-bottom: 10px;
-  opacity: 0.9;
+.analytics-status {
+  min-height: 22px;
+  color: var(--muted);
+  font-size: 14px;
 }
 
-.stat-number {
-  font-size: 3em;
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0;
+}
+
+.metric-card,
+.analytics-section {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.metric-card {
+  padding: 16px;
+}
+
+.metric-label {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.metric-value {
+  margin-top: 8px;
+  font-size: 28px;
   font-weight: 800;
   line-height: 1;
-  margin-bottom: 8px;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
-.stat-desc {
-  font-size: 0.9em;
-  opacity: 0.7;
-  font-weight: 300;
+.analytics-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 360px);
+  gap: 14px;
+  margin-top: 16px;
 }
 
-.controls-section {
-  text-align: center;
-  margin: 40px 0;
+.analytics-section {
+  padding: 16px;
 }
 
-.btn {
-  display: inline-block;
-  padding: 12px 30px;
-  margin: 0 10px 10px 0;
-  border: none;
-  border-radius: 25px;
-  font-size: 14px;
-  font-weight: 600;
-  text-decoration: none;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+.section-title {
+  margin: 0 0 12px;
+  font-size: 18px;
 }
 
-.btn-primary {
-  background: linear-gradient(45deg, #007bff, #0056b3);
-  color: white;
+.table-wrap {
+  overflow-x: auto;
 }
 
-.btn-success {
-  background: linear-gradient(45deg, #28a745, #1e7e34);
-  color: white;
+.visit-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 760px;
 }
 
-.btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+.visit-table th,
+.visit-table td {
+  padding: 10px 8px;
+  border-bottom: 1px solid #edf1f6;
+  text-align: left;
+  vertical-align: top;
+  font-size: 13px;
 }
 
-.info-section {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 15px;
-  padding: 30px;
-  margin: 30px 0;
-  border-left: 5px solid #007bff;
-}
-
-.info-title {
-  color: #007bff;
-  font-size: 1.3em;
+.visit-table th {
+  color: #475569;
   font-weight: 700;
-  margin-bottom: 20px;
-  display: flex;
-  align-items: center;
+  background: #f8fafc;
+}
+
+.visit-table code {
+  white-space: nowrap;
+}
+
+.ranking {
+  display: grid;
   gap: 10px;
 }
 
-.info-list {
-  list-style: none;
-  padding: 0;
+.rank-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid #edf1f6;
 }
 
-.info-list li {
-  padding: 8px 0;
-  border-bottom: 1px solid rgba(0,123,255,0.1);
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
+.rank-row:last-child {
+  border-bottom: 0;
 }
 
-.info-list li:last-child {
-  border-bottom: none;
+.rank-name {
+  overflow-wrap: anywhere;
+  color: #334155;
 }
 
-.info-list li strong {
-  color: #007bff;
-  min-width: 100px;
+.rank-count {
+  color: var(--accent-2);
+  font-weight: 800;
 }
 
-@media (max-width: 768px) {
-  .stats-grid {
+.setup-note {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border: 1px solid #c7d2fe;
+  border-radius: 8px;
+  background: var(--soft);
+  color: #334155;
+  line-height: 1.8;
+}
+
+@media (max-width: 860px) {
+  .analytics-config,
+  .metrics-grid,
+  .analytics-layout {
     grid-template-columns: 1fr;
-    gap: 20px;
   }
-  
-  .stats-title {
-    font-size: 2em;
-  }
-  
-  .stat-number {
-    font-size: 2.5em;
-  }
-  
-  .btn {
-    display: block;
-    margin: 10px auto;
-    max-width: 200px;
-  }
-}
-
-/* 加载动画 */
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-
-.loading {
-  animation: pulse 1.5s ease-in-out infinite;
-}
-
-/* 估算数据标识 */
-.estimated-badge {
-  display: inline-block;
-  background: rgba(255, 193, 7, 0.2);
-  color: #ffc107;
-  padding: 2px 8px;
-  border-radius: 10px;
-  font-size: 10px;
-  font-weight: 600;
-  margin-top: 5px;
-  border: 1px solid rgba(255, 193, 7, 0.3);
 }
 </style>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div class="analytics-dashboard" id="visitor-dashboard">
+  <div class="analytics-hero">
+    <h1 class="analytics-title">网站访问统计</h1>
+    <p class="analytics-subtitle">查看最近访客、访问页面、来源、地区和设备。访客身份以浏览器生成的访客 ID 区分；如果没有登录系统，网站无法知道访问者真实姓名。</p>
+  </div>
 
-<script>
-// 增强的不蒜子统计处理
-(function() {
-    'use strict';
-    
-    var retryCount = 0;
-    var maxRetries = 5;
-    var checkInterval = 500;
-    
-    function updateStats() {
-        var pv = document.getElementById('busuanzi_value_site_pv');
-        var uv = document.getElementById('busuanzi_value_site_uv');
-        var pagePv = document.getElementById('busuanzi_value_page_pv');
-        
-        if (pv && pv.textContent && pv.textContent !== '加载中...' && pv.textContent !== '0') {
-            // 移除加载动画
-            document.querySelectorAll('.stat-number').forEach(function(el) {
-                el.classList.remove('loading');
-            });
-            return true;
-        }
-        return false;
-    }
-    
-    function checkBusuanzi() {
-        if (updateStats()) {
-            return;
-        }
-        
-        retryCount++;
-        if (retryCount < maxRetries) {
-            setTimeout(checkBusuanzi, checkInterval);
-        } else {
-            showEstimatedData();
-        }
-    }
-    
-    function showEstimatedData() {
-        var startDate = new Date('2023-01-01');
-        var currentDate = new Date();
-        var daysSince = Math.floor((currentDate - startDate) / (1000 * 60 * 60 * 24));
-        
-        var estimatedPV = Math.floor(daysSince * 120 + Math.random() * 1000);
-        var estimatedUV = Math.floor(estimatedPV * 0.35);
-        var pagePV = Math.floor(Math.random() * 20 + 5);
-        
-        var pv = document.getElementById('busuanzi_value_site_pv');
-        var uv = document.getElementById('busuanzi_value_site_uv');
-        var pagePvEl = document.getElementById('busuanzi_value_page_pv');
-        
-        if (pv) {
-            pv.textContent = estimatedPV.toLocaleString();
-            pv.parentElement.innerHTML += '<div class="estimated-badge">估算数据</div>';
-        }
-        if (uv) {
-            uv.textContent = estimatedUV.toLocaleString();
-            uv.parentElement.innerHTML += '<div class="estimated-badge">估算数据</div>';
-        }
-        if (pagePvEl) {
-            pagePvEl.textContent = pagePV.toLocaleString();
-            pagePvEl.parentElement.innerHTML += '<div class="estimated-badge">估算数据</div>';
-        }
-        
-        // 移除加载动画
-        document.querySelectorAll('.stat-number').forEach(function(el) {
-            el.classList.remove('loading');
-        });
-    }
-    
-    // 页面加载完成后开始检查
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', function() {
-            setTimeout(checkBusuanzi, 1000);
-        });
-    } else {
-        setTimeout(checkBusuanzi, 1000);
-    }
-    
-    // 手动刷新功能
-    window.refreshStats = function() {
-        retryCount = 0;
-        var elements = ['busuanzi_value_site_pv', 'busuanzi_value_site_uv', 'busuanzi_value_page_pv'];
-        elements.forEach(function(id) {
-            var el = document.getElementById(id);
-            if (el) {
-                el.textContent = '刷新中...';
-                el.parentElement.classList.add('loading');
-            }
-        });
-        
-        // 移除估算标识
-        document.querySelectorAll('.estimated-badge').forEach(function(badge) {
-            badge.remove();
-        });
-        
-        setTimeout(function() {
-            if (window.busuanzi && window.busuanzi.fetch) {
-                window.busuanzi.fetch();
-            }
-            checkBusuanzi();
-        }, 500);
-    };
-})();
-</script>
+  <div class="analytics-config">
+    <input class="analytics-input" id="analytics-token" type="password" autocomplete="current-password" placeholder="管理员口令">
+    <button class="analytics-button" id="analytics-load">查看数据</button>
+    <button class="analytics-button secondary" id="analytics-save">保存口令</button>
+  </div>
+  <div class="analytics-status" id="analytics-status"></div>
 
-<div class="stats-hero">
-  <h1 class="stats-title">📊 网站访问统计</h1>
-  <p class="stats-subtitle">实时追踪网站访问数据，见证每一次成长</p>
-  
-  <div class="stats-grid">
-    <div class="stat-card">
-      <div class="stat-icon">📈</div>
-      <div class="stat-label">总访问量</div>
-      <div class="stat-number loading">
-        <span id="busuanzi_container_site_pv">
-          <span id="busuanzi_value_site_pv">加载中...</span>
-        </span>
-      </div>
-      <div class="stat-desc">Page Views</div>
+  <div class="metrics-grid">
+    <div class="metric-card">
+      <div class="metric-label">总浏览量</div>
+      <div class="metric-value" id="metric-pageviews">-</div>
     </div>
-    
-<pre><code>&lt;div class=&quot;stat-card&quot;&gt;
-  &lt;div class=&quot;stat-icon&quot;&gt;👥&lt;/div&gt;
-  &lt;div class=&quot;stat-label&quot;&gt;总访客数&lt;/div&gt;
-  &lt;div class=&quot;stat-number loading&quot;&gt;
-    &lt;span id=&quot;busuanzi_container_site_uv&quot;&gt;
-      &lt;span id=&quot;busuanzi_value_site_uv&quot;&gt;加载中...&lt;/span&gt;
-    &lt;/span&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;stat-desc&quot;&gt;Unique Visitors&lt;/div&gt;
-&lt;/div&gt;
+    <div class="metric-card">
+      <div class="metric-label">独立访客</div>
+      <div class="metric-value" id="metric-visitors">-</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">今日浏览</div>
+      <div class="metric-value" id="metric-today-pageviews">-</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-label">今日访客</div>
+      <div class="metric-value" id="metric-today-visitors">-</div>
+    </div>
+  </div>
 
-&lt;div class=&quot;stat-card&quot;&gt;
-  &lt;div class=&quot;stat-icon&quot;&gt;🔥&lt;/div&gt;
-  &lt;div class=&quot;stat-label&quot;&gt;本页访问&lt;/div&gt;
-  &lt;div class=&quot;stat-number loading&quot;&gt;
-    &lt;span id=&quot;busuanzi_container_page_pv&quot;&gt;
-      &lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;加载中...&lt;/span&gt;
-    &lt;/span&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;stat-desc&quot;&gt;This Page&lt;/div&gt;
-&lt;/div&gt;
+  <div class="analytics-layout">
+    <section class="analytics-section">
+      <h2 class="section-title">最近访问</h2>
+      <div class="table-wrap">
+        <table class="visit-table">
+          <thead>
+            <tr>
+              <th>时间</th>
+              <th>访客</th>
+              <th>页面</th>
+              <th>地区</th>
+              <th>设备</th>
+              <th>来源</th>
+            </tr>
+          </thead>
+          <tbody id="recent-visits">
+            <tr><td colspan="6">输入管理员口令后加载数据。</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+<pre><code>&lt;aside class=&quot;analytics-section&quot;&gt;
+  &lt;h2 class=&quot;section-title&quot;&gt;热门页面&lt;/h2&gt;
+  &lt;div class=&quot;ranking&quot; id=&quot;top-pages&quot;&gt;&lt;/div&gt;
+  &lt;h2 class=&quot;section-title&quot; style=&quot;margin-top: 22px;&quot;&gt;来源&lt;/h2&gt;
+  &lt;div class=&quot;ranking&quot; id=&quot;top-referrers&quot;&gt;&lt;/div&gt;
+  &lt;h2 class=&quot;section-title&quot; style=&quot;margin-top: 22px;&quot;&gt;地区&lt;/h2&gt;
+  &lt;div class=&quot;ranking&quot; id=&quot;top-countries&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
 </code></pre>
+  </div>
+
+  <div class="setup-note">
+    部署后，把 Cloudflare Worker 地址配置到站点的 <code>VISITOR_ANALYTICS_ENDPOINT</code>。前端脚本会自动记录全站访问；本页只用管理员口令查询数据。
   </div>
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
-  <button onclick="refreshStats()" style="padding: 12px 24px; background: #007bff; color: white; border: none; border-radius: 25px; cursor: pointer; font-size: 14px; box-shadow: 0 4px 15px rgba(0,123,255,0.3); margin-right: 10px;">
-    🔄 刷新统计数据
-  </button>
-  <button onclick="location.reload()" style="padding: 12px 24px; background: #28a745; color: white; border: none; border-radius: 25px; cursor: pointer; font-size: 14px; box-shadow: 0 4px 15px rgba(40,167,69,0.3);">
-    🔄 重新加载页面
-  </button>
-</div>
+<script>
+(function () {
+  var defaultEndpoint = 'https://YOUR-WORKER-SUBDOMAIN.workers.dev';
+  var endpoint = window.VISITOR_ANALYTICS_ENDPOINT || defaultEndpoint;
+  var tokenInput = document.getElementById('analytics-token');
+  var statusEl = document.getElementById('analytics-status');
+  var loadButton = document.getElementById('analytics-load');
+  var saveButton = document.getElementById('analytics-save');
+  var tokenKey = 'tartarous_analytics_admin_token';
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #007bff;">
-  <h4 style="margin-top: 0; color: #007bff;">💡 统计数据说明</h4>
-  <ul style="margin-bottom: 0;">
-    <li><strong>实时数据</strong>：由不蒜子统计服务提供，可能需要几秒钟加载</li>
-    <li><strong>估算数据</strong>：如果统计服务暂时不可用，会显示基于网站运行时间的估算值</li>
-    <li><strong>数据更新</strong>：每次访问页面时会自动更新，也可以手动刷新</li>
-    <li><strong>统计开始</strong>：正式统计从2025年9月20日开始记录</li>
-  </ul>
-</div>
+  function text(id, value) {
+    document.getElementById(id).textContent = value == null ? '-' : Number(value).toLocaleString();
+  }
 
-<h2 id="📈-统计说明"><a href="#📈-统计说明" class="headerlink" title="📈 统计说明"></a>📈 统计说明</h2><ul>
-<li><strong>总访问量</strong>: 网站从建立以来的总页面浏览次数</li>
-<li><strong>总访客数</strong>: 网站从建立以来的独立访客数量  </li>
-<li><strong>本页访问</strong>: 当前页面的访问次数</li>
-</ul>
-<h2 id="🚀-快速开始"><a href="#🚀-快速开始" class="headerlink" title="🚀 快速开始"></a>🚀 快速开始</h2><p>如果你想为自己的网站添加类似的访问量统计，可以：</p>
-<ol>
-<li><p><strong>使用不蒜子统计</strong>（推荐）</p>
-<pre class="line-numbers language-markup" data-language="markup"><code class="language-markup"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">async</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+  function setStatus(message) {
+    statusEl.textContent = message || '';
+  }
 
-<span class="token comment">&lt;!-- 总访问量 --></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>busuanzi_container_site_pv<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
-  本站总访问量<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>busuanzi_value_site_pv<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span>次
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span>
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, function (char) {
+      return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char];
+    });
+  }
 
-<span class="token comment">&lt;!-- 总访客数 --></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>busuanzi_container_site_uv<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
-  本站访客数<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>busuanzi_value_site_uv<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span>人次
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p><strong>配置 Google Analytics</strong></p>
-</li>
-<li><p><strong>使用百度统计</strong></p>
-</li>
-<li><p><strong>自建统计系统</strong></p>
-</li>
-</ol>
-<h2 id="📊-数据说明"><a href="#📊-数据说明" class="headerlink" title="📊 数据说明"></a>📊 数据说明</h2><ul>
-<li>统计数据由不蒜子提供，采用本地存储 + 云端同步的方式</li>
-<li>数据更新可能有 1-2 分钟的延迟</li>
-<li>统计从 2025年9月20日 开始记录</li>
-</ul>
-<hr>
-<p><em>数据每次页面加载时实时更新，感谢不蒜子提供的免费统计服务</em></p>
+  function shortVisitor(value) {
+    return value ? value.slice(0, 8) + '...' : '-';
+  }
+
+  function renderRanking(id, rows) {
+    var el = document.getElementById(id);
+    if (!rows || !rows.length) {
+      el.innerHTML = '<div class="rank-row"><span class="rank-name">暂无数据</span><span class="rank-count">0</span></div>';
+      return;
+    }
+    el.innerHTML = rows.map(function (row) {
+      return '<div class="rank-row"><span class="rank-name">' + escapeHtml(row.name || 'Direct') + '</span><span class="rank-count">' + row.count + '</span></div>';
+    }).join('');
+  }
+
+  function renderVisits(visits) {
+    var tbody = document.getElementById('recent-visits');
+    if (!visits || !visits.length) {
+      tbody.innerHTML = '<tr><td colspan="6">暂无访问记录。</td></tr>';
+      return;
+    }
+    tbody.innerHTML = visits.map(function (visit) {
+      var time = new Date(visit.createdAt).toLocaleString();
+      var place = [visit.country, visit.region, visit.city].filter(Boolean).join(' / ') || '-';
+      var device = [visit.device, visit.os, visit.browser].filter(Boolean).join(' / ') || '-';
+      var referrer = visit.referrer ? visit.referrer.replace(/^https?:\/\//, '') : 'Direct';
+      return '<tr>' +
+        '<td><code>' + escapeHtml(time) + '</code></td>' +
+        '<td><code>' + escapeHtml(shortVisitor(visit.visitorId)) + '</code></td>' +
+        '<td>' + escapeHtml(visit.path || '/') + '</td>' +
+        '<td>' + escapeHtml(place) + '</td>' +
+        '<td>' + escapeHtml(device) + '</td>' +
+        '<td>' + escapeHtml(referrer) + '</td>' +
+      '</tr>';
+    }).join('');
+  }
+
+  async function loadData() {
+    var token = tokenInput.value.trim();
+    if (!token) {
+      setStatus('请先输入管理员口令。');
+      return;
+    }
+    if (!endpoint || endpoint === defaultEndpoint) {
+      setStatus('还没有配置 Worker 地址。请先部署 analytics-worker，并在 _config.shoka.yml 里替换地址。');
+      return;
+    }
+
+    loadButton.disabled = true;
+    setStatus('正在加载访问数据...');
+    try {
+      var response = await fetch(endpoint.replace(/\/$/, '') + '/api/summary', {
+        headers: { 'x-admin-token': token }
+      });
+      var data = await response.json();
+      if (!response.ok || !data.ok) throw new Error(data.error || '加载失败');
+
+      text('metric-pageviews', data.totals.pageviews);
+      text('metric-visitors', data.totals.visitors);
+      text('metric-today-pageviews', data.totals.todayPageviews);
+      text('metric-today-visitors', data.totals.todayVisitors);
+      renderVisits(data.recent);
+      renderRanking('top-pages', data.topPages);
+      renderRanking('top-referrers', data.referrers);
+      renderRanking('top-countries', data.countries);
+      setStatus('已更新：' + new Date().toLocaleString());
+    } catch (error) {
+      setStatus('加载失败：' + error.message);
+    } finally {
+      loadButton.disabled = false;
+    }
+  }
+
+  try {
+    tokenInput.value = localStorage.getItem(tokenKey) || '';
+  } catch (error) {}
+
+  loadButton.addEventListener('click', loadData);
+  saveButton.addEventListener('click', function () {
+    try {
+      localStorage.setItem(tokenKey, tokenInput.value.trim());
+      setStatus('口令已保存在当前浏览器。');
+    } catch (error) {
+      setStatus('当前浏览器不允许保存口令。');
+    }
+  });
+})();
+</script>
 
   </div>
 
@@ -567,7 +522,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">Edited on</span>
-    <time title="Modified: 2025-09-20 19:09:48" itemprop="dateModified" datetime="2025-09-20T19:09:48+08:00">2025-09-20</time>
+    <time title="Modified: 2026-07-26 20:23:41" itemprop="dateModified" datetime="2026-07-26T20:23:41+08:00">2026-07-26</time>
   </span>
 </div>
 
@@ -629,7 +584,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
   <div class="panels">
     <div class="inner">
       <div class="contents panel pjax" data-title="Contents">
-          <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">📊 网站访问统计</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link"><span class="toc-number">1.0.0.1.</span> <span class="toc-text">💡 统计数据说明</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%F0%9F%93%88-%E7%BB%9F%E8%AE%A1%E8%AF%B4%E6%98%8E"><span class="toc-number">1.1.</span> <span class="toc-text">📈 统计说明</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%F0%9F%9A%80-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B"><span class="toc-number">1.2.</span> <span class="toc-text">🚀 快速开始</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%F0%9F%93%8A-%E6%95%B0%E6%8D%AE%E8%AF%B4%E6%98%8E"><span class="toc-number">1.3.</span> <span class="toc-text">📊 数据说明</span></a></li></ol></li></ol>
+          <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#visitor-dashboard"><span class="toc-number">1.</span> <span class="toc-text">网站访问统计</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#visitor-dashboard"><span class="toc-number">1.1.</span> <span class="toc-text">最近访问</span></a></li></ol></li></ol>
       </div>
       <div class="related panel pjax" data-title="Related">
       </div>
@@ -741,7 +696,16 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <div class="breadcrumb">
 </div>
 
-    <span><a href="/%E8%87%AA%E5%AA%92%E4%BD%93/%E5%A6%82%E4%BD%95%E5%9C%A810%E5%A4%A9%E5%86%85%E5%85%A8%E7%BD%91%E6%B5%8F%E8%A7%88%E9%87%8F%E7%AA%81%E7%A0%B410w/" title="Untitled">Untitled</a></span>
+    <span><a href="/diary/2026%E5%B9%B41%E6%9C%884%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/diary/10%E6%9C%8811%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
   </li>
 
       
@@ -751,7 +715,36 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
 </div>
 
-    <span><a href="/diary/6%E6%9C%885%E6%97%A5%E4%B9%B1%E8%AE%B0/" title="6月5日乱记">6月5日乱记</a></span>
+    <span><a href="/diary/7%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/" title="7月19日日记">7月19日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
+</div>
+
+    <span><a href="/diary/7%E6%9C%8821%E6%97%A5%E6%97%A5%E8%AE%B0/" title="7月21日日记">7月21日日记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
+</div>
+
+    <span><a href="/diary/8%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
+    <span><a href="/life/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/" title="Untitled">Untitled</a></span>
   </li>
 
       
@@ -761,7 +754,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <a href="/categories/%E6%8A%80%E6%9C%AF/" title="In 技术">技术</a>
 </div>
 
-    <span><a href="/tech/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7/" title="kaggle泰坦尼克号问题">kaggle泰坦尼克号问题</a></span>
+    <span><a href="/tech/Kaggle/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%A4%AA%E7%A9%BA%E9%A3%9E%E8%88%B9/" title="泰坦尼克号太空飞船">泰坦尼克号太空飞船</a></span>
   </li>
 
       
@@ -770,7 +763,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <div class="breadcrumb">
 </div>
 
-    <span><a href="/diary/4%E6%9C%884%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
+    <span><a href="/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/%E5%AD%A6%E7%94%9F%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/" title="Untitled">Untitled</a></span>
   </li>
 
       
@@ -779,16 +772,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <div class="breadcrumb">
 </div>
 
-    <span><a href="/diary/10%E6%9C%8819%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/%E8%BF%9B%E7%BB%84/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%BB%84%E9%87%8C%E5%81%9A%E7%A7%91%E7%A0%94%EF%BC%9F/" title="Untitled">Untitled</a></span>
+    <span><a href="/diary/2026%E5%B9%B44%E6%9C%886%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
   </li>
 
       
@@ -798,34 +782,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <a href="/categories/%E6%8A%80%E6%9C%AF/" title="In 技术">技术</a>
 </div>
 
-    <span><a href="/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%AE%9E%E6%93%8D/%E7%AA%81%E5%87%BA%E4%BA%94%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA/" title="1.突出五个模型中的一个">1.突出五个模型中的一个</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/tech/%E5%AE%9E%E4%B9%A0/%E6%B2%B3%E5%8C%97%E9%9D%9E%E5%87%A1%E7%89%A9%E8%81%94%E7%BD%91/%E5%AE%9E%E4%B9%A0%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B/%E5%8F%91%E9%85%B5%E7%94%9F%E4%BA%A7%E4%B8%AD%E7%9A%84%E9%BB%84%E9%87%91%E6%89%B9%E6%AC%A1/" title="Untitled">Untitled</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/9%E6%9C%8827%E6%97%A5/" title="Untitled">Untitled</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/4%E6%9C%888%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
+    <span><a href="/tech/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/" title="markdown语法学习">markdown语法学习</a></span>
   </li>
 
   </ul>
@@ -912,6 +869,10 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
 
 <script src="/js/app.js?v=0.2.5"></script>
+<script>
+  window.VISITOR_ANALYTICS_ENDPOINT = "https://tartarous-visitor-analytics.tartarous-blog-3010383177.workers.dev";
+</script>
+<script defer src="/js/visitor-analytics.js"></script>
 
 
 
