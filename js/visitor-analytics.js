@@ -1,13 +1,12 @@
 (function () {
   'use strict';
 
-  var defaultEndpoint = 'https://YOUR-WORKER-SUBDOMAIN.workers.dev';
   var endpoint =
     window.VISITOR_ANALYTICS_ENDPOINT ||
     (document.querySelector('meta[name="visitor-analytics-endpoint"]') || {}).content ||
-    defaultEndpoint;
+    '';
 
-  if (!endpoint || endpoint === defaultEndpoint) return;
+  if (endpoint.indexOf('YOUR-WORKER-SUBDOMAIN') !== -1) return;
   if (/^(localhost|127\.0\.0\.1|192\.168\.)/.test(window.location.hostname)) return;
   if (navigator.doNotTrack === '1' || window.doNotTrack === '1') return;
 
@@ -54,7 +53,8 @@
 
   function send(eventName) {
     var body = JSON.stringify(payload(eventName));
-    var url = endpoint.replace(/\/$/, '') + '/api/track';
+    var apiBase = endpoint ? endpoint.replace(/\/$/, '') : '';
+    var url = apiBase + '/api/track';
 
     if (navigator.sendBeacon) {
       try {

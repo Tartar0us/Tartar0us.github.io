@@ -24,13 +24,15 @@
 <link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
   
+  <meta name="keywords" content="AI,实习,行业观察" />
+
 
 <link rel="canonical" href="https://tartar0us.github.io/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%92%8CchatBI%E6%9E%84%E5%BB%BA/">
 
 
 
   <title>
- |
+AI 智能体和 chatBI 构建 - 实习 |
 Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <meta name="generator" content="Hexo 7.3.0"></head>
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -58,16 +60,16 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
         <div id="brand">
           <div class="pjax">
           
-  <h1 itemprop="name headline">
+  <h1 itemprop="name headline">AI 智能体和 chatBI 构建
   </h1>
   
 <div class="meta">
-  <span class="item" title="Created: 2026-01-14 13:34:41">
+  <span class="item" title="Created: 2025-08-30 00:00:00">
     <span class="icon">
       <i class="ic i-calendar"></i>
     </span>
     <span class="text">Posted on</span>
-    <time itemprop="dateCreated datePublished" datetime="2026-01-14T13:34:41+08:00">2026-01-14</time>
+    <time itemprop="dateCreated datePublished" datetime="2025-08-30T00:00:00+08:00">2025-08-30</time>
   </span>
   <span class="item" title="Symbols count in article">
     <span class="icon">
@@ -115,12 +117,12 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giclx6phq6j20zk0m8e36.jpg"></li>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipesng5oej20zk0m87d4.jpg"></li>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gicli3sbvtj20zk0m8x6p.jpg"></li>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipey84bjtj20zk0m8hdt.jpg"></li>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giciszlczyj20zk0m816d.jpg"></li>
-          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gicit4jrvuj20zk0m8785.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
+          <li class="item" data-background-image="/images/preview.jpg"></li>
         </ul>
       </div>
     </header>
@@ -145,7 +147,9 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     
 <div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
 <i class="ic i-home"></i>
-<span><a href="/">Home</a></span>
+<span><a href="/">Home</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/internship/" itemprop="item" rel="index" title="In 实习"><span itemprop="name">实习</span></a>
+<meta itemprop="position" content="1" /></span>
 </div>
 
     <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
@@ -154,7 +158,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
   <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
     <meta itemprop="image" content="/images/avaaa.jpg">
     <meta itemprop="name" content="Tartar0us">
-    <meta itemprop="description" content="高台藏鼠辈，乡野卧麒麟, 你所厌恶的今天，是昨日死去之人苦苦奢望的明天">
+    <meta itemprop="description" content="高台藏鼠辈，乡野卧麒麟, 记录成长、学习、科研、实习、阅读和生活复盘的个人博客">
   </span>
 
   <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -189,8 +193,8 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <li>5.变量定义： 对动态信息</li>
 </ul>
 <h3 id="提示词示例：-角色"><a href="#提示词示例：-角色" class="headerlink" title="提示词示例：#角色"></a>提示词示例：#角色</h3><p>你是一名时间解读专家，可根据问题描述确定查询日期期间</p>
-<p>原始问题：<br>今天的日期为：1768368881313</p>
-<p>#任务<br>1.原始问题中没有日期查询区间，则补充查询期间，查询最近7天，比如查询2025年8月30日，则区间为2025年8月24日到2025年8月30日；<br>2.去除原始问题中寒暄、语气词等不正式的语气内容<br>3.完善日期，例如：昨日，前日，明日，以今天日期为1768368881313进行改写</p>
+<p>原始问题：<br>今天的日期为：1756483200000</p>
+<p>#任务<br>1.原始问题中没有日期查询区间，则补充查询期间，查询最近7天，比如查询2025年8月30日，则区间为2025年8月24日到2025年8月30日；<br>2.去除原始问题中寒暄、语气词等不正式的语气内容<br>3.完善日期，例如：昨日，前日，明日，以今天日期为1756483200000进行改写</p>
 <p>#输出<br>直接输出简单明了的有明确日期的问题，输出示例：查询2025年8月24日到2025年8月30日的指标数据</p>
 <h1 id="系统提示词（数据分析师）"><a href="#系统提示词（数据分析师）" class="headerlink" title="系统提示词（数据分析师）"></a>系统提示词（数据分析师）</h1><h2 id="任务职责"><a href="#任务职责" class="headerlink" title="任务职责"></a>任务职责</h2><ol>
 <li>你是专业数据分析师智能体，严格按照业务数据，输出含美观排版、多图表、归因分析的完整报告；禁止随意发散和捏造数据；并<em>严格遵守特别申明</em></li>
@@ -207,6 +211,11 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 <li>Msg是指 message</li>
 </ul>
 
+      <div class="tags">
+          <a href="/tags/AI/" rel="tag"><i class="ic i-tag"></i> AI</a>
+          <a href="/tags/%E5%AE%9E%E4%B9%A0/" rel="tag"><i class="ic i-tag"></i> 实习</a>
+          <a href="/tags/%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F/" rel="tag"><i class="ic i-tag"></i> 行业观察</a>
+      </div>
   </div>
 
    <footer>
@@ -217,7 +226,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">Edited on</span>
-    <time title="Modified: 2026-01-15 09:57:53" itemprop="dateModified" datetime="2026-01-15T09:57:53+08:00">2026-01-15</time>
+    <time title="Modified: 2026-07-27 14:09:35" itemprop="dateModified" datetime="2026-07-27T14:09:35+08:00">2026-07-27</time>
   </span>
 </div>
 
@@ -253,7 +262,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
   </li>
   <li class="link">
     <strong>Post link: </strong>
-    <a href="https://tartar0us.github.io/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%92%8CchatBI%E6%9E%84%E5%BB%BA/" title="">https://tartar0us.github.io/用友_佰工实习/AI智能体和chatBI构建/</a>
+    <a href="https://tartar0us.github.io/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%92%8CchatBI%E6%9E%84%E5%BB%BA/" title="AI 智能体和 chatBI 构建">https://tartar0us.github.io/用友_佰工实习/AI智能体和chatBI构建/</a>
   </li>
   <li class="license">
     <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> unless stating additionally.
@@ -272,20 +281,20 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     <div class="item left">
       
 
-  <a href="/diary/2026%E5%B9%B41%E6%9C%8814%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giclhpw3lwj20zk0m8gvw.jpg" title="2026年1月14日日记">
+  <a href="/diary/8%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="prev" data-background-image="&#x2F;images&#x2F;preview.jpg" title="2025年8月29日日记">
   <span class="type">Previous Post</span>
-  <span class="category"><i class="ic i-flag"></i> </span>
-  <h3>2026年1月14日日记</h3>
+  <span class="category"><i class="ic i-flag"></i> 日记</span>
+  <h3>2025年8月29日日记</h3>
   </a>
 
     </div>
     <div class="item right">
       
 
-  <a href="/diary/2026%E5%B9%B41%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gicm07ih54j20zk0m84qp.jpg" title="Untitled">
+  <a href="/diary/8%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" rel="next" data-background-image="&#x2F;images&#x2F;preview.jpg" title="2025年8月30日日记">
   <span class="type">Next Post</span>
-  <span class="category"><i class="ic i-flag"></i> </span>
-  <h3>Untitled</h3>
+  <span class="category"><i class="ic i-flag"></i> 日记</span>
+  <h3>2025年8月30日日记</h3>
   </a>
 
     </div>
@@ -307,13 +316,16 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
           <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#AI%E6%99%BA%E8%83%BD%E4%BD%93"><span class="toc-number">1.</span> <span class="toc-text">AI智能体</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%80%9A%E7%94%A8%E6%8A%80%E8%83%BD"><span class="toc-number">1.1.</span> <span class="toc-text">通用技能</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BB%99AI%E6%99%BA%E8%83%BD%E4%BD%93%E8%AE%BE%E7%BD%AE%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D"><span class="toc-number">1.2.</span> <span class="toc-text">给AI智能体设置的提示词</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%A4%BA%E4%BE%8B%EF%BC%9A-%E8%A7%92%E8%89%B2"><span class="toc-number">1.3.</span> <span class="toc-text">提示词示例：#角色</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%88%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%EF%BC%89"><span class="toc-number"></span> <span class="toc-text">系统提示词（数据分析师）</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BB%BB%E5%8A%A1%E8%81%8C%E8%B4%A3"><span class="toc-number">1.</span> <span class="toc-text">任务职责</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%99%BA%E8%83%BD%E4%BD%93%E7%AE%80%E4%BB%8B%EF%BC%88%E6%88%96%E8%80%85%E6%8F%8F%E8%BF%B0%EF%BC%8C%E4%B8%8D%E8%83%BD%E9%9A%8F%E4%BE%BF%E5%A1%AB%EF%BC%89%EF%BC%9A%E2%80%9C%E4%BD%A0%E6%98%AF%E4%B8%80%E4%B8%AAxxx%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%93%E5%AE%B6%EF%BC%8C%E6%93%85%E9%95%BFxxx%E2%80%9C"><span class="toc-number">1.0.1.</span> <span class="toc-text">智能体简介（或者描述，不能随便填）：“你是一个xxx领域的专家，擅长xxx“</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%B2%97%E4%BD%8D%E6%A0%87%E7%AD%BE%EF%BC%9A%E4%BE%8B%E5%A6%82%E2%80%9D%E5%AE%A2%E5%BC%80%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86"><span class="toc-number">1.0.2.</span> <span class="toc-text">岗位标签：例如”客开智能助理</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A6%81%E6%B1%82%EF%BC%9A%E6%B8%85%E6%99%B0%E3%80%81%E5%AE%8C%E6%95%B4%E3%80%81%E7%AE%80%E4%BB%8B"><span class="toc-number">2.</span> <span class="toc-text">提示词要求：清晰、完整、简介</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%9F%A5%E8%AF%86%E5%BA%93%E6%90%AD%E5%BB%BA"><span class="toc-number">3.</span> <span class="toc-text">知识库搭建</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%91%BD%E5%90%8D%E8%AF%B4%E6%98%8E"><span class="toc-number">3.1.</span> <span class="toc-text">命名说明</span></a></li></ol></li></ol>
       </div>
       <div class="related panel pjax" data-title="Related">
+        <ul>
+          <li><a href="/tech/%E5%AE%9E%E4%B9%A0/%E6%B2%B3%E5%8C%97%E9%9D%9E%E5%87%A1%E7%89%A9%E8%81%94%E7%BD%91/%E5%AE%9E%E4%B9%A0%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B/%E8%BD%B4%E6%89%BF%E6%95%85%E9%9A%9C%E5%BC%95%E5%87%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/" rel="bookmark" title="轴承故障的振动分析学习总结">轴承故障的振动分析学习总结</a></li><li><a href="/tech/%E5%AE%9E%E4%B9%A0/%E6%B2%B3%E5%8C%97%E9%9D%9E%E5%87%A1%E7%89%A9%E8%81%94%E7%BD%91/%E5%AE%9E%E4%B9%A0%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B/%E5%8F%91%E9%85%B5%E7%94%9F%E4%BA%A7%E4%B8%AD%E7%9A%84%E9%BB%84%E9%87%91%E6%89%B9%E6%AC%A1/" rel="bookmark" title="发酵生产中的黄金批次">发酵生产中的黄金批次</a></li><li><a href="/tech/%E5%AE%9E%E4%B9%A0/%E6%B2%B3%E5%8C%97%E9%9D%9E%E5%87%A1%E7%89%A9%E8%81%94%E7%BD%91/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/" rel="bookmark" title="第一次实习总结">第一次实习总结</a></li><li class="active"><a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%92%8CchatBI%E6%9E%84%E5%BB%BA/" rel="bookmark" title="AI智能体和chatBI构建">AI智能体和chatBI构建</a></li><li><a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E6%89%80%E9%9C%80%E6%8A%80%E6%9C%AF%E6%A0%88/" rel="bookmark" title="智能体搭建所需技术栈">智能体搭建所需技术栈</a></li><li><a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/python%E5%9F%BA%E7%A1%80/" rel="bookmark" title="python基础">python基础</a></li><li><a href="/%E6%9D%AD%E5%B7%9E-%E6%B5%99%E5%A4%A7%E4%B8%AD%E6%8E%A7%E5%AE%9E%E4%B9%A0/%E9%9D%A2%E8%AF%95/" rel="bookmark" title="面试">面试</a></li><li><a href="/%E6%9D%AD%E5%B7%9E-%E6%B5%99%E5%A4%A7%E4%B8%AD%E6%8E%A7%E5%AE%9E%E4%B9%A0/%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%91%A8%E6%8A%A5/" rel="bookmark" title="第二周周报">第二周周报</a></li>
+        </ul>
       </div>
       <div class="overview panel" data-title="Overview">
         <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <img class="image" itemprop="image" alt="Tartar0us"
       data-src="/images/avaaa.jpg">
   <p class="name" itemprop="name">Tartar0us</p>
-  <div class="description" itemprop="description">你所厌恶的今天，是昨日死去之人苦苦奢望的明天</div>
+  <div class="description" itemprop="description">记录成长、学习、科研、实习、阅读和生活复盘的个人博客</div>
 </div>
 
 <nav class="state">
@@ -325,13 +337,13 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     </div>
     <div class="item categories">
       <a href="/categories/">
-        <span class="count">7</span>
+        <span class="count">10</span>
         <span class="name">categories</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
-        <span class="count">32</span>
+        <span class="count">36</span>
         <span class="name">tags</span>
       </a>
     </div>
@@ -347,6 +359,11 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     
   <li class="item">
     <a href="/" rel="section"><i class="ic i-home"></i>Home</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>About</a>
   </li>
 
         
@@ -389,12 +406,12 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 
   <ul id="quick">
     <li class="prev pjax">
-        <a href="/diary/2026%E5%B9%B41%E6%9C%8814%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="prev" title="Previous Post"><i class="ic i-chevron-left"></i></a>
+        <a href="/diary/8%E6%9C%8829%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="prev" title="Previous Post"><i class="ic i-chevron-left"></i></a>
     </li>
     <li class="up"><i class="ic i-arrow-up"></i></li>
     <li class="down"><i class="ic i-arrow-down"></i></li>
     <li class="next pjax">
-        <a href="/diary/2026%E5%B9%B41%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="next" title="Next Post"><i class="ic i-chevron-right"></i></a>
+        <a href="/diary/8%E6%9C%8830%E6%97%A5%E6%97%A5%E8%AE%B0/" rel="next" title="Next Post"><i class="ic i-chevron-right"></i></a>
     </li>
     <li class="percent"></li>
   </ul>
@@ -409,109 +426,6 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
       <div class="inner">
         <div class="widgets">
           
-<div class="rpost pjax">
-  <h2>Random Posts</h2>
-  <ul>
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
-</div>
-
-    <span><a href="/diary/6%E6%9C%8822%E6%97%A5%E6%97%A5%E8%AE%B0/" title="6月22日日记">6月22日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
-</div>
-
-    <span><a href="/diary/7%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/" title="7月13日日记">7月13日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/12%E6%9C%882%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
-</div>
-
-    <span><a href="/diary/10%E6%9C%8813%E6%97%A5%E6%97%A5%E8%AE%B0/" title="10月13日日记">10月13日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/tech/%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%91%BD%E5%90%8D%E5%92%8C%E5%82%A8%E5%AD%98%E6%95%B0%E6%8D%AE/" title="Untitled">Untitled</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/2025%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%97%A5%E8%AE%B0/" title="2025年5月26日日记">2025年5月26日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/%E6%81%8B%E7%88%B1%E6%97%A5%E8%AE%B0/2026%E5%B9%B46%E6%9C%883%E6%97%A5%E6%81%8B%E7%88%B1%E6%97%A5%E8%AE%B0/" title="2026年6月3日恋爱日记">2026年6月3日恋爱日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E7%94%9F%E6%B4%BB/" title="In 生活">生活</a>
-</div>
-
-    <span><a href="/diary/9%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" title="9月15日日记">9月15日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/2026%E5%B9%B41%E6%9C%8812%E6%97%A5%E6%97%A5%E8%AE%B0/" title="2026年1月12日日记">2026年1月12日日记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/diary/4%E6%9C%889%E6%97%A5%E6%97%A5%E8%AE%B0/" title="Untitled">Untitled</a></span>
-  </li>
-
-  </ul>
-</div>
-<div>
-  <h2>Recent Comments</h2>
-  <ul class="leancloud-recent-comment"></ul>
-</div>
 
         </div>
         <div class="status">
@@ -528,7 +442,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="Symbols count total">202065 words</span>
+    <span title="Symbols count total">201992 words</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
@@ -591,7 +505,7 @@ Tartar0us = Tartar0us's Blog = 高台藏鼠辈，乡野卧麒麟</title>
 
 <script src="/js/app.js?v=0.2.5"></script>
 <script>
-  window.VISITOR_ANALYTICS_ENDPOINT = "https://tartarous-visitor-analytics.tartarous-blog-3010383177.workers.dev";
+  window.VISITOR_ANALYTICS_ENDPOINT = /\.github\.io$/i.test(window.location.hostname) ? "https://tartarous-visitor-analytics.tartarous-blog-3010383177.workers.dev" : "";
 </script>
 <script defer src="/js/visitor-analytics.js"></script>
 
