@@ -8,7 +8,7 @@
     <author>
       <name>Tartar0us</name>
     </author>
-    <updated>2026-07-25T16:00:00.000Z</updated>
+    <updated>2026-07-26T16:00:00.000Z</updated>
     <category term="Tartar0us" />
     <category term="个人博客" />
     <category term="成长复盘" />
@@ -17,6 +17,24 @@
     <category term="科研" />
     <category term="实习" />
     <category term="读书" />
+    <entry>
+        <id>https://tartar0us.github.io/diary/2026%E5%B9%B47%E6%9C%8827%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
+        <title>2026年7月27日日记</title>
+        <link rel="alternate" href="https://tartar0us.github.io/diary/2026%E5%B9%B47%E6%9C%8827%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
+        <content type="html">&lt;pre&gt;&lt;code&gt;今天也是体验到codex的威能了，真的很爽。之前kiro和deepseek都没解决的我的博客的访客记录问题给我一小会就解决了。当然工作进展也是十分顺利。已经推进到测试环节了。目前的小闭环已经跑通。明天进行测试规模扩大和钉钉提醒细化。
+但是说实话token消耗的也很多。今天一天就用完了一周的限量的百分之六十。非常舒爽。
+看了一下全公司所有部门的token使用量，累计是三千多亿。豆包跟我说大概是5000w美元。也就是说中控光给员工用ai就花了人民币将近四个亿了。。真的是大公司啊。
+项目组周四晚上要开组会，应该就是要汇报数据跑的情况，我要抓紧剩下可以用的codex的额度，把我的实验跑出来。目前有这个超强ai协助我，肯定会很舒服。
+晚上继续打王者。输一把赢一把一个多礼拜了。目前还是停留在钻石三。太坐牢了。。。只能说技术还是不过关。
+然后晚上一直刷抖音到三点多。最后还是没有经得起诱惑。买了55块钱的麦当劳小食套餐。吃完大概快四点了。看了徐言推荐的美剧《摩登家庭》确实很有意思，学到了jerk是混蛋的意思。
+然后就是感觉精神上，身体上都有点收到折磨了。一定要提前开始断网日。我决定就是这周六了。周五晚上五点到周六晚上五点，没错。
+其实我并不是一个完全自律的人。我终于也是体会到了减脂过程中暴饮暴食的诱惑。太恐怖了。吃的过程中很爽。但是吃一次就要花好多好多钱。还有就是胃疼。半夜吃这么多垃圾食品，还有特别凉的。本身就是对自己的身体非常不负责。以后坚决不能这样了。
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+        <category term="复盘" scheme="https://tartar0us.github.io/tags/%E5%A4%8D%E7%9B%98/" />
+        <updated>2026-07-26T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://tartar0us.github.io/diary/2026%E5%B9%B47%E6%9C%8826%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
         <title>2026年7月26日日记</title>
@@ -148,9 +166,9 @@
 </content>
         <category term="生活" scheme="https://tartar0us.github.io/categories/life/" />
         <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
+        <category term="计划" scheme="https://tartar0us.github.io/tags/%E8%AE%A1%E5%88%92/" />
         <category term="健康" scheme="https://tartar0us.github.io/tags/%E5%81%A5%E5%BA%B7/" />
         <category term="阅读" scheme="https://tartar0us.github.io/tags/%E9%98%85%E8%AF%BB/" />
-        <category term="计划" scheme="https://tartar0us.github.io/tags/%E8%AE%A1%E5%88%92/" />
         <updated>2026-07-24T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -440,16 +458,5 @@
         <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
         <category term="复盘" scheme="https://tartar0us.github.io/tags/%E5%A4%8D%E7%9B%98/" />
         <updated>2026-06-24T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://tartar0us.github.io/diary/2026%E5%B9%B46%E6%9C%8824%E6%97%A5%E6%97%A5%E8%AE%B0/</id>
-        <title>2026年6月24日日记</title>
-        <link rel="alternate" href="https://tartar0us.github.io/diary/2026%E5%B9%B46%E6%9C%8824%E6%97%A5%E6%97%A5%E8%AE%B0/"/>
-        <content type="html">&lt;p&gt;昨天晚上只睡了他妈的四个半小时。主要是为了复习今天上午九点的代数与微积分期末考试&lt;br&gt;	考完试陈总来一起自习了。&lt;br&gt;	然后中午吃完饭打开教务处，很久之前数理统计就出成绩了。但是我一直没敢看。最后感觉这几科目都崩掉了，就打开看了一下，78分，对我的绩点来说是一个比较大的冲击。但是我也没有办法改变他了。好像我的绩点目前已经快掉到3.5了。已经到3.58了。跟我今年初确定的3.8的目标渐行渐远。但是下学期我也不打算重修了。感觉有点耽误时间，自己当助导也不一定有时间能重新学习一些之前没学过的东西。&lt;br&gt;	感觉自己期末月过去这么久，最大的一个感触就是。一定不要把事情往后拖。。虽然之前就知道自己有拖延症。但是这次确实是很麻烦的。因为切实体会到了，马上明天就要考试了。科目还没怎么复习，突然学生工作或者其他的地方来个什么事。这就直接崩了。&lt;br&gt;		现在开始有计划地准备剩下的考试。一定要为自己的学业成绩负责。虽然已经很难搞了，但是如果不搞还有很大的风险挂科（抽象代数）一定要抓紧剩下的时间。加油吧张正烨。唉&lt;br&gt;		然后就是专注于自己的事情。不要管别人怎么想，说什么。要活在自己的世界里。不要活在别人的世界里。d&lt;/p&gt;
-</content>
-        <category term="日记" scheme="https://tartar0us.github.io/categories/diary/" />
-        <category term="成长" scheme="https://tartar0us.github.io/tags/%E6%88%90%E9%95%BF/" />
-        <category term="复盘" scheme="https://tartar0us.github.io/tags/%E5%A4%8D%E7%9B%98/" />
-        <updated>2026-06-23T16:00:00.000Z</updated>
     </entry>
 </feed>

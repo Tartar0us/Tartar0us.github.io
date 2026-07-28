@@ -59,7 +59,7 @@
             <a href="/" class="logo" rel="start"><p class="artboard">Tartar0us</p>
               <h1 itemprop="name headline" class="title">Tartar0us's Blog</h1>
             </a>
-            <p class="meta" itemprop="description">= 魂牽夢繞風雲盪，心圓土方三界壇。 =</p>
+            <p class="meta" itemprop="description">= 今朝劍指疊雲處，煉蠱煉人還煉天。 =</p>
           
           </div>
         </div>
@@ -117,6 +117,55 @@
           
   <div class="index wrap">
     <div class="segments posts">
+        
+<article class="item">
+  <div class="cover">
+    <a href="/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/" itemprop="url" title="实验时序建模实验"><img data-src="/images/preview.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="Created: 2026-03-06 00:00:00">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2026-03-06T00:00:00+08:00">2026-03-06</time>
+  </span>
+  <span class="item" title="Symbols count in article">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>3928</span>
+    <span class="text">words</span>
+  </span>
+  <span class="item" title="Reading time">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>4 mins.</span>
+  </span>
+</div>
+
+    <h3><a href="/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/" itemprop="url" title="实验时序建模实验">实验时序建模实验</a></h3>
+    <div class="excerpt">
+        一、你现在在跑的”最终版实验”是什么？实验名（你以后论文里就这么叫）：
+
+ResNet50 + Temporal Attention Pooling(Backbone Frozen, Cross-Entropy Loss)
+
+对照对象：
+在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。跑了20轮
+meanpooling![[Pasted image 20260122205651.png]]
+时序注意力![[Pasted...
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/research/" itemprop="url" title="科研"><i class="ic i-flag"></i>科研</a>
+      </span>
+    </div>
+    <a href="/%E8%BF%9B%E7%BB%84/%E5%AE%9E%E9%AA%8C%E6%97%B6%E5%BA%8F%E5%BB%BA%E6%A8%A1%E5%AE%9E%E9%AA%8C/" itemprop="url" title="实验时序建模实验" class="btn">more...</a>
+  </div>
+</article>
+
         
 <article class="item">
   <div class="cover">
@@ -550,60 +599,6 @@
   </div>
 </article>
 
-        
-<article class="item">
-  <div class="cover">
-    <a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价"><img data-src="/images/preview.jpg"></a>
-  </div>
-  <div class="info">
-    
-<div class="meta">
-  <span class="item" title="Created: 2026-01-21 00:00:00">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <time itemprop="dateCreated datePublished" datetime="2026-01-21T00:00:00+08:00">2026-01-21</time>
-  </span>
-  <span class="item" title="Symbols count in article">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span>5102</span>
-    <span class="text">words</span>
-  </span>
-  <span class="item" title="Reading time">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span>5 mins.</span>
-  </span>
-</div>
-
-    <h3><a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价">AI对时序注意力低loss的评价</a></h3>
-    <div class="excerpt">
-        这不是“还不错”，这是 非常好，而且是可以直接写进论文的结果。我先给你结论，再教你怎么用它。
-
-一、一句话结论（你先记住这句）
-在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。
-
-这句话你现在就已经有资格说了。
-
-二、我们把你的结果“读懂”（非常关键）你这 20 个 epoch 的 loss 曲线非常“教科书级”：
-1️⃣ 初始阶段（Epoch 1–3）8.04 → 6.56 → 5.84
-
-从 完全不可学
-
-到...
-    </div>
-    <div class="meta footer">
-      <span>
-        <a href="/categories/research/" itemprop="url" title="科研"><i class="ic i-flag"></i>科研</a>
-      </span>
-    </div>
-    <a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价" class="btn">more...</a>
-  </div>
-</article>
-
     </div>
 
   </div>
@@ -639,7 +634,7 @@
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">280</span>
+        <span class="count">281</span>
         <span class="name">posts</span>
       </a>
     </div>
@@ -749,7 +744,7 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="Symbols count total">201992 words</span>
+    <span title="Symbols count total">202615 words</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
