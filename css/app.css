@@ -3913,6 +3913,22 @@ main >.inner {
   display: block;
   transition: all 0.2s ease-in-out 0s;
 }
+#search-hits .item strong {
+  display: block;
+  margin: 0.25rem 0;
+}
+#search-hits .item p {
+  color: var(--grey-6);
+  font-size: 85%;
+  margin: 0.25rem 0;
+  line-height: 1.7;
+}
+#search-hits .item small {
+  color: var(--grey-5);
+  display: block;
+  font-size: 70%;
+  margin-top: 0.25rem;
+}
 #search-hits .item span {
   font-size: 70%;
   display: block;
