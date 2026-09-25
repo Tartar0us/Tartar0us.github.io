@@ -59,7 +59,7 @@
             <a href="/" class="logo" rel="start"><p class="artboard">Tartar0us</p>
               <h1 itemprop="name headline" class="title">Tartar0us's Blog</h1>
             </a>
-            <p class="meta" itemprop="description">= 鴻運齊天福祿多，天下不過一掌中。 =</p>
+            <p class="meta" itemprop="description">= 面朝黃土背朝天，萬千生靈繫心間。 =</p>
           
           </div>
         </div>
@@ -117,6 +117,108 @@
           
   <div class="index wrap">
     <div class="segments posts">
+        
+<article class="item">
+  <div class="cover">
+    <a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价"><img data-src="/images/preview.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="Created: 2026-01-21 00:00:00">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2026-01-21T00:00:00+08:00">2026-01-21</time>
+  </span>
+  <span class="item" title="Symbols count in article">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>5.1k</span>
+    <span class="text">words</span>
+  </span>
+  <span class="item" title="Reading time">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>5 mins.</span>
+  </span>
+</div>
+
+    <h3><a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价">AI对时序注意力低loss的评价</a></h3>
+    <div class="excerpt">
+        这不是“还不错”，这是 非常好，而且是可以直接写进论文的结果。我先给你结论，再教你怎么用它。
+
+一、一句话结论（你先记住这句）
+在冻结 backbone 的条件下，引入轻量级时序注意力后，模型在 MARS 数据集上从随机水平稳定收敛，Cross-Entropy loss 从 8.04 下降至 1.48，显著优于简单时序平均的 baseline。
+
+这句话你现在就已经有资格说了。
+
+二、我们把你的结果“读懂”（非常关键）你这 20 个 epoch 的 loss 曲线非常“教科书级”：
+1️⃣ 初始阶段（Epoch 1–3）8.04 → 6.56 → 5.84
+
+从 完全不可学
+
+到...
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/research/" itemprop="url" title="科研"><i class="ic i-flag"></i>科研</a>
+      </span>
+    </div>
+    <a href="/%E8%BF%9B%E7%BB%84/AI%E5%AF%B9%E6%97%B6%E5%BA%8F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%BD%8Eloss%E7%9A%84%E8%AF%84%E4%BB%B7/" itemprop="url" title="AI对时序注意力低loss的评价" class="btn">more...</a>
+  </div>
+</article>
+
+        
+<article class="item">
+  <div class="cover">
+    <a href="/%E8%BF%9B%E7%BB%84/%E5%A6%82%E4%BD%95%E8%AF%BB%E5%A5%BD%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87/" itemprop="url" title="如何科研"><img data-src="/images/preview.jpg"></a>
+  </div>
+  <div class="info">
+    
+<div class="meta">
+  <span class="item" title="Created: 2026-01-20 00:00:00">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <time itemprop="dateCreated datePublished" datetime="2026-01-20T00:00:00+08:00">2026-01-20</time>
+  </span>
+  <span class="item" title="Symbols count in article">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span>246</span>
+    <span class="text">words</span>
+  </span>
+  <span class="item" title="Reading time">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span>1 mins.</span>
+  </span>
+</div>
+
+    <h3><a href="/%E8%BF%9B%E7%BB%84/%E5%A6%82%E4%BD%95%E8%AF%BB%E5%A5%BD%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87/" itemprop="url" title="如何科研">如何科研</a></h3>
+    <div class="excerpt">
+        每一篇论文，你只回答 5 个问题（写下来）你现在开始看任何一篇 ReID &amp;#x2F; 时序论文，只问：
+1️⃣ 它解决的“问题句”是什么？（不是方法，是一句话问题）
+2️⃣ 它默认了哪些前提？（比如：序列够长 &amp;#x2F; backbone 弱 &amp;#x2F; 需要复杂时序）
+3️⃣ 它真正做的事是哪一步？（backbone？聚合？训练策略？）
+4️⃣ 如果我换一个前提，这结论还成立吗？（比如换成大模型）
+5️⃣ 它有没有一个实验“其实不充分”？
+论文笔记论文名称：核心问题（一句话）：默认前提：主要方法：关键实验：我怀疑的地方：
+    </div>
+    <div class="meta footer">
+      <span>
+        <a href="/categories/research/" itemprop="url" title="科研"><i class="ic i-flag"></i>科研</a>
+      </span>
+    </div>
+    <a href="/%E8%BF%9B%E7%BB%84/%E5%A6%82%E4%BD%95%E8%AF%BB%E5%A5%BD%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87/" itemprop="url" title="如何科研" class="btn">more...</a>
+  </div>
+</article>
+
         
 <article class="item">
   <div class="cover">
@@ -486,94 +588,6 @@
   </div>
 </article>
 
-        
-<article class="item">
-  <div class="cover">
-    <a href="/diary/2026%E5%B9%B41%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" title="2026年1月15日日记"><img data-src="/images/preview.jpg"></a>
-  </div>
-  <div class="info">
-    
-<div class="meta">
-  <span class="item" title="Created: 2026-01-15 00:00:00">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <time itemprop="dateCreated datePublished" datetime="2026-01-15T00:00:00+08:00">2026-01-15</time>
-  </span>
-  <span class="item" title="Symbols count in article">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span>577</span>
-    <span class="text">words</span>
-  </span>
-  <span class="item" title="Reading time">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span>1 mins.</span>
-  </span>
-</div>
-
-    <h3><a href="/diary/2026%E5%B9%B41%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" title="2026年1月15日日记">2026年1月15日日记</a></h3>
-    <div class="excerpt">
-        实习今天感觉不能只学哥给我的资料和公司目前存在的意图流，因为是用的公司的低代码平台，担心换一个就不会了。所以后面开始自己学python有关ai智能体的部分了。了解了一下基本语法。我感觉我现在学东西都是太不深入了。如果一直这样下去肯定不会有很大的建树。所以明天开始逐渐攻克python的难题。睡觉之前一会再写一个小脚本，给陈总玩一下，类似一个galgame不能一会再写，现在说写就写！简单写了一下，用了今天学的f-string，还挺有意思的。目前来看我每天使用电脑的时间超长了。以后得控制一下了。要不会影响视力。白天一直在看电脑，回宿舍之后还在用电脑。但是说实在的我终于知道为什么江沛每天要一直盯着电脑...
-    </div>
-    <div class="meta footer">
-      <span>
-        <a href="/categories/diary/" itemprop="url" title="日记"><i class="ic i-flag"></i>日记</a>
-      </span>
-    </div>
-    <a href="/diary/2026%E5%B9%B41%E6%9C%8815%E6%97%A5%E6%97%A5%E8%AE%B0/" itemprop="url" title="2026年1月15日日记" class="btn">more...</a>
-  </div>
-</article>
-
-        
-<article class="item">
-  <div class="cover">
-    <a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E6%89%80%E9%9C%80%E6%8A%80%E6%9C%AF%E6%A0%88/" itemprop="url" title="智能体搭建所需技术栈"><img data-src="/images/preview.jpg"></a>
-  </div>
-  <div class="info">
-    
-<div class="meta">
-  <span class="item" title="Created: 2026-01-15 00:00:00">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <time itemprop="dateCreated datePublished" datetime="2026-01-15T00:00:00+08:00">2026-01-15</time>
-  </span>
-  <span class="item" title="Symbols count in article">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span>1.3k</span>
-    <span class="text">words</span>
-  </span>
-  <span class="item" title="Reading time">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span>1 mins.</span>
-  </span>
-</div>
-
-    <h3><a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E6%89%80%E9%9C%80%E6%8A%80%E6%9C%AF%E6%A0%88/" itemprop="url" title="智能体搭建所需技术栈">智能体搭建所需技术栈</a></h3>
-    <div class="excerpt">
-        1. Python（绝对核心）Python 是 AI 智能体开发的第一选择，也是绝大多数场景的首选语言，原因如下：
-
-生态优势：拥有最丰富的 AI&amp;#x2F;ML 库（如 TensorFlow&amp;#x2F;PyTorch&amp;#x2F;Transformers 用于模型调用、LangChain&amp;#x2F;LlamaIndex 用于智能体框架、NumPy&amp;#x2F;Pandas 用于数据处理）；
-易用性：语法简洁，开发效率高，适合快速迭代智能体的核心逻辑（如任务规划、工具调用、记忆管理）；
-兼容性：能无缝对接各类大模型...
-    </div>
-    <div class="meta footer">
-      <span>
-        <a href="/categories/internship/" itemprop="url" title="实习"><i class="ic i-flag"></i>实习</a>
-      </span>
-    </div>
-    <a href="/%E7%94%A8%E5%8F%8B_%E4%BD%B0%E5%B7%A5%E5%AE%9E%E4%B9%A0/%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E6%89%80%E9%9C%80%E6%8A%80%E6%9C%AF%E6%A0%88/" itemprop="url" title="智能体搭建所需技术栈" class="btn">more...</a>
-  </div>
-</article>
-
     </div>
 
   </div>
@@ -609,7 +623,7 @@
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">289</span>
+        <span class="count">290</span>
         <span class="name">posts</span>
       </a>
     </div>
@@ -724,13 +738,13 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="Symbols count total">211501 words</span>
+    <span title="Symbols count total">214621 words</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="Reading time total">3:12</span>
+    <span title="Reading time total">3:15</span>
   </div>
   <div class="busuanzi">
     <span class="post-meta-item-icon">
